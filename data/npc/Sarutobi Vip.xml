@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Sarutobi" script="data/npc/scripts/trocamoedas.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="1188" head="123" body="74" legs="123" feet="0" addons="2"/>
+<parameters>
+<parameter key="message_greet" value="Olá |PLAYERNAME|, deseja trocar seus scrolls ? {scroll 10 vip coin}, {scroll 25 vip coin},{scroll 50 vip coin},"/>
+</parameters>
+</npc>

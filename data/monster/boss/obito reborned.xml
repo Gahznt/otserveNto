@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Obito Reborned" nameDescription="a obito reborned" race="blood" experience="1000" speed="700" manacost="390">
+	<health now="45000" max="45000"/>
+	<look type="1562" head="113" body="120" legs="114" feet="132"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="ObitoKill"/>            
+        </script>
+	<attacks>
+		<attack name="dropfire" interval="1500" chance="1000" range="4" min="-600" max="-750">
+		</attack>
+		<attack name="kamuizao" interval="2750" chance="1000" range="4" min="-800" max="-1000">
+		</attack>
+		<attack name="blackchidorao" interval="3250" chance="1000" range="4" min="-1250" max="-1500">
+		</attack>
+		<attack name="fireskelet" interval="4400" chance="1000" range="4" min="-3450" max="-4200">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1000" max="1300"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="4000" chance="100" min="3000" max="3500"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="8000" chance="100" min="7500" max="9000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="30000" chance="100" min="13000" max="15000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

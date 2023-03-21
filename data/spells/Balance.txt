@@ -1,0 +1,112 @@
+oiaPontos de Missao
+
+
+--------------------  Dano Minimo Jutsus
+Organizações 3 K + 6 k + 10 k 
+Graduações  1 K + 2 K + 3K + 4K
+XP PARA LV 60 ATÉ 61 = 175 K
+
+
+Speed = 220 + Lv x 10  ( Lv 10 = 320, 20 = 420, 30 = 520, 40 = 620, 50 = 720, 60 = 820, 70 = 920, 80 = 1020, 90 = 1120, 100 = 1220, 110 = 1320 ) 
+
+ Anbu / Akat  = 3 Dias Diaria = 2 Pontos
+ Otsutsuki = 9 Dias
+ Hokage = 20 Dias 
+	ou 
+ Anbu / Akat  = 6 Dias Diaria = 1 Ponto
+ Otsutsuki = 18 Dias
+ Hokage = 40 Dias 
+
+Respawn Kaguya acada 12 Horas = 2 Formados Otsutsuki por dia
+
+SPEED DO CHAKRA FEET = 10 SEGUNDOS PRA 30 DE EXAUSTED
+
+---------------------------------------------------------------------
+	Dano Min					- Formula		|	DANO Total Lv 100 + ML 150 em Monstro 
+0 		= 25~50					- Throw			|
+1 		= 75~100				- Throw			|
+2 	(10)= 150~200				- Primeira		|
+3 	(20)= 400~600				- 1				|
+4 	(30)= 600~800				- 2 			|		
+5 	(40)= 800~1000  			- 3				|		
+6 	(50)= 1200~1400 			- 4				|		
+7 	(55)= 1400~1600				- 5				|	    
+8 	(60)= 1600~1800				- 8				|		
+9 	(65)= 1600~1800				- 9				|		
+10	(70) = 1600~1800			- 10			|		
+
+------------------ Boss Monsters  -----------------------------------
+Life = 8x Dano Jutsu  | Dano = Testing
+
+------------------ Monsters Quest -----------------------------------
+Life = Dano Max do Jutsu x 5 | Dano = Cura do Set + Heal 2000 ms
+                      
+Lv 10 =  Life = ~500 | Dano = +- 150 by 3000ms
+Lv 20 =  Life = 2000 | Dano = +- 300 by 3000ms
+Lv 30 =  Life = 4000 | Dano = +- 500 by 3000ms
+Lv 40 =  Life = 6000 | Dano = +- 700 by 3000ms
+
+
+--------------------  Monsters Hunts ------------------------------------|
+Life = Dano Max  Jutsu x 3  / 	  Dano = Melee = Set  + Jutsu = Set
+		
+0	= 150					|	10 ~ 20    
+5 	= 300					|	25 ~ 30 
+10  = 600					|	50 ~ 75 
+20  = 1800					|	150 ~ 175   
+30  = 3600 					|	200 ~ 250
+40  = 6800					|	300 ~ 350
+50  = 12400					|	450 ~ 550
+60  = 18300					|	1000 ~ 1250 
+70  = 22400					|	1250 ~ 1500
+80  = 26600					|	2500 ~ 2750
+90  = 33600					|	300 ~ 3250
+100 =						|	5 ~ 1200
+
+--------------------  Player Info -------------------------------------------
+
+
+						Regen 50 % Set + 50 % Jutsu
+						Set Demora 10 Segundos P Regen Full Life = 10 % da vida por segundo
+						Set = 50 % da Cura então Jutsu = 10 % da Vida total + 5 %
+						
+						
+Lv 1 = 100 Life		|	Set = 20p/s  		Jutsu = 50 ~ 75   Total = Set	|
+Lv 10 = 1 k Life	|	Set = 40p/s 										|
+lv 20 = 2 k Life	|	Set = 80p/s 		Jutsu = 225 ~ 250				|
+lv 30 = 3 k Life	|	Set = 160p/s 										|
+lv 40 = 4 k Life	|	Set = 240p/s 		Jutsu = 500 ~ 750				|	
+lv 50 = 5 k Life	|	Set = 320p/s 										|
+lv 60 = 9 k Life	|	Set = 480p/s 		Jutsu = 1000 ~ 1500				|
+lv 70 = 10 k Life	|	Set = 600p/s 										|		
+lv 80 = 17 k Life	|	Set = 720p/s 		Jutsu = 2500 ~ 3000				|
+lv 90 = 18 k Life	|	Set = 900p/s 										|
+lv 100 = 19 k Life	|	Set = 1040p/s 										|		
+lv 110 = 30 k Life  |   Set =  X5000
++ 10 K GRADU 
+
+--------------------  CORES  ------------------------------------------------
+
+setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_BROWN)
+
+COLOR_BLACK = 0
+COLOR_BLUE = 5
+COLOR_GREEN = 18
+COLOR_LIGHTGREEN = 66
+COLOR_DARKBROWN = 78
+COLOR_LIGHTBLUE = 89
+COLOR_MAYABLUE = 95
+COLOR_DARKRED = 108
+COLOR_DARKPURPLE = 112
+COLOR_BROWN = 120
+COLOR_GREY = 129
+COLOR_TEAL = 143
+COLOR_DARKPINK = 152
+COLOR_PURPLE = 154
+COLOR_DARKORANGE = 156
+COLOR_RED = 180
+COLOR_PINK = 190
+COLOR_ORANGE = 192
+COLOR_DARKYELLOW = 205
+COLOR_YELLOW = 210
+COLOR_WHITE = 215

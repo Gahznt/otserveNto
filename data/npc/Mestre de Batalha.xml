@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mestre de Batalhas" script="data/npc/scripts/default.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="325" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Olá |PLAYERNAME| Tenho um desafio para você ! Ao clicar na Alavanca voce iniciará sua Batalha Diaria que contém 12 Oponentes ! Cada um com sua recompensa e ao derrotar todos, você ganha { 1 } {ponto} {de} {missão}!" />
+  </parameters>
+</npc>

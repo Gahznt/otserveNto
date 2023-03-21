@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Edo Itachi" nameDescription="edo itachi" race="blood" experience="90" speed="820" manacost="0">
+	<health now="125000" max="125000"/>
+	<look type="322" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<attacks>
+		<attack name="blackamaterasu" interval="750" chance="1000" range="4" min="-425" max="-650">
+		</attack>
+		<attack name="obitocorvo" interval="1250" chance="1000" range="4" min="-425" max="-650">
+		</attack>
+		<attack name="tsukitachi" interval="3750" chance="1000" range="4" min="-1200" max="-1400">
+		</attack>
+		<attack name="sharingakut" interval="2350" chance="1000" range="4" min="-1000" max="-1250">
+		</attack>
+		<attack name="corvaiada" interval="6000" chance="1000" target="0" radius="3" min="-3300" max="-3600">
+		</attack>
+		<attack name="itachizao" interval="4750" chance="1000" range="4" min="-1500" max="-2500">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0"/>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence="X!"/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

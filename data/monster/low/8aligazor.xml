@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Aligazor" nameDescription="Aligazor" race="blood" experience="2500" speed="980" manacost="0">
+	<health now="51400" max="51400"/>
+	<look type="1216" head="0" body="94" legs="79" feet="79" corpse="2908"/>
+	<targetchange interval="1500" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	
+	<attacks>
+		<attack name="melee" interval="1000" min="-750" max="-1000"/>
+		<attack name="zcocobra" interval="7500" chance="1000" range="1" min="-3300" max="-3500">
+		</attack>		
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="10000" chance="50" min="7" max="20">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	
+	<loot>
+	<item id="2148" countmax="12" chance="30000"/> <!-- Ryo  -->
+	<item id="10563" countmax="2" chance="30000"/> 30 % : Biju Stone
+	<item id="10565" countmax="2" chance="30000"/> 30 % : Crystal
+	<item id="10566" countmax="1" chance="30000"/> 30 % : Biju Egg
+	</loot>
+</monster>

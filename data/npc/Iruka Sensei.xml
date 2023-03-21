@@ -1,0 +1,7 @@
+<npc name="Iruka Sensei" script="data/npc/scripts/trocagraduacao.lua" walkinterval="2000" speed="0" floorchange="0">
+    <health now="1000" max="1000"/>
+<look type="215" head="0" body="86" legs="0" feet="38" addons="1"/>
+  <parameters>
+    <parameter key="message_greet" value="Olá |PLAYERNAME| apresente-me o certificado para que você possa receber sua recompensa. {certificado genin}, {certificado chunin}, {certificado jounin}, {certificado kage}." />
+  </parameters>
+</npc>  

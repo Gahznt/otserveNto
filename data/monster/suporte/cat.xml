@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Cat" nameDescription="a cat" race="blood" experience="10" speed="400" manacost="390">
+	<health now="100" max="100"/>
+	<look type="1087" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="0"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="3"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="90"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="500" skill="0" attack="0"/>
+	</attacks>
+		<defenses armor="1" defense="1">
+		<defense name="healing" interval="10000" chance="100" min="100000" max="3000000">
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="50">
+		<voice sentence="Meeow!"/>
+		<voice sentence="Meeeeeow!"/>
+	</voices>
+	<voices interval="5000" chance="10">
+		<voice sentence="Humano burro!"/>
+	</voices>
+	<loot>
+	</loot>
+</monster>
+

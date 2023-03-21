@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Bee da Akatsuki [Troca]" script="data/npc/scripts/trocabiju2.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="885" head="123" body="74" legs="123" feet="0" addons="2"/>
+<parameters>
+<parameter key="message_greet" value="Ola |PLAYERNAME|, Eu tenho uma proposta para voce, aceito 100 Hachibi Tail em troca de um Hachibi selado em um {Kohaku no Johei}.!!"/>
+</parameters>
+</npc>

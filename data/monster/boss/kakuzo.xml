@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kakuzo" nameDescription="a kakuzo" race="blood" experience="2750" speed="720" manacost="390">
+	<health now="9800" max="9800"/>
+	<look type="634" head="113" body="120" legs="114" feet="132"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="KakuzoKill"/>            
+        </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-150" max="-200"/>
+		<attack name="zeagua" interval="2000" chance="1000" range="1" min="-175" max="-225">
+		</attack>
+		<attack name="earthshock" interval="3000" chance="1000" range="1" min="-175" max="-225">
+		</attack>
+		<attack name="powfire" interval="4000" chance="1000" range="1" min="-225" max="-275">
+		</attack>
+		<attack name="fuutonatsuga" interval="5000" chance="1000" range="1" min="-250" max="-300">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="175" max="225"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="6000" chance="100" min="1000" max="1200"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="9000" chance="100" min="1250" max="1500"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="40000" chance="100" min="3250" max="4500"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+	<summons maxSummons="3">
+    <summon name="Igurumasuku" interval="10000" chance="100" max="1"/>
+	<summon name="Burumasuku" interval="10000" chance="100" max="1"/>
+	<summon name="Taigamasuku" interval="10000" chance="100" max="1"/>
+  </summons>
+</monster>

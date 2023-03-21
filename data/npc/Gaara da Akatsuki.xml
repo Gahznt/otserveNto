@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Gaara da Akatsuki [Troca]" script="data/npc/scripts/trocabiju3.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="905" head="123" body="74" legs="123" feet="0" addons="2"/>
+<parameters>
+<parameter key="message_greet" value="Ola |PLAYERNAME|, Eu tenho uma proposta para voce, aceito 100 Shukaku Nail em troca de um Shukaku selado em um {Kohaku no Johei}.!!"/>
+</parameters>
+</npc>

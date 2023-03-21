@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Madara Boss" nameDescription="a madara boss" race="blood" experience="90" speed="620" manacost="0">
+	<health now="145000" max="145000"/>
+	<look type="1207" head="113" body="120" legs="114" feet="132"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<script>
+    <event name="teleportmonster"/>
+    </script> 
+	<attacks>
+		<attack name="deepcetre" interval="1000" min="-350" max="-375"/>
+		<attack name="lightfireball" interval="2000" chance="1000" range="4" min="-400" max="-450">
+		</attack>
+		<attack name="blackamaterasu" interval="3250" chance="1000" range="4" min="-500" max="-550">
+		</attack>
+		<attack name="katongokao" interval="3750" chance="1000" range="4" min="-550" max="-600">
+		</attack>
+		<attack name="meteor" interval="6250" chance="1000" range="4" min="-1000" max="-1500">
+		</attack>
+		<attack name="bigpurpleball" interval="8750" chance="1000" range="4" min="-1000" max="-2000">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0"/>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence="X!"/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

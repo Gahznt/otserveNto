@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Madara Battle" nameDescription="madara battle" race="blood" experience="15000" speed="500" manacost="0">
+	<health now="145000" max="145000"/>
+	<look type="1026" head="0" body="94" legs="79" feet="79" />
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	
+	<attacks>
+		<attack name="deepcetre" interval="500" min="-350" max="-375"/>
+		<attack name="lightfireball" interval="1000" chance="1000" range="4" min="-400" max="-450">
+		</attack>
+		<attack name="blackamaterasu" interval="1250" chance="1000" range="4" min="-500" max="-550">
+		</attack>
+		<attack name="katongokao" interval="2750" chance="1000" range="4" min="-550" max="-600">
+		</attack>
+		<attack name="fogarel" interval="4200" chance="1000" target="0" radius="6" min="-3000" max="-5000">
+		</attack>
+		<attack name="meteor" interval="5250" chance="1000" range="4" min="-2500" max="-3500">
+		</attack>
+		<attack name="bigpurpleball" interval="6750" chance="1000" range="4" min="-3000" max="-3500">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1300" max="1500"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="4000" chance="100" min="2500" max="3000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="10000" chance="100" min="12000" max="14000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="45000" chance="100" min="28000" max="34000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<script>
+    <event name="teleportmonster"/>
+    </script> 
+</monster>

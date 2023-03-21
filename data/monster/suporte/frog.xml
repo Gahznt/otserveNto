@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Frog" nameDescription="a frog" race="blood" experience="4" speed="320" manacost="390">
+	<health now="600" max="600"/>
+	<look type="1091" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="3"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="90"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="500" skill="0" attack="0"/>
+	</attacks>
+	<defenses armor="0" defense="0"/>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence="X!"/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

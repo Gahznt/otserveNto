@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Mizuki" nameDescription="a mizuki" race="blood" experience="0" speed="320" manacost="390">
+	<health now="600" max="600"/>
+	<look type="160" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="MizukiKill"/>            
+        </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-15" max="-25"/>
+		<attack name="physical" interval="3000" chance="100" range="7" min="-20" max="-30">
+		<attribute key="shootEffect" value="SHIVERARROW"/>
+	  </attack>
+		<attack name="physical" interval="5000" chance="100" range="7" min="-30" max="-40">
+		<attribute key="shootEffect" value="SHIVERARROW"/>
+	  </attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="2000" chance="100" min="20" max="25">
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="6000" chance="100" min="75" max="125">
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="100">
+		<voice sentence="Eu Quero o Pergaminhoo !"/>
+		<voice sentence="Você nunca será um genin !"/>
+		<voice sentence="Você é Inútil, Traga o Pergaminho !"/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

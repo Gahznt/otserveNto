@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Lee Battle" nameDescription="lee battle" race="blood" experience="0" speed="500" manacost="0">
+	<health now="22000" max="22000"/>
+	<look type="747" head="0" body="94" legs="79" feet="79"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	
+	<attacks>
+		<attack name="melee" interval="1000" min="-200" max="-300"/>
+			<attack name="goukin" interval="1000" chance="1000" range="2" target="1" min="-350" max="-400">
+		</attack> 	
+			<attack name="chutelee" interval="1250" chance="1000" range="2" target="1" min="-400" max="-500">
+		</attack>
+			<attack name="omotelee" interval="3500" chance="1000" range="2" target="1" min="-550" max="-600">
+		</attack>		
+			<attack name="fynalee" interval="4250" chance="1000" range="2" target="1" min="-600" max="-700">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="3000" chance="100" min="500" max="600"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="9000" chance="100" min="3200" max="3500"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<script>
+    <event name="teleportmonster"/>
+    </script> 
+</monster>

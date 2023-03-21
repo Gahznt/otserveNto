@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Shikamaru" script="data/npc/scripts/registro.lua" walkinterval="0" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="1020" head="0" body="0" legs="0" feet="0" addons="0"/>
+<parameters>
+<parameter key="message_greet" value="Olá |PLAYERNAME| Que tal alterar seu registro e se mudar para outra cidade ? posso te alocar em {Konoha},{Suna},{Getsugakure} ! Custo : 10 Gold"/>
+</parameters>
+</npc>

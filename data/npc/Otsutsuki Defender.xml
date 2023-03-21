@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<npc name="Otsutsuki Defender" script="data/npc/scripts/otsutsuki defender.lua" access="3" lookdir="2" walkinterval="2000">
+   <mana now="800" max="800"/>
+   <health now="200" max="200"/>
+<look type="1033" head="115" body="76" legs="35" feet="117" addons="1" corpse="6080"/>
+<parameters>
+ <parameter key="message_greet" value="Olá |PLAYERNAME|, para entrar nesse local voce precisa provar que é capaz!  Para isso traga-me {100} {Moon Stone} conquistado derrotando as criaturas que rondam nosso castelo ! {entregar} "/>
+   </parameters>
+</npc>

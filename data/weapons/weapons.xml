@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weapons>
+	<melee id="2376" script="slayer.lua"> <!-- -->
+	</melee>
+	<melee id="11424" script="shibuki.lua"> <!-- -->
+	</melee>
+	<melee id="7869" script="zabuza.lua"> <!-- -->
+	</melee>
+	<melee id="2440" script="flame.lua"> <!-- -->
+	</melee>
+	<melee id="134" script="dragao.lua"> <!-- -->
+	</melee>
+	<melee id="2516" script="raikage.lua"> <!-- -->
+	</melee>
+	<melee id="2442" script="pharaoh.lua"> <!-- -->
+	</melee>
+	<melee id="2413" script="samehada.lua"> <!-- -->
+	</melee>
+	<melee id="133" script="obscure.lua"> <!-- -->
+	</melee>
+	<melee id="2644" script="garras.lua"> <!-- -->
+	</melee>
+	<melee id="11330" script="izanami.lua"> <!-- -->
+	</melee>
+	<melee id="11331" script="kurama.lua"> <!-- -->
+	</melee>
+	<melee id="8927" script="susanosw.lua"> <!-- -->
+	</melee>
+	<distance id="11434" script="cetre.lua"> <!-- -->
+	</distance>
+	<distance id="11332" script="susanoarch.lua"> <!-- -->
+	</distance>
+</weapons>

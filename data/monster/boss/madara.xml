@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Madara" nameDescription="a madara" race="blood" experience="25000" speed="1120" manacost="390">
+	<health now="145000" max="145000"/>
+	<look type="1026" head="113" body="120" legs="114" feet="132"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="MadaraKill"/>            
+        </script>
+	<attacks>
+		<attack name="deepcetre" interval="500" min="-350" max="-375"/>
+		<attack name="lightfireball" interval="2000" chance="1000" range="4" min="-800" max="-1050">
+		</attack>
+		<attack name="blackamaterasu" interval="2250" chance="1000" range="4" min="-750" max="-850">
+		</attack>
+		<attack name="katongokao" interval="3750" chance="1000" range="4" min="-1050" max="-1300">
+		</attack>
+		<attack name="fogarel" interval="5200" chance="1000" target="0" radius="6" min="-4000" max="-6000">
+		</attack>
+		<attack name="meteor" interval="9250" chance="1000" range="4" min="-5500" max="-7500">
+		</attack>
+		<attack name="bigpurpleball" interval="12750" chance="1000" range="4" min="-6000" max="-11500">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1300" max="1500"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="8000" chance="100" min="5000" max="6000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="16000" chance="100" min="20000" max="25000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="40000" chance="100" min="55000" max="75000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

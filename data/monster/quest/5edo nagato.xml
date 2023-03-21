@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Edo Nagato" nameDescription="a edo nagato" race="blood" experience="100" speed="420" manacost="390">
+	<health now="130000" max="130000"/>
+	<look type="867" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />		
+	</flags>
+	
+	<script>
+		<event name="NagatoKill"/>            
+	</script>
+		
+	<attacks>
+		<attack name="melee" interval="1000" min="-125" max="-150"/> 
+		<attack name="sakon" interval="2000" chance="1000" range="3" min="-225" max="-250">
+		</attack> 
+		<attack name="bolachakra" interval="3000" chance="1000" range="3" min="-225" max="-250">
+		</attack> 
+		<attack name="zokoku" interval="4250" chance="1000" range="3" min="-225" max="-250">
+		</attack> 
+		<attack name="linguanagato" interval="6750" chance="1000" range="3" min="-800" max="-1250">
+		</attack>
+		<attack name="nagatao" interval="9250" chance="1000" target="0" radius="6" min="-1500" max="-3500">
+		</attack>
+	</attacks>
+	
+	<defenses armor="0" defense="0">
+	</defenses>
+	
+	<summons maxSummons="6">
+		<summon name="Pain One" interval="5000" chance="100" max="1"/>
+		<summon name="Pain Two" interval="5000" chance="100" max="1"/>
+		<summon name="Pain Three" interval="5000" chance="100" max="1"/>
+		<summon name="Pain Four" interval="5000" chance="100" max="1"/>
+		<summon name="Pain Five" interval="5000" chance="100" max="1"/>
+		<summon name="Pain Six" interval="5000" chance="100" max="1"/>
+	</summons>
+	
+</monster>

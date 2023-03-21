@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Roshi" nameDescription="a roshi" race="blood" experience="50000" speed="1120" manacost="390">
+	<health now="1250000" max="1250000"/>
+	<look type="1376" head="113" body="120" legs="114" feet="132"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="3"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<script>
+            <event name="teleportmonster"/>       
+        </script>
+	<attacks>
+		<attack name="fireshot" interval="500" min="-350" max="-375"/>
+		<attack name="zlava" interval="2000" chance="1000" range="4" min="-2800" max="-3050">
+		</attack>
+		<attack name="zokoku" interval="1250" chance="50" range="4" min="-2750" max="-3850">
+		</attack>
+		<attack name="furierasengan" interval="7250" chance="50" range="4" min="-7500" max="-8050">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1300" max="1500"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="8000" chance="100" min="5000" max="6000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<summons maxSummons="1">
+    <summon name="Yonbi Roshi" interval="10000" chance="100" max="1"/>
+	</summons>
+	<loot>
+	</loot>
+</monster>

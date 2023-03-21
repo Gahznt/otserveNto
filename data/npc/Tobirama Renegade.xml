@@ -1,0 +1,7 @@
+<npc name="Tobirama Renegade" script="data/npc/scripts/sell/tobirama.lua" walkinterval="1000000" floorchange="0">
+    <health now="1000" max="1000"/>
+<look type="1521" head="0" body="86" legs="0" feet="38" addons="1"/>
+  <parameters>
+    <parameter key="message_greet" value="Ei |PLAYERNAME|, nao restara nenhum ! {trade}" />
+  </parameters>
+</npc>  

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monsters>
+	<!--Hokage	-->
+	<monster name="Hashirama Hokage" file="hokage/hashirama.xml"/>
+	<monster name="Tobirama Hokage" file="hokage/tobirama.xml"/>
+	<monster name="Sarutobi Hokage" file="hokage/sarutobi.xml"/>
+	<monster name="Minato Hokage" file="hokage/minato.xml"/>
+	<monster name="Tsunade Hokage" file="hokage/tsunade.xml"/>
+	<monster name="Kakashi Hokage" file="hokage/kakashi.xml"/>
+    <!--Quests -->
+	<monster name="Bunshin" file="clone.xml"/>
+	<monster name="Kage Bunshin" file="kurama bunshin.xml"/>
+	<monster name="Nidaime Bunshin" file="nidaime bunshin.xml"/>
+	<monster name="Garuda Clone" file="kuchy/garuda.xml"/>
+	
+	<!-- Bijus Confinadas -->
+	<monster name="Shukaku" file="bijuconfinada/shukaku.xml"/>
+	<monster name="Matatabi" file="bijuconfinada/matatabi.xml"/>
+	<monster name="Isobu" file="bijuconfinada/isobu.xml"/>
+	<monster name="Yonbi" file="bijuconfinada/yonbi.xml"/>
+	<monster name="Gobi" file="bijuconfinada/gobi.xml"/>
+	<monster name="Saiken" file="bijuconfinada/saiken.xml"/>
+	<monster name="Shichibi" file="bijuconfinada/1shichibi.xml"/>
+	<monster name="Hachibi" file="bijuconfinada/hachibi.xml"/>
+	<monster name="Kyuubi" file="bijuconfinada/kyuubi.xml"/>
+	
+	<!-- Bijus Recando -->
+	<monster name="Shukaku no Miwaku" file="bijurecanto/shukaku.xml"/>
+	<monster name="Matatabi no Miwaku" file="bijurecanto/matatabi.xml"/>
+	<monster name="Isobu no Miwaku" file="bijurecanto/isobu.xml"/>
+	<monster name="Yonbi no Miwaku" file="bijurecanto/yonbi.xml"/>
+	<monster name="Gobi no Miwaku" file="bijurecanto/gobi.xml"/>
+	<monster name="Saiken no Miwaku" file="bijurecanto/saiken.xml"/>
+	<monster name="Schichibi no Miwaku" file="bijurecanto/1shichibi.xml"/>
+	<monster name="Hachibi no Miwaku" file="bijurecanto/hachibi.xml"/>
+	<monster name="Kyuubi no Miwaku" file="bijurecanto/kyuubi.xml"/>
+	
+	<monster name="Yonbi Roshi" file="quest/yonbi.xml"/>
+	<!-- BATTLE Monsters -->	
+	
+	<monster name="Naruto Battle" file="battle/naruto.xml"/>
+	<monster name="Sasuke Battle" file="battle/sasuke.xml"/>
+	<monster name="Neji Battle" file="battle/neji.xml"/>
+	<monster name="Lee Battle" file="battle/lee.xml"/>
+	<monster name="Gaara Battle" file="battle/gaara.xml"/>
+	<monster name="Zabuza Battle" file="battle/zabuza.xml"/>
+	<monster name="Kisame Battle" file="battle/kisame.xml"/>
+	<monster name="Deidara Battle" file="battle/deidara.xml"/>
+	<monster name="Itachi Battle" file="battle/itachi.xml"/>
+	<monster name="Madara Battle" file="battle/madara.xml"/>
+	<monster name="Kaguya Battle" file="battle/kaguya.xml"/>
+	<monster name="Rikkudo Battle" file="battle/rikkudo.xml"/>
+
+
+	<monster name="Zabuza Boss" file="boss/zabuza boss.xml"/>
+	<monster name="Raikage Boss" file="boss/raikage boss.xml"/>
+	
+	 <!--Area Monsters -->
+	<monster name="Bee Swarm" file="low/0bee swarm.xml"/>420
+	<monster name="Snake" file="low/0snake.xml"/>47
+	<monster name="Cobra" file="low/0cobra.xml"/>81
+	<monster name="Sand Crew" file="low/0sand crew.xml"/>109
+	<monster name="Sand Spider" file="low/0sand spider.xml"/>243
+	<monster name="Chakra Wolf" file="low/0chakra wolf.xml"/>327
+	<monster name="Bear" file="low/0bear.xml"/>1170
+	<monster name="Dark Wolf" file="low/0dark wolf.xml"/>1071
+	<monster name="Tiger" file="low/0tiger.xml"/>1073
+	<monster name="Salamander" file="low/0salamander.xml"/>1326
+	 <!--Lv 10 -->
+	
+	<monster name="Elite Thief" file="quest/1elite thief.xml"/> 44
+	<monster name="Armed Thief" file="quest/1armed thief.xml"/> 248
+	<monster name="Grey Spider" file="quest/1grey spider.xml"/> 388
+
+	 <!--Lv 20 -->
+	<monster name="Sound Shinobi" file="quest/2sound shinobi.xml"/>117
+	<monster name="Kidomaru" file="quest/2kidomaru.xml"/>720
+	<monster name="Jirobo Renegade" file="quest/2jirobo renegade.xml"/> 686
+	<monster name="Tayuya" file="quest/2tayuya.xml"/>29
+	<monster name="Dosu Kinuta" file="quest/2dosu kinuta.xml"/>683
+	<monster name="Sakon And Ukon" file="quest/2sakonukon.xml"/> 115
+	<monster name="Kimimaru Boss" file="quest/2kimimaru.xml"/> 1064
+	
+	<!--Lv 30 -->
+	<monster name="Scorpion" file="quest/3scorpion.xml"/> 1082
+	<monster name="Venom Snake" file="quest/3venom snake.xml"/> 647
+	<monster name="Giant Snake" file="quest/3giant snake.xml"/> 646
+	<monster name="Egypt Scorpion" file="quest/3egypt scorpion.xml"/> 1428
+	<monster name="Egypt Mummy" file="quest/3egypt mummy.xml"/> 1427
+	<monster name="Kugutsu" file="quest/3kugutsu.xml"/> 1305
+	<monster name="Mode Hiruko" file="quest/3mode hiruko.xml"/> 1312 
+	<monster name="Sandaime Kazekage" file="quest/3sandaime kazekage.xml"/> 1306
+	<monster name="Sasori Boss" file="quest/3sasori.xml"/> 1310
+	
+	<!--Lv 40 -->	
+	
+	<monster name="Nukenin" file="quest/4nukenin.xml"/>331
+	<monster name="Akatsuki Subordinate" file="quest/4akatsuki subordinate.xml"/>613
+	<monster name="White Zetsu" file="quest/4white zetsu.xml"/>
+	<monster name="Otsutsuki Subordinate" file="quest/4otsutsuki subordinate.xml"/>542
+	<monster name="Gamahiro Boss" file="quest/4gamahiroboss.xml"/>1248
+	<monster name="Gamaken Boss" file="quest/4gamakenboss.xml"/>1249
+	<monster name="Mutated Dog" file="quest/4mutated dog.xml"/>1242
+	<monster name="Mutated" file="quest/4mutated.xml"/>1217
+	<monster name="Obito Subordinate" file="quest/4obito subordinate.xml"/>1338
+	<monster name="Madara Boss" file="quest/4madara boss.xml"/>1026
+
+	<!--Lv 50 -->
+
+	<monster name="Guard I" file="quest/5guard i.xml"/>1124
+	<monster name="Guard II" file="quest/5guard ii.xml"/>1125
+	<monster name="Zetsu Black White" file="quest/5zetsu.xml"/>657
+	<monster name="Edo Hidan" file="quest/5edo hidan.xml"/>567
+	<monster name="Edo Nagato" file="quest/5edo nagato.xml"/>865
+	<monster name="Edo Sasori" file="quest/5edo sasori.xml"/>383
+	<monster name="Edo Deidara" file="quest/5edo deidara.xml"/>
+	<monster name="Edo Itachi" file="quest/5edo itachi.xml"/>322
+	<monster name="Edo Madara" file="quest/5edo madara.xml"/>1205
+	<monster name="Kabuto Boss" file="quest/5kabuto boss.xml"/>810
+	
+	
+	<!--Lv 60 -->
+	<monster name="Rainbow Bat" file="quest/6rainbown bat.xml"/>1340
+	<monster name="Suiton Bat" file="quest/6suiton bat.xml"/>1340
+	<monster name="Ashura" file="quest/6ashura.xml"/>1340
+	<monster name="Indra" file="quest/6indra.xml"/>1633
+	<monster name="Yamata" file="quest/6yamata.xml"/>1633
+	<monster name="Sasuke Mode Otsutsuki" file="quest/6sasuke.xml"/>1630
+	<monster name="Toneri Mode Otsutsuki" file="quest/6toneri.xml"/>1634
+	
+	<!--Shield -->
+	<monster name="Hell Monster" file="quest/66hell monster.xml"/>1454
+	<monster name="Black Zetsu" file="quest/66black zetsu.xml"/>1481
+	
+	<monster name="Roshi" file="quest/roshi.xml"/>
+	
+	<!--Distance -->
+	<monster name="Black Assassin" file="quest/black assassin.xml"/>246
+	<monster name="Master Archer" file="quest/master archer.xml"/>252
+	<monster name="Strong Archer" file="quest/strong archer.xml"/>248
+	
+	<!-- Boss Drop -->
+	<monster name="Old Madara" file="drop/old madara.xml"/>
+	<monster name="Obito Reborned" file="boss/obito reborned.xml"/>
+	<monster name="Sasuke The Last" file="drop/sasuke the last.xml"/>
+	<monster name="Susano Bunshin" file="boss/susano bunshin.xml"/>
+	<monster name="Toneri" file="boss/toneri.xml"/>
+	<monster name="Kaguya" file="drop/kaguya.xml"/>
+	<monster name="Hagoromo" file="drop/hagoromo.xml"/>
+	<monster name="Shisui" file="drop/shisui.xml"/>
+	
+	<monster name="Ultimate Dragon" file="drop/ultimate dragon.xml"/>
+	<monster name="King Octopus" file="drop/octopus king.xml"/>
+	<monster name="Indra Renegade" file="drop/indra.xml"/>
+	
+	<monster name="Victory Naruto" file="drop/victory naruto.xml"/>
+	<!--Support -->
+	
+	<monster name="Puppet" file="suporte/treiner.xml"/> 
+	<monster name="Enchanted Puppet" file="suporte/treiner house.xml"/>
+	<monster name="Test" file="suporte/test.xml"/>		
+	<monster name="Cat" file="suporte/cat.xml"/>
+	
+	<!--Hunts -->
+	
+	<monster name="Mouse" file="suporte/mouse.xml"/>  							<!-- Life= 100    Xp= 1 Dano = 5~10   Speed = 220 -->	<!-- LV 1  EXP : 1,2,3 --> x 20 = 20 ~ 60
+	<monster name="Bat" file="suporte/bat.xml"/>								<!-- Life= 150    Xp= 2 Dano = 10~20  Speed = 120-->
+	<monster name="Spider" file="suporte/spider.xml"/>							<!-- Life= 175   Xp= 3 Dano = 20~30  Speed = 120 -->
+	<monster name="Frog" file="suporte/frog.xml"/>								<!-- Life= 600   Xp= 4 Dano = 0     Speed = 220 -->
+	<monster name="Grub" file="suporte/grub.xml"/>								<!-- Life= 600   Xp= 5 Dano = 30~60  Speed = 220 -->
+	
+	<monster name="Thief" file="low/1thief.xml"/> 								<!-- Life= 500   Xp= 10  Dano = 25 ~ 40  Speed = 220 -->   <!-- LV 10  EXP : 15 --> x 17 250
+	<monster name="Thief Shinobi" file="low/1thief shinobi.xml"/>				<!-- Life= 550   Xp= 12 Dano = 30 ~ 60  Speed = 220-->			
+	<monster name="Strong Thief" file="low/1strong thief.xml"/>					<!-- Life= 600   Xp= 14 Dano = 40 ~ 60  Speed = 220-->			
+	<monster name="Assassin" file="low/1assassin.xml"/>							<!-- Life= 600   Xp= 12 Dano = 25 ~ 40  Speed = 220-->				
+	<monster name="Felon Assassin" file="low/1felon assassin.xml"/>				<!-- Life= 650   Xp= 14 Dano = 30 ~ 60  Speed = 220 -->				
+	<monster name="Armed Assassin" file="low/1armed assassin.xml"/>				<!-- Life= 700   Xp= 16 Dano = 40 ~ 60 Speed = 220-->			
+	<monster name="Poison Spider" file="low/1poison spider.xml"/>				<!-- Life= 600   Xp= 14 Dano = 30 ~ 60  Speed = 220-->		
+	
+	<monster name="Subordinate" file="low/2subordinate.xml"/>					<!-- Life= 1600   Xp= 30 Dano = 70 ~ 100  Speed = 320-->	<!-- LV 20  EXP = 30 --> x 15 500
+	<monster name="Unknown Shinobi" file="low/2unknown shinobi.xml"/>			<!-- Life= 1800  Xp= 35 Dano = 70 ~ 100  Speed = 320-->		
+	<monster name="Water Shinobi" file="low/2water shinobi.xml"/>				<!-- Life= 1400   Xp= 20 Dano = 60 ~ 75  Speed = 320-->							
+	<monster name="Cursed Young" file="low/2cursed young.xml"/>					<!-- Life= 1700   Xp= 30 Dano = 70 ~ 100  Speed = 320-->	
+	<monster name="Cursed Kekkei" file="low/2cursed kekkei.xml"/>   			<!-- Life= 1700   Xp= 30 Dano = 70 ~ 100  Speed = 320-->		
+	
+	<monster name="Fire Shinobi" file="low/3fire shinobi.xml"/>					<!-- Life= 2400  Xp= 50 Dano = 115 ~ 125  Speed = 420-->	<!-- LV 30 EXP = 60 --> x 13 750
+	<monster name="Fire Master" file="low/3fire master.xml"/>					<!-- Life= 2800  Xp= 55 Dano = 125 ~ 175  Speed = 420-->			
+	<monster name="Lizard" file="low/3lizard.xml"/>								<!-- Life= 2000  Xp= 60 Dano = 115 ~ 125  Speed = 320-->		
+	<monster name="Strong Cursed" file="low/3strong cursed.xml"/> 				<!-- Life= 2400  Xp= 55 Dano = 125 ~ 175  Speed = 420-->
+	<monster name="Elite Cursed" file="low/3elite cursed.xml"/> 				<!-- Life= 2800  Xp= 60 Dano = 125 ~ 175  Speed = 420-->
+	<monster name="Bocune" file="low/3bocune.xml"/> 1441						<!-- Life= 2000  Xp= 65 Dano = 115 ~ 125  Speed = 520-->
+	
+	<monster name="Suiton Dragon" file="low/4suiton dragon.xml"/> 				<!-- Life= 3000  Xp= 90 Dano = 225 ~ 275   Speed = 420-->	<!-- LV 40 EXP = 90 --> x 11 1000
+	<monster name="Shaolin" file="low/4shaolin.xml"/> 							<!-- Life= 2700  Xp= 80  Dano = 200 ~ 230   Speed = 520-->			
+	<monster name="Dark Shaolin" file="low/4dark shaolin.xml"/> 				<!-- Life= 3000  Xp= 90  Dano = 225 ~ 240   Speed = 520-->		
+	<monster name="Renegade Shaolin" file="low/4renegade shaolin.xml"/>		 	<!-- Life= 3400  Xp= 100 Dano = 225 ~ 275   Speed = 520-->		
+	<monster name="Ancient Creature" file="low/4ancient creature.xml"/> 		<!-- Life= 2700  Xp= 80  Dano = 200 ~ 230   Speed = 420-->		
+	<monster name="Strong Butter" file="low/4strong butter.xml"/> 				<!-- Life= 2800  Xp= 80  Dano = 225 ~ 240   Speed = 520-->		
+	<monster name="Fat Butter" file="low/4fat butter.xml"/> 					<!-- Life= 3000  Xp= 90 Dano = 225 ~ 275   Speed = 420-->		
+	<monster name="Snake Najin" file="low/4snake najin.xml"/>1444				<!-- Life= 2500  Xp= 75  Dano = 175 ~ 200   Speed = 520-->
+	<monster name="Nendo Bunshin" file="low/4nendo bunshin.xml"/>787			<!-- Life= 3000  Xp= 90  Dano = 225 ~ 240   Speed = 520-->	
+	<monster name="Giant Spider" file="low/4giant spider.xml"/>700				<!-- Life= 3400  Xp= 100  Dano = 225 ~ 275   Speed = 420-->	
+	
+	<monster name="Senju Swordsman" file="low/5senju swordsman.xml"/> 			<!-- Life= 3800  Xp= 160 Dano = 265 ~ 285   Speed = 620-->
+	<monster name="Darkness Swordsman" file="low/5darkness swordsman.xml"/>	 	<!-- Life= 4000  Xp= 190 Dano = 275 ~ 350  Speed = 620-->
+	<monster name="Serpent" file="low/5serpent.xml"/> 							<!-- Life= 4200  Xp= 180 Dano = 275 ~ 300   Speed = 420-->
+	<monster name="Especialist" file="low/5especialist.xml"/> 					<!-- Life= 3800  Xp= 160 Dano = 265 ~ 275   Speed = 620-->
+	<monster name="Renegade Orochimaru" file="low/5orochimaru.xml"/>			<!-- Life= 4000  Xp= 175 Dano = 275 ~ 350   Speed = 620-->
+	<monster name="Dark Okami" file="low/5dark okami.xml"/>605					<!-- Life= 4200  Xp= 180 Dano = 275 ~ 325  Speed = 620-->	
+	<monster name="Elite Okami" file="low/5elite okami.xml"/>605				<!-- Life= 4200  Xp= 180 Dano = 275 ~ 325  Speed = 620-->	
+	<monster name="Gamahiro" file="low/5gamahiro.xml"/>605						<!-- Life= 5200  Xp= 200 Dano = 375 ~ 450  Speed = 420-->
+	<monster name="Gamaken" file="low/5gamaken.xml"/>605	
+	<monster name="Gamabakku" file="low/5gamabakku.xml"/>605	<!-- Life= 5200  Xp= 200 Dano = 375 ~ 450  Speed = 420-->
+	<monster name="Giant Axeman" file="low/5giant axeman.xml"/>605				<!-- Life= 4200  Xp= 180 Dano = 275 ~ 350   Speed = 520-->
+	
+	<monster name="Moon Creature" file="quest/moon creature.xml"/> 																<!-- LV 60 EXP = 300 --> x 7 2000
+	<monster name="Anbu Nucleo" file="low/6anbu nucleo.xml"/>					<!-- Life= 6400  Xp= 260 Dano = 400 ~ 450  Speed = 720-->
+	<monster name="Sand Creature" file="low/6sand creature.xml"/> 				<!-- Life= 7800  Xp= 325 Dano = 425 ~ 525  Speed = 620-->
+	<monster name="Akatsuki Member" file="low/6akatsuki member.xml"/>			<!-- Life= 6400  Xp= 280 Dano = 400 ~ 450  Speed = 720-->					
+	<monster name="Elite Samurai" file="low/6elite samurai.xml"/> 				<!-- Life= 7800  Xp= 350 Dano = 425 ~ 525  Speed = 620-->
+	<monster name="Waspoid" file="low/6waspoid.xml"/> 							<!-- Life= 7200  Xp= 325 Dano = 425 ~ 525  Speed = 720-->	
+	<monster name="Wild Enma" file="low/6wild enma.xml"/> 						<!-- Life= 7200  Xp= 325 Dano = 425 ~ 525  Speed = 620-->
+	<monster name="Kinkaku" file="low/6kinkaku.xml"/> 							<!-- Life= 6800  Xp= 275 Dano = 400 ~ 450  Speed = 720-->
+	<monster name="Ginkaku" file="low/6ginkaku.xml"/> 							<!-- Life= 6800  Xp= 275 Dano = 400 ~ 450  Speed = 720-->
+	<monster name="Frozzen Monster" file="low/6frozzen monster.xml"/>			<!-- Life= 6000  Xp= 250 Dano = 375 ~ 425  Speed = 520-->	
+	<monster name="Senju Soldiers" file="low/6senju soldier.xml"/> 				<!-- Life= 6400  Xp= 260 Dano = 425 ~ 480  Speed = 720-->
+	<monster name="Senju Shinobi" file="low/6senju shinobi.xml"/>				<!-- Life= 6400  Xp= 260 Dano = 425 ~ 480  Speed = 720-->
+	<monster name="Zetsu" file="low/6zetsu.xml"/>								<!-- Life= 7200  Xp= 300 Dano = 425 ~ 480  Speed = 720-->
+	<monster name="Dragonearth" file="low/6dragonearth.xml"/>					<!-- Life= 7200  Xp= 300 Dano = 425 ~ 525  Speed = 620-->
+	
+	<monster name="Octopus" file="low/7octopus.xml"/> 							<!-- Life= 8800  Xp= 625 Dano = 550 ~ 625  Speed = 720-->	<!-- LV 70 EXP = 600 --> x 5 3000
+	<monster name="Dragon" file="low/7dragon.xml"/> 							<!-- Life= 8600  Xp= 600 Dano = 550 ~ 625  Speed = 620 -->
+	<monster name="Hellhound" file="low/7hellhound.xml"/> 						<!-- Life= 8400  Xp= 600 Dano = 550 ~ 625  Speed = 820-->	
+	<monster name="Hawk" file="low/7hawk.xml"/> 								<!-- Life= 8200  Xp= 580 Dano = 550 ~ 575  Speed = 820-->
+	
+	<monster name="Eletro Guard" file="low/7eletro guard.xml"/> 				<!-- Life= 7800  Xp= 525 Dano = 500 ~ 550  Speed = 820-->
+	<monster name="Horflow" file="low/7horflow.xml"/>--							<!-- Life= 9000  Xp= 660 Dano = 550 ~ 600  Speed = 720-->		
+	<monster name="Evil Scorpion" file="low/7scorpion.xml"/> 					<!-- Life= 7200  Xp= 525 Dano = 500 ~ 550  Speed = 820-->
+	<monster name="Ancient Mummy" file="low/7ancient mummy.xml"/> 				<!-- Life= 9600  Xp= 680 Dano = 550 ~ 625  Speed = 620-->
+
+	<monster name="Rygamata" file="low/8rygamata.xml"/> 						<!-- Life= 9200  Xp= 1200 Dano = 600 ~ 650  Speed = 920-->
+	<monster name="Kekkei Lizard" file="low/8kekkei lizard.xml"/> 				<!-- Life= 8600  Xp= 1000 Dano = 600 ~ 650  Speed = 920-->
+	<monster name="Minotaur Renegade" file="low/8minotaur renegade.xml"/> 		<!-- Life= 9800  Xp= 1500 Dano = 675 ~ 750  Speed = 820-->
+	
+	<monster name="Eligamata Serpent" file="low/9eligamata serpent.xml"/> 		<!-- Life= 12600  Xp= 3000 Dano = 850 ~ 925  Speed = 1020-->	<!-- LV 90 EXP = 6000 --> x 1 6000
+	<monster name="Ninkame Renegade" file="low/9ninkame renegade.xml"/> 		<!-- Life= 10600  Xp= 3500 Dano = 850 ~ 875  Speed = 820-->	
+	<monster name="Aligazor" file="low/10aligazor.xml"/> 						<!-- Life= 9400  Xp= 1250 Dano = 675 ~ 750  Speed = 820-->	<!-- LV 80 EXP = 1500  --> x 3 4500
+	<monster name="Bagometh" file="low/10bagometh.xml"/> 						<!-- Life= 10600  Xp= 4000 Dano = 850 ~ 875  Speed = 820-->
+	<monster name="Yoton Creature" file="low/11yoton creature.xml"/> 			<!-- Life= 13600  Xp= 4500 Dano = 850 ~ 925 ~ 925  Speed = 820-->	
+	
+		
+	<monster name="Anbu Integrant" file="quest/anbu member.xml"/> 4x
+	<monster name="Akatsuki Integrant" file="quest/akatsuki member.xml"/> 4x
+	
+	<monster name="Informant Akatsuki" file="quest/informante akatsuki.xml"/> 	
+	<monster name="Informant Anbu" file="quest/informante anbu.xml"/> 
+	
+	<!--Summon -->
+	<monster name="Pain One" file="kuchy/pain1.xml"/>	
+	<monster name="Pain Two" file="kuchy/pain2.xml"/>	
+	<monster name="Pain Three" file="kuchy/pain3.xml"/>	
+	<monster name="Pain Four" file="kuchy/pain4.xml"/>	
+	<monster name="Pain Five" file="kuchy/pain5.xml"/>	
+	<monster name="Pain Six" file="kuchy/pain6.xml"/>	
+	
+	<monster name="Igurumasuku" file="kuchy/aguia.xml"/>
+	<monster name="Burumasuku" file="kuchy/touro.xml"/>
+	<monster name="Taigamasuku" file="kuchy/tigre.xml"/>
+	
+	<monster name="Free Igurumasuku" file="quest/aguia.xml"/>
+	<monster name="Free Burumasuku" file="quest/touro.xml"/>
+	<monster name="Free Taigamasuku" file="quest/tigre.xml"/>
+	
+	<monster name="Edo Hashirama" file="kuchy/edo hashirama.xml"/>
+	<monster name="Edo Tobirama" file="kuchy/edo tobirama.xml"/>
+	<monster name="Edo Hiruzen" file="kuchy/edo hiruzen.xml"/>
+	<monster name="Edo Minato" file="kuchy/edo minato.xml"/>
+	
+	<monster name="Katsuyo Heal" file="kuchy/katsuyoheal.xml"/>
+	<monster name="Akamaru Clone" file="kuchy/akamaru.xml"/>
+	<monster name="Akamaru Wakai" file="kuchy/akamaru wakai.xml"/>
+	<monster name="Enma Clone" file="kuchy/enma.xml"/>
+	
+	<!--Boss -->
+		
+	<monster name="Indra Otsutsuki" file="boss/indra.xml"/>
+	<monster name="Ashura Otsutsuki" file="boss/ashura.xml"/>	
+	<monster name="Mizuki" file="boss/mizuki.xml"/>
+	<monster name="Zabuza Momochi" file="boss/zabuza.xml"/>
+	<monster name="Jirobo" file="boss/jirobo.xml"/>
+	<monster name="Orochimaru" file="boss/orochimaru.xml"/>
+	<monster name="Kimimaru" file="boss/kimimaru.xml"/>
+	<monster name="Kisame" file="boss/kisame.xml"/>
+	<monster name="Deidara" file="boss/deidara.xml"/>
+	<monster name="Hidan" file="boss/hidan.xml"/>
+	<monster name="Kakuzo" file="boss/kakuzo.xml"/>
+	<monster name="Kabuto" file="boss/kabuto.xml"/>
+	<monster name="Sasori" file="boss/sasori.xml"/>
+	<monster name="Tobi" file="boss/tobi.xml"/>
+	<monster name="Nagato" file="boss/nagato.xml"/>
+	<monster name="Konan" file="boss/konan.xml"/>
+	<monster name="Danzou" file="boss/danzou.xml"/>
+	<monster name="Obito" file="boss/obito.xml"/>
+	<monster name="Itachi" file="boss/itachi.xml"/>
+	<monster name="Madara" file="boss/madara.xml"/>
+	<monster name="Suigetsu" file="boss/suigetsu.xml"/>	
+	
+</monsters>

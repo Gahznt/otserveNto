@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Yoton Creature" nameDescription="ancient mummy" race="blood" experience="4500" speed="820" manacost="0">
+	<health now="48000" max="48000"/>
+	<look type="1425" head="0" body="94" legs="79" feet="79" corpse="2908"/>
+	<targetchange interval="1500" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	
+	<attacks>
+		<attack name="melee" interval="3000" min="-3850" max="-4925"/>
+		<attack name="zlava" interval="5000" chance="1000" range="1" min="-1850" max="-1925">
+		</attack>		
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="10000" chance="50" min="7" max="20">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	
+	<loot>
+		<item id="10562" countmax="1" chance="10000"/><!-- dolar=verde -->
+	<item id="145" countmax="4" chance="30000"/> 30 % : Precious Stone
+	<item id="10564" countmax="3" chance="30000"/> 30 % : Gold Necklace
+	<item id="8932" countmax="1" chance="30000"/> 30 % : Ruby Crystal
+	<item id="10559" countmax="3" chance="30000"/> 30 % : Kekkei Stone
+	<item id="10563" countmax="1" chance="30000"/> 30 % : Biju Stone
+	</loot>
+</monster>

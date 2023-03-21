@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Lee" script="data/npc/scripts/missions/lee.lua" walkinterval="0" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="83" head="0" body="0" legs="0" feet="0" addons="0"/>
+<parameters>
+<parameter key="message_greet" value="Olá |PLAYERNAME|, preciso de 600 Katon Feather's pode me ajudar ? {ajudar}"/>
+</parameters>
+</npc>

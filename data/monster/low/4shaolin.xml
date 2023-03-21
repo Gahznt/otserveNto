@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shaolin" nameDescription="a dark shaolin" race="blood" experience="80" speed="520" manacost="0">
+	<health now="6300" max="6300"/>
+	<look type="258" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="3000" min="-300" max="-350"/>
+		<attack name="hyuugaeffect" interval="2000" chance="1000" range="1" min="-150" max="-200">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0"/>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence="X!"/>
+	</voices>
+		<loot>
+		<item id="2148" countmax="4" chance="75000"/>
+		<item id="8931" countmax="2" chance="75000"/>
+	</loot>
+</monster>
+

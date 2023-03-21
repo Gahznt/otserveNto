@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Nagato" nameDescription="a nagato" race="blood" experience="3500" speed="920" manacost="390">
+	<health now="24200" max="24200"/>
+	<look type="933" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="NagatoKill"/>            
+        </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-125" max="-150"/> 
+		<attack name="sakon" interval="2000" chance="1000" range="3" min="-225" max="-250">
+		</attack> 
+		<attack name="bolachakra" interval="3000" chance="1000" range="3" min="-225" max="-250">
+		</attack> 
+		<attack name="zokoku" interval="4250" chance="1000" range="3" min="-225" max="-250">
+		</attack> 
+		<attack name="linguanagato" interval="6750" chance="1000" range="3" min="-800" max="-1250">
+		</attack>
+		<attack name="nagatao" interval="8250" chance="1000" target="0" radius="6" min="-1500" max="-2500">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="350" max="375"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="12000" chance="100" min="2600" max="3650"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="18000" chance="100" min="3750" max="4000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="40000" chance="100" min="5250" max="8500"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+	<summons maxSummons="6">
+    <summon name="Pain One" interval="3000" chance="100" max="1"/>
+	<summon name="Pain Two" interval="3000" chance="100" max="1"/>
+	<summon name="Pain Three" interval="3000" chance="100" max="1"/>
+	<summon name="Pain Four" interval="3000" chance="100" max="1"/>
+	<summon name="Pain Five" interval="3000" chance="100" max="1"/>
+	<summon name="Pain Six" interval="3000" chance="100" max="1"/>
+  </summons>
+</monster>

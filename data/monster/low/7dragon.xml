@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Dragon" nameDescription="Dragon" race="blood" experience="600" speed="620" manacost="0">
+	<health now="32400" max="32400"/>
+	<look type="1075" head="0" body="94" legs="79" feet="79" corpse="2908"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	
+	<attacks>
+		<attack name="melee" interval="1000" min="-650" max="-750"/>
+		<attack name="foguin" interval="4000" chance="50" range="1" min="-550" max="-625">
+		</attack>  
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="10000" chance="50" min="7" max="20">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	<loot>
+	<item id="2148" countmax="7" chance="75000"/> 
+	<item id="5877" countmax="1" chance="50000"/>
+	<item id="8849" countmax="1" chance="33000"/> -- Crystal splinter
+	</loot>
+</monster>

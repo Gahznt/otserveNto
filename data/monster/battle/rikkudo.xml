@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Rikkudo Battle" nameDescription="rikkudo battle" race="blood" experience="20000" speed="500" manacost="0">
+	<health now="286000" max="286000"/>
+	<look type="500" head="0" body="94" legs="79" feet="79"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	
+	<attacks>
+		<attack name="deepcetre" interval="500" min="-425" max="-525"/>
+		<attack name="sakon" interval="1000" chance="1000" range="3" min="-500" max="-750">
+		</attack> 
+		<attack name="kaguyaun" interval="1250" chance="1000" range="3" min="-750" max="-100">
+		</attack> 
+		<attack name="bolachakra" interval="1750" chance="1000" range="3" min="-1000" max="-1250">
+		</attack> 
+		<attack name="fogarel" interval="2400" chance="1000" target="0" min="-2500" max="-3500">
+		</attack>
+		<attack name="rayozada" interval="3200" chance="1000" target="0" radius="6" min="-3500" max="-4500">
+		</attack>
+		<attack name="amateradablue" interval="3800" chance="1000" target="0" radius="6" min="-4500" max="-5500">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="2000" max="2500"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="4000" chance="100" min="3000" max="4000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="11000" chance="100" min="22000" max="25000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="45000" chance="100" min="50000" max="55000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<script>
+    <event name="teleportmonster"/>
+    </script> 
+</monster>

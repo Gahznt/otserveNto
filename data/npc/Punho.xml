@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ren [Armas]" script="data/npc/scripts/default.lua" walkinterval="2000000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="220" head="57" body="59" legs="40" feet="76" addons="0"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola  |PLAYERNAME|! { Trade }."/>
+		<parameter key="shop_buyable" value="Plate Gloves,2645,7500;Blood Gloves,2383,15000;Blood Gloves,2649,50000;Tres Garras,2644,120000;Obscure Gloves,133,180000;"/>
+	</parameters>
+</npc>

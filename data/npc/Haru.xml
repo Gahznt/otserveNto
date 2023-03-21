@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hashud [Armas]" script="data/npc/scripts/default.lua" walkinterval="200000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="45" head="57" body="59" legs="40" feet="76" addons="0"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola   |PLAYERNAME|! { Trade }."/>
+		<parameter key="shop_buyable" value="Big Shuriken,2399,15;Dark Shuriken,3965,25;Kage Shuriken,2168,500;Leque Dobradisso,2399,500;Blood Sickle,136,2500;Shukaku Spear,7862,5000;"/>
+	</parameters>
+</npc>

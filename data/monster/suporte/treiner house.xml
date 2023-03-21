@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Enchanted Puppet" nameDescription="a trainer" tp="1" race="blood" experience="0" speed="0" manacost="2200">
+	<health now="999500000" max="999500000"/>
+	<look type="176" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="1000"/>
+	<flags>
+		<flag summonable="0"/>
+		 <flag attackable="1"/>
+		 <flag hostile="1"/>
+		 <flag illusionable="0"/>
+		 <flag convinceable="0"/>
+		 <flag pushable="0"/>
+		 <flag canpushitems="1"/>
+		 <flag canpushcreatures="1"/>
+		 <flag staticattack="100"/>
+		 <flag targetdistance="1"/>
+		 <flag runonhealth="0"/>
+	</flags>
+  <attacks>
+      <attack name="melee" interval="250" min="-0" max="-10"/>
+    </attacks>
+	<defenses armor="1" defense="1">
+		<defense name="healing" interval="10000" chance="40" min="3000000" max="3000000">
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<loot>
+		<item id="2160" countmax="50" chance="70000"/><!-- carrot -->
+	</loot>
+	<script>
+	<event name="critical"/>
+	</script>
+</monster>

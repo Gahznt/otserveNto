@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kabuto Boss" nameDescription="a Kabuto Boss" race="blood" experience="100" speed="320" manacost="390">
+	<health now="300200" max="300200"/>
+	<look type="997" head="113" body="120" legs="114" feet="132"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="4"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="teleportmonster"/>       
+        </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-275" max="-350"/>
+		<attack name="bolachakra" interval="2000" chance="1000" range="4" min="-225" max="-250">
+		</attack>
+		<attack name="cobra" interval="3000" chance="1000" range="4" min="-600" max="-900">
+		</attack>
+		<attack name="sakon" interval="4000" range="7" radius="4" target="1" chance="1000" min="-225" max="-550">
+		</attack>
+		<attack name="zcocobra" interval="7500" chance="1000" range="4" min="-750" max="-1000">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+	<summons maxSummons="4">
+    <summon name="Edo Hiruzen" interval="10000" chance="100" max="1"/>
+	<summon name="Edo Minato" interval="10000" chance="100" max="1"/>
+	<summon name="Edo Hashirama" interval="10000" chance="100" max="1"/>
+	<summon name="Edo Tobirama" interval="10000" chance="100" max="1"/>
+  </summons>
+</monster>

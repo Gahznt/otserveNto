@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Indra Otsutsuki" nameDescription="indra" race="blood" experience="50000" speed="2000" manacost="0">
+	<health now="1000000" max="1000000"/>
+	<look type="1421" head="0" body="94" legs="79" feet="79" corpse="2908"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	   
+	<attacks>
+		<attack name="lightfireball" interval="1000" chance="1000" range="4" min="-400" max="-1050">
+		</attack>
+		<attack name="blackamaterasu" interval="1250" chance="1000" range="4" min="-500" max="-550">
+		</attack>
+		<attack name="katongokao" interval="2750" chance="1000" range="4" min="-550" max="-600">
+		</attack>
+		<attack name="zlava" interval="3200" chance="1000" target="0" radius="6" min="-3000" max="-5000">
+		</attack>
+		<attack name="bigpurpleball" interval="5750" chance="1000" range="4" min="-3000" max="-3500">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="10000" chance="50" min="7" max="20">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	<script>
+    </script> 
+</monster>

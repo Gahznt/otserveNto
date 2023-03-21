@@ -1,0 +1,7 @@
+<npc name="Renegade Nagato" script="data/npc/scripts/missions/renegade nagato.lua" walkinterval="1000000" floorchange="0">
+    <health now="1000" max="1000"/>
+<look type="1604" head="0" body="86" legs="0" feet="38" addons="1"/>
+  <parameters>
+    <parameter key="message_greet" value="Ola |PLAYERNAME|,preciso de 12000 Golden Essence's pode me ajudar ?{ajudar}" />
+  </parameters>
+</npc>  

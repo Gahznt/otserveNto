@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Suigetsu" nameDescription="a suigetsu" race="blood" experience="3000" speed="300" manacost="390">
+	<health now="1800" max="1800"/>
+	<look type="1167" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-200" max="-300"/>
+		<attack name="swzabuza" interval="2000" chance="1000" range="1" min="-200" max="-300">
+		</attack>
+		<attack name="bolhaagua" interval="3000" chance="1000" range="1" min="-300" max="-600">
+		</attack>
+		<attack name="zeonda" interval="4000" chance="1000" range="1" min="-600" max="-900">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0"/>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	<item id="7888" countmax="1" chance="100000"/><!-- dolar=verde -->
+	</loot>
+</monster>

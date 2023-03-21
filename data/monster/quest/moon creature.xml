@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Moon Creature" nameDescription="moon creature" race="blood" experience="850" speed="600" manacost="0">
+	<health now="150000" max="150000"/>
+	<look type="1422" head="0" body="94" legs="79" feet="79" corpse="2908"/>
+	<targetchange interval="1500" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	
+	<attacks>
+		<attack name="melee" interval="2000" min="-1000" max="-1200"/>
+		<attack name="manadrain" interval="1500" chance="10" range="1" min="-5" max="-20">
+			<attribute key="areaEffect" value="redshimmer"/>
+			</attack>			
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="10000" chance="50" min="7" max="20">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	
+	<loot>
+	<item id="6547" countmax="1" chance="30000"/><!-- dolar=verde -->
+	</loot>
+</monster>

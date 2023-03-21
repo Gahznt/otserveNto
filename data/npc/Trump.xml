@@ -1,0 +1,7 @@
+<npc name="Trump [Loot]" script="data/npc/scripts/sell/compraloottrump.lua" walkinterval="1000000" floorchange="0">
+    <health now="1000" max="1000"/>
+<look type="228" head="0" body="86" legs="0" feet="38" addons="1"/>
+  <parameters>
+    <parameter key="message_greet" value="Olá |PLAYERNAME| vamos negociar ??  {Trade}" />
+  </parameters>
+</npc>  

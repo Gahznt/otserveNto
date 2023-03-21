@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Waspoid" nameDescription="a waspoid" race="blood" experience="325" speed="720" manacost="0">
+	<health now="17500" max="17500"/>
+	<look type="1077" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-425" max="-500"/>
+		<attack name="zwolverine" interval="4000" chance="50" range="1" min="-1250" max="-1500">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0"/>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence="X!"/>
+	</voices>
+	<loot>
+	<item id="2148" countmax="6" chance="75000"/> <!-- Ryo  -->
+	<item id="8925" countmax="2" chance="50000"/>
+	</loot>
+</monster>
+

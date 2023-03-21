@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Naruto da Akatsuki [Troca]" script="data/npc/scripts/trocabiju1.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="877" head="123" body="74" legs="123" feet="0" addons="2"/>
+<parameters>
+<parameter key="message_greet" value="Ola |PLAYERNAME|, Eu tenho uma proposta para voce, aceito 100 Kyuubi Testicles em troca de uma kyuubi selada em {Kohaku no Johei}.!!"/>
+</parameters>
+</npc>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Unknown Shinobi" nameDescription="a unknown shinobi" race="blood" experience="35" speed="320" manacost="0">
+	<health now="1800" max="1800"/>
+	<look type="118" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="4000" min="-150" max="-175"/>
+		<attack name="blackchidori" interval="2000" chance="1000" range="1" min="-70" max="-80">
+		</attack> 
+	</attacks>
+	<defenses armor="0" defense="0"/>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence="X!"/>
+	</voices>
+		<loot>
+		<item id="2148" countmax="3" chance="75000"/>
+		<item id="2691" countmax="3" chance="75000"/>
+		<item id="10555" countmax="6" chance="50000"/>
+	</loot>
+</monster>

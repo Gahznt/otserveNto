@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hashirama da Akatsuki [Troca]" script="data/npc/scripts/trocasenju.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="919" head="123" body="74" legs="123" feet="0" addons="2"/>
+<parameters>
+<parameter key="message_greet" value="Ola |PLAYERNAME|, Eu tenho uma proposta para voce, aceito 50 {Senju Essence} em troca de 1 {Senju Enchant}.!"/>
+</parameters>
+</npc>

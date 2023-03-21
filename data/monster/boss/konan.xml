@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Konan" nameDescription="a konan" race="blood" experience="4000" speed="920" manacost="390">
+	<health now="30000" max="30000"/>
+	<look type="848" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="4"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="KonanKill"/>            
+        </script>
+	<attacks>
+		<attack name="konandist" interval="500" chance="1000" range="4" min="-175" max="-225">
+		</attack>
+		<attack name="konanun" interval="1000" chance="1000" range="4" min="-280" max="-320">
+		</attack>
+		<attack name="konandois" interval="2750" chance="1000" range="4" min="-350" max="-450">
+		</attack>
+		<attack name="konantres" interval="3250" chance="1000" range="4" min="-800" max="-1000">
+		</attack>
+		<attack name="konanquat" interval="4000" chance="1000" range="4" min="-1000" max="-1200">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1000" max="1200"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="8000" chance="100" min="4000" max="5000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="16000" chance="100" min="10000" max="12000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="40000" chance="100" min="6000" max="8000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<loot>
+	</loot>
+</monster>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Kakuzo" script="data/npc/scripts/boss/kakuzo.lua" walkinterval="0" speed="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="634" head="17" body="54" legs="114" feet="0" addons="2"/>
+	<parameter key="module_shop" value="1"/>
+	<parameter key="shop_sellable" value="Brave Heart,2519,50000;Glorious Heart,2520,250000;"/>
+</npc>
+

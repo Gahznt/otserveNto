@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Obito" nameDescription="a obito" race="blood" experience="75000" speed="1020" manacost="390">
+	<health now="55000" max="55000"/>
+	<look type="1247" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="ObitoKill"/>            
+        </script>
+	<attacks>
+		<attack name="deepcetre" interval="500" chance="1000" range="4" min="-450" max="-550">
+		</attack>
+		<attack name="dropfire" interval="6500" chance="1000" range="4" min="-2100" max="-2250">
+		</attack>
+		<attack name="kamuizao" interval="3750" chance="1000" range="4" min="-100" max="-1300">
+		</attack>
+		<attack name="blackchidorao" interval="7250" chance="1000" range="4" min="-2250" max="-3500">
+		</attack>
+		<attack name="fireskelet" interval="8400" chance="1000" range="4" min="-6450" max="-8200">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1000" max="1300"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="8000" chance="100" min="6000" max="6500"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="16000" chance="100" min="15500" max="17000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="60000" chance="100" min="20000" max="25000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

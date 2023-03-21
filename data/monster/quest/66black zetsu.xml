@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Black Zetsu" nameDescription="black zetsu" race="blood" experience="4000" speed="1020" manacost="0">
+	<health now="50400" max="50400"/>
+	<look type="1481" head="0" body="94" legs="79" feet="79" corpse="2908"/>
+	<targetchange interval="1500" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	
+	<attacks>
+		<attack name="melee" interval="2000" min="-350" max="-450"/>
+		<attack name="zetsuatack" interval="750" chance="50" range="1" min="-350" max="-750">
+		</attack>	
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="10000" chance="50" min="7" max="20">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	
+	<loot>
+	<item id="2148" countmax="12" chance="30000"/> <!-- Ryo  -->
+	<item id="10559" countmax="1" chance="10000"/> 30 % : Kekkei Stone			:32
+	<item id="10565" countmax="1" chance="10000"/> 30 % : Crystal				:34	
+	<item id="10566" countmax="1" chance="10000"/> 30 % : Biju Egg				:35
+	</loot>
+</monster>

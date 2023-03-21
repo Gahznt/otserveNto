@@ -1,0 +1,2653 @@
+[18/4/2017 5:12:35] /sshutdown
+[18/4/2017 6:20:43] /ccloseserver
+[19/4/2017 9:11:34] /m treiner
+[19/4/2017 22:38:23] /oopenserver
+[19/4/2017 22:38:46] /oopenserver
+[19/4/2017 22:49:37] /ccloseserver
+[21/4/2017 3:49:41] /goto amorizio
+[21/4/2017 3:49:51] /aaddskill Amorizio,level,400
+[21/4/2017 3:52:53] /c Pumba La Tum
+[21/4/2017 3:52:57] /aaddskill Pumba La Tum,level,400
+[21/4/2017 3:53:2] /aaddskill Pumba La Tum,level,1
+[21/4/2017 3:54:12] /c toruna
+[21/4/2017 3:54:21] /aaddskill toruna,level,400
+[21/4/2017 3:54:47] /sshutdown
+[21/4/2017 4:1:37] /aattr vocation 30
+[21/4/2017 4:1:40] /aattr vocation 23
+[21/4/2017 4:2:0] /aaddskill Pumba La Tum,level,400
+[21/4/2017 4:2:11] /aaddskill toruna,level,400
+[21/4/2017 4:6:54] /ccloseserver
+[22/4/2017 1:47:1] /m treiner
+[22/4/2017 2:56:37] /rreload spells
+[22/4/2017 2:58:17] /rreload spells
+[22/4/2017 2:58:24] /rreload spells
+[22/4/2017 3:1:58] /rreload spells
+[22/4/2017 3:2:16] /rreload spells
+[22/4/2017 3:4:21] /rreload spells
+[22/4/2017 3:4:36] /rreload spells
+[22/4/2017 3:4:58] /rreload spells
+[22/4/2017 3:5:21] /rreload spells
+[22/4/2017 3:5:51] /rreload spells
+[22/4/2017 3:6:15] /rreload spells
+[22/4/2017 3:10:12] /rreload spells
+[22/4/2017 3:18:27] /rreload spells
+[22/4/2017 3:27:1] /rreload spells
+[22/4/2017 3:46:57] /rreload spells
+[22/4/2017 3:50:32] /rreload spells
+[22/4/2017 3:50:58] /rreload spells
+[22/4/2017 23:49:10] /rreload spells
+[22/4/2017 23:54:19] /rreload spells
+[22/4/2017 23:55:58] /rreload spells
+[23/4/2017 0:30:21] /rreload spells
+[23/4/2017 0:30:48] /rreload spells
+[23/4/2017 0:32:59] /rreload spells
+[23/4/2017 0:40:10] /rreload spells
+[23/4/2017 0:44:11] /rreload spells
+[23/4/2017 0:49:48] /rreload spells
+[23/4/2017 0:49:50] /m treiner
+[23/4/2017 0:52:23] /rreload spells
+[23/4/2017 0:52:28] /rreload spells
+[23/4/2017 0:54:28] /rreload spells
+[23/4/2017 0:55:48] /rreload spells
+[23/4/2017 0:57:1] /aaddskill roberto,level,400
+[23/4/2017 0:57:12] /aaddskill magic level,100
+[23/4/2017 0:57:20] /aaddskill roberto,magic,100
+[23/4/2017 0:57:26] /rreload spells
+[23/4/2017 1:4:21] /rreload spells
+[23/4/2017 1:13:17] /rreload spells
+[23/4/2017 1:20:48] /rreload spells
+[23/4/2017 1:22:16] /rreload spells
+[23/4/2017 1:22:23] /rreload spells
+[23/4/2017 1:22:32] /rreload spells
+[23/4/2017 1:23:2] /rreload spells
+[23/4/2017 1:23:54] /rreload spells
+[23/4/2017 1:27:17] /rreload spells
+[23/4/2017 1:34:45] /rreload spells
+[23/4/2017 1:36:44] /rreload spells
+[23/4/2017 1:37:3] /rreload spells
+[23/4/2017 1:37:5] /rreload spells
+[23/4/2017 1:41:39] /rreload spells
+[23/4/2017 1:41:48] /rreload spells
+[23/4/2017 1:48:38] /rreload spells
+[23/4/2017 2:1:13] /rreload spells
+[23/4/2017 2:2:12] /rreload spells
+[26/4/2017 12:19:59] /rreload spells
+[26/4/2017 12:40:56] /rreload spells
+[26/4/2017 12:41:36] /rreload spells
+[26/4/2017 12:44:36] /rreload spells
+[26/4/2017 12:47:53] /rreload spells
+[26/4/2017 12:49:32] /rreload spells
+[26/4/2017 12:49:39] /rreload spells
+[26/4/2017 12:50:11] /rreload spells
+[26/4/2017 12:53:47] /rreload spells
+[26/4/2017 12:54:22] /rreload spells
+[26/4/2017 12:59:10] /rreload spells
+[26/4/2017 13:5:56] /rreload spells
+[26/4/2017 13:6:14] /rreload spells
+[26/4/2017 13:6:53] /rreload spells
+[26/4/2017 13:7:43] /rreload spells
+[26/4/2017 13:7:49] /rreload spells
+[26/4/2017 13:10:15] /rreload spells
+[26/4/2017 13:12:3] /rreload spells
+[26/4/2017 13:12:8] /rreload spells
+[26/4/2017 13:13:2] /rreload spells
+[26/4/2017 13:13:42] /rreload spells
+[26/4/2017 13:13:56] /rreload spells
+[26/4/2017 13:25:25] /rreload spells
+[26/4/2017 13:26:49] /rreload spells
+[26/4/2017 13:33:40] /rreload spells
+[26/4/2017 13:33:51] /rreload spells
+[26/4/2017 13:34:59] /rreload spells
+[26/4/2017 13:35:54] /rreload spells
+[26/4/2017 13:36:35] /rreload spells
+[26/4/2017 13:37:36] /rreload spells
+[26/4/2017 13:38:47] /rreload spells
+[26/4/2017 13:39:2] /rreload spells
+[26/4/2017 13:43:35] /rreload spells
+[26/4/2017 13:44:55] /rreload spells
+[26/4/2017 13:46:38] /rreload spells
+[26/4/2017 13:46:52] /rreload spells
+[26/4/2017 13:56:1] /rreload spells
+[26/4/2017 13:58:13] /rreload spells
+[26/4/2017 14:0:10] /rreload spells
+[26/4/2017 14:3:4] /rreload spells
+[26/4/2017 14:6:27] /rreload spells
+[26/4/2017 14:6:48] /rreload spells
+[26/4/2017 14:6:48] /rreload spells
+[26/4/2017 14:7:6] /rreload spells
+[26/4/2017 14:9:0] /rreload spells
+[26/4/2017 14:9:28] /rreload spells
+[26/4/2017 14:17:47] /rreload spells
+[26/4/2017 14:20:25] /rreload spells
+[26/4/2017 14:21:56] /rreload spells
+[26/4/2017 14:28:8] /rreload spells
+[26/4/2017 14:31:16] /rreload spells
+[26/4/2017 14:33:8] /rreload spells
+[26/4/2017 14:33:22] /rreload spells
+[26/4/2017 14:34:18] /rreload spells
+[26/4/2017 14:35:16] /rreload spells
+[26/4/2017 14:37:2] /rreload spells
+[26/4/2017 14:37:19] /rreload spells
+[3/5/2017 16:15:22] /rreload spells
+[3/5/2017 16:16:26] /rreload spells
+[3/5/2017 16:40:59] /rreload spells
+[3/5/2017 16:41:41] /rreload spells
+[3/5/2017 16:42:24] /rreload spells
+[3/5/2017 16:43:32] /rreload spells
+[3/5/2017 16:44:0] /rreload spells
+[3/5/2017 16:44:43] /rreload spells
+[3/5/2017 16:45:2] /rreload spells
+[3/5/2017 16:47:41] /rreload spells
+[3/5/2017 16:54:28] /rreload spells 
+[3/5/2017 17:10:28] /rreload spells
+[3/5/2017 17:10:43] /rreload spells
+[3/5/2017 17:11:15] /rreload spells
+[3/5/2017 17:15:0] /rreload spells
+[3/5/2017 17:15:48] /rreload spells
+[6/5/2017 21:37:16] /oopenserver
+[8/5/2017 0:16:51] /r
+[8/5/2017 0:16:54] /ii backpack
+[8/5/2017 0:16:58] /ii uchiha coat
+[8/5/2017 0:16:59] /ii uchiha legs
+[8/5/2017 0:17:4] /ii uchiha boots
+[8/5/2017 0:17:5] /ii uchiha bandana
+[8/5/2017 0:17:18] /ii senju armor
+[8/5/2017 0:17:21] /ii senju legs
+[8/5/2017 0:17:21] /ii senju boots
+[8/5/2017 0:17:24] /ii senju protector
+[8/5/2017 0:18:10] /ii kurama helmet
+[8/5/2017 0:18:35] /ii kurama tunic
+[8/5/2017 0:18:37] /ii kurama legs
+[8/5/2017 0:18:38] /ii kurama bots
+[8/5/2017 0:18:40] /ii kurama boots
+[8/5/2017 0:18:57] /ii shibuki sword
+[8/5/2017 0:19:23] /ii madara armor
+[8/5/2017 0:19:25] /ii madara legs
+[8/5/2017 0:20:5] /ii 123
+[8/5/2017 0:20:35] /ii 124
+[8/5/2017 0:20:47] /ii 126
+[8/5/2017 0:20:59] /ii 146
+[8/5/2017 0:21:11] /ii 2429
+[8/5/2017 0:21:14] /ii rikkudo tunic
+[8/5/2017 0:21:46] /ii backpack
+[8/5/2017 0:21:56] /ii 2452
+[8/5/2017 0:22:5] /ii 8854
+[8/5/2017 0:22:26] /ii 125
+[8/5/2017 0:22:44] /ii 122
+[8/5/2017 0:23:9] /ii 121
+[8/5/2017 0:23:21] /ii 2647
+[8/5/2017 0:23:30] /ii 150
+[8/5/2017 0:23:42] /ii 7463
+[8/5/2017 0:40:43] /ii shibuki sword
+[8/5/2017 0:40:50] /ii cetre rikkudo
+[8/5/2017 0:40:57] /ii slayer punho
+[8/5/2017 0:46:48] /ii 2160
+[8/5/2017 0:46:50] /ii jam
+[8/5/2017 0:47:33] /ii senju protector
+[8/5/2017 0:47:36] /ii senju legs
+[8/5/2017 0:47:38] /ii senju boots
+[8/5/2017 0:47:41] /ii senju armor
+[8/5/2017 0:47:49] /ii raiton snake shield
+[8/5/2017 0:47:55] /ii shibuki sword
+[8/5/2017 4:35:48] /ii backpack
+[8/5/2017 4:35:57] /ii 2160]
+[8/5/2017 4:35:59] /ii 2160
+[8/5/2017 4:41:46] /ii madara ring
+[8/5/2017 18:15:40] /ii moeda vip
+[8/5/2017 18:34:38] /ii vale 5 moeda vip]
+[8/5/2017 19:58:50] /ccloseserver
+[9/5/2017 22:59:5] /a
+[9/5/2017 22:59:27] /a
+[10/5/2017 21:3:34] /oopenserver
+[10/5/2017 21:30:33] /ccloseserver
+[11/5/2017 0:1:57] /newtype 1236
+[11/5/2017 0:2:33] /newtype 1247
+[11/5/2017 22:5:1] /goto edo jiraya
+[11/5/2017 22:5:5] /goto edo jiyara
+[11/5/2017 22:5:12] /ccloseserver
+[30/5/2017 0:33:54] /t
+[30/5/2017 9:35:50] /goto koolls
+[30/5/2017 9:39:19] /ghost
+[30/5/2017 9:39:21] /ghost
+[30/5/2017 9:43:8] /ii health potion
+[30/5/2017 9:43:16] /ii health potion
+[30/5/2017 9:43:17] /ii health potion
+[30/5/2017 9:43:17] /ii health potion
+[30/5/2017 9:44:19] /goto koolls
+[30/5/2017 9:44:56] /goto koolls
+[30/5/2017 9:46:0] /goto koolls
+[30/5/2017 9:46:36] /t koolls
+[30/5/2017 9:46:42] /goto koolls
+[30/5/2017 9:46:45] /ghost
+[30/5/2017 9:47:5] /goto koolls
+[30/5/2017 9:47:31] /goto koolls
+[30/5/2017 9:47:37] /goto koolls
+[30/5/2017 9:47:39] /goto koolls
+[30/5/2017 9:47:41] /goto koolls
+[30/5/2017 9:47:42] /goto koolls
+[30/5/2017 9:47:43] /goto koolls
+[30/5/2017 9:48:11] /goto koolls
+[30/5/2017 9:50:14] /c koolls
+[30/5/2017 9:51:33] /ii chakra potion
+[30/5/2017 9:52:1] /nn Alquimista
+[30/5/2017 9:52:25] /r
+[30/5/2017 9:52:54] /c koolls
+[30/5/2017 9:52:55] /ghost
+[30/5/2017 9:53:20] /a
+[30/5/2017 9:55:29] /a 5
+[30/5/2017 9:56:41] /goto koolls
+[30/5/2017 10:6:12] /ii uchiha coat
+[30/5/2017 10:6:31] /ii kurama tunic
+[30/5/2017 10:8:38] /r
+[30/5/2017 10:9:9] /nn obito
+[30/5/2017 10:16:17] /goto farao
+[30/5/2017 10:19:40] /ii big shuriken
+[30/5/2017 10:20:12] /t
+[30/5/2017 10:20:14] /ghost
+[30/5/2017 10:22:46] /goto koolls
+[30/5/2017 10:27:49] /t
+[30/5/2017 10:36:33] /goto giant scorpion
+[30/5/2017 10:36:40] /a 5
+[30/5/2017 10:36:41] /a 5
+[30/5/2017 10:36:42] /a 5
+[30/5/2017 10:36:42] /a 5
+[30/5/2017 10:37:18] /c Koolls
+[30/5/2017 10:37:24] /c Koolls
+[30/5/2017 10:37:26] /c Koolls
+[30/5/2017 10:37:28] /c Koolls
+[30/5/2017 10:37:29] /c Koolls
+[30/5/2017 10:37:31] /c Koolls
+[30/5/2017 10:37:32] /c Koolls
+[30/5/2017 10:37:34] /c Koolls
+[30/5/2017 10:37:36] /c Koolls
+[30/5/2017 10:37:38] /c Koolls
+[30/5/2017 10:37:39] /c Koolls
+[30/5/2017 10:37:41] /c Koolls
+[30/5/2017 10:37:43] /c Koolls
+[30/5/2017 10:37:44] /c Koolls
+[30/5/2017 10:37:45] /c Koolls
+[30/5/2017 10:37:50] /c Koolls
+[30/5/2017 10:38:48] /t
+[30/5/2017 10:52:23] /goto farao
+[30/5/2017 10:57:21] /t
+[30/5/2017 10:58:8] /bc green Vou reiniciar o servidor ! servidor não está pronto por isso não estou divulgando, quem quiser ir jogando pode jogar.
+[30/5/2017 10:58:9] /bc green Vou reiniciar o servidor ! servidor não está pronto por isso não estou divulgando, quem quiser ir jogando pode jogar.
+[30/5/2017 10:58:14] /bc green Vou reiniciar o servidor ! servidor não está pronto por isso não estou divulgando, quem quiser ir jogando pode jogar.
+[30/5/2017 10:58:15] /bc green Vou reiniciar o servidor ! servidor não está pronto por isso não estou divulgando, quem quiser ir jogando pode jogar.
+[30/5/2017 10:59:44] /bc green ALem disso, será adcionado TRIPLE, LOOT, SKILLS !
+[30/5/2017 11:6:35] /save
+[30/5/2017 11:6:57] /sshutdown
+[30/5/2017 11:15:40] /goto incapetado]
+[30/5/2017 11:15:44] /goto incapetado
+[30/5/2017 11:28:31] /goto koolls
+[30/5/2017 11:31:0] /t
+[30/5/2017 11:38:37] /bc green Reiniciando !
+[30/5/2017 11:38:39] /bc green Reiniciando !
+[30/5/2017 11:39:59] /rreload spells
+[30/5/2017 11:42:33] /m treiner
+[30/5/2017 12:29:11] /goto farao
+[30/5/2017 12:29:28] /rreload spells
+[30/5/2017 15:46:3] /goto koolls
+[30/5/2017 15:46:9] /save
+[30/5/2017 15:46:19] /t
+[30/5/2017 15:46:31] /goto Tilta Nao
+[30/5/2017 15:46:34] /t
+[30/5/2017 17:28:56] /goto rock lee
+[30/5/2017 17:28:59] /ghost
+[30/5/2017 17:31:44] /bc green Vou reiniciar !
+[30/5/2017 17:31:46] /bc green Vou reiniciar !
+[30/5/2017 17:36:9] /goto farao
+[30/5/2017 17:38:1] /goto farao
+[30/5/2017 17:39:25] /c shisui
+[30/5/2017 17:39:27] /c shisui
+[30/5/2017 17:39:37] /c koolls
+[30/5/2017 17:40:4] /ghost
+[30/5/2017 17:40:11] /c farao
+[30/5/2017 17:40:14] /c farao
+[30/5/2017 17:40:16] /c farao
+[30/5/2017 17:40:18] /c farao
+[30/5/2017 17:40:26] /c farao
+[30/5/2017 17:40:35] /c farao
+[30/5/2017 17:40:37] /c farao
+[30/5/2017 17:40:39] /c farao
+[30/5/2017 17:40:44] /c koolls
+[30/5/2017 17:41:22] /info farao
+[30/5/2017 17:41:27] /info koolls
+[30/5/2017 17:41:30] /info farao
+[30/5/2017 17:41:36] /info farao
+[30/5/2017 17:41:45] /info koolls
+[30/5/2017 17:44:6] /t Koolls
+[30/5/2017 17:44:16] /t
+[30/5/2017 17:50:38] /rreload spells
+[30/5/2017 17:50:45] /ghost
+[30/5/2017 17:50:46] /ghost
+[30/5/2017 17:50:52] /goto kolls
+[30/5/2017 17:50:54] /goto koolls
+[30/5/2017 17:51:17] /save
+[30/5/2017 17:51:19] /sshutdown
+[30/5/2017 17:54:18] /t
+[30/5/2017 17:55:50] /goto lord atlan
+[30/5/2017 17:56:11] /ii vale sarutobi
+[31/5/2017 0:57:30] /goto tilta nao
+[31/5/2017 5:18:41] /t
+[31/5/2017 5:18:43] /t
+[31/5/2017 5:18:54] /goto jeito ninja
+[31/5/2017 5:19:9] /ghost
+[31/5/2017 5:21:44] /a
+[31/5/2017 5:22:10] /goto Jeito Ninja
+[31/5/2017 5:22:24] /t
+[31/5/2017 5:26:6] /info Jeito Ninja
+[31/5/2017 13:25:18] /rreload talkactions
+[31/5/2017 13:29:32] /goto pedrao ~
+[31/5/2017 13:37:12] /c duff
+[31/5/2017 13:37:16] /aattr group 5
+[31/5/2017 13:40:9] /m treiner
+[31/5/2017 13:41:56] /a 2
+[31/5/2017 13:41:57] /a 2
+[31/5/2017 13:41:58] /a 2
+[31/5/2017 13:42:1] /up
+[31/5/2017 13:42:2] /c duff
+[31/5/2017 13:42:8] /m eletro guard
+[31/5/2017 13:43:48] /r
+[31/5/2017 13:44:52] /ss horflow
+[31/5/2017 13:44:57] /nn horflow
+[31/5/2017 13:44:58] /m horflow
+[31/5/2017 13:45:5] /m Bagometh
+[31/5/2017 13:45:18] /m aligazor
+[31/5/2017 13:45:30] /m eletro guard
+[31/5/2017 13:45:37] /m rygamata
+[31/5/2017 13:46:15] /aaddskill Duff,level,100
+[31/5/2017 13:47:39] /down
+[31/5/2017 13:49:59] /c farao
+[31/5/2017 13:54:38] /r
+[31/5/2017 13:55:19] /m treiner
+[31/5/2017 14:0:27] /r
+[31/5/2017 14:0:50] /ii hokage amulet
+[31/5/2017 14:4:47] /bc green quem está perdido, assista os videos no site !
+[31/5/2017 14:4:48] /bc green quem está perdido, assista os videos no site !
+[31/5/2017 14:5:56] /goto Farao
+[31/5/2017 14:7:14] /aattr vocation 2
+[31/5/2017 14:7:16] /aattr vocation 2
+[31/5/2017 14:7:18] /aattr vocation 2
+[31/5/2017 14:8:22] /ii gunbai
+[31/5/2017 14:11:54] /ii chakra legs
+[31/5/2017 14:11:55] /ii chakra legs
+[31/5/2017 19:7:2] /goto james walters
+[31/5/2017 19:7:59] /a 2
+[31/5/2017 19:25:58] /goto Archangel Luisse
+[31/5/2017 19:27:19] /t
+[31/5/2017 19:27:23] /goto Menino Do Morro
+[31/5/2017 19:27:43] /a 2
+[31/5/2017 19:27:50] /m emperium
+[31/5/2017 19:27:51] /a
+[31/5/2017 19:29:39] /t
+[31/5/2017 19:34:37] /c Archangel Luisse
+[31/5/2017 19:37:27] /t
+[31/5/2017 19:42:16] /rreload spells
+[31/5/2017 19:42:23] /goto rikudou naruto
+[31/5/2017 19:43:3] /goto james walters
+[31/5/2017 19:43:58] /ss aligazor
+[31/5/2017 19:44:4] /ss bagometh
+[31/5/2017 19:44:10] /ss eletro guard
+[31/5/2017 19:46:15] /ii uchiha coat
+[31/5/2017 19:46:29] /ii kurama tunic
+[31/5/2017 19:47:38] /r
+[31/5/2017 19:47:40] /r
+[31/5/2017 19:47:41] /r
+[4/6/2017 13:27:29] /bc green Olá, finalmente, consegui logar kk
+[4/6/2017 13:28:16] /bc green Digam os bugs logo pra eu arrumar rapaziada... !!!
+[4/6/2017 13:28:17] /bc green Digam os bugs logo pra eu arrumar rapaziada... !!!
+[4/6/2017 13:28:17] /bc green Digam os bugs logo pra eu arrumar rapaziada... !!!
+[4/6/2017 13:29:4] /a 3
+[4/6/2017 13:29:4] /a 3
+[4/6/2017 13:29:5] /a 3
+[4/6/2017 13:29:5] /a 3
+[4/6/2017 13:29:5] /a 3
+[4/6/2017 13:29:6] /a 3
+[4/6/2017 13:29:6] /a 3
+[4/6/2017 13:29:6] /a 3
+[4/6/2017 13:29:6] /a 3
+[4/6/2017 13:29:6] /a 3
+[4/6/2017 13:29:7] /a 3
+[4/6/2017 13:29:7] /a 3
+[4/6/2017 13:29:7] /a 3
+[4/6/2017 13:29:7] /a 3
+[4/6/2017 13:29:8] /a 3
+[4/6/2017 13:29:9] /a 3
+[4/6/2017 13:29:9] /a 3
+[4/6/2017 13:29:10] /a 3
+[4/6/2017 13:29:21] /a 3
+[4/6/2017 13:29:21] /a 3
+[4/6/2017 13:29:22] /a 3
+[4/6/2017 13:29:22] /a 3
+[4/6/2017 13:29:23] /a 3
+[4/6/2017 13:29:23] /a 3
+[4/6/2017 13:29:23] /a 3
+[4/6/2017 13:29:23] /a 3
+[4/6/2017 13:29:24] /a 3
+[4/6/2017 13:29:24] /a 3
+[4/6/2017 13:29:24] /a 3
+[4/6/2017 13:29:25] /a 3
+[4/6/2017 13:29:25] /a 3
+[4/6/2017 13:29:25] /a 3
+[4/6/2017 13:29:26] /a 3
+[4/6/2017 13:29:27] /a 3
+[4/6/2017 13:29:29] /a 3
+[4/6/2017 13:29:29] /a 3
+[4/6/2017 13:29:29] /a 3
+[4/6/2017 13:29:30] /a 3
+[4/6/2017 13:29:30] /a 3
+[4/6/2017 13:29:30] /a 3
+[4/6/2017 13:29:30] /a 3
+[4/6/2017 13:29:30] /a 3
+[4/6/2017 13:29:31] /a 3
+[4/6/2017 13:29:31] /a 3
+[4/6/2017 13:29:41] /ii doc secreto anbu
+[4/6/2017 13:29:43] /ii doc secreto anbu
+[4/6/2017 13:29:44] /ii doc secreto anbu
+[4/6/2017 13:29:44] /ii doc secreto anbu
+[4/6/2017 13:29:44] /ii doc secreto anbu
+[4/6/2017 13:29:45] /ii doc secreto anbu
+[4/6/2017 13:29:45] /ii doc secreto anbu
+[4/6/2017 13:29:45] /ii doc secreto anbu
+[4/6/2017 13:29:46] /ii doc secreto anbu
+[4/6/2017 13:29:46] /ii doc secreto anbu
+[4/6/2017 13:29:47] /ii doc secreto anbu
+[4/6/2017 13:29:47] /ii doc secreto anbu
+[4/6/2017 13:29:47] /ii doc secreto anbu
+[4/6/2017 13:54:48] /rreload npc
+[4/6/2017 13:55:45] /rreload npc
+[4/6/2017 13:57:14] /rreload npc
+[4/6/2017 13:57:43] /rreload npc
+[4/6/2017 13:59:27] /rreload npc
+[4/6/2017 13:59:57] /bc green  ORG FUNCIONANDO !
+[4/6/2017 13:59:58] /bc green  ORG FUNCIONANDO !
+[4/6/2017 13:59:58] /t
+[4/6/2017 14:0:3] /bc green  ORG FUNCIONANDO !
+[4/6/2017 14:0:4] /bc green  ORG FUNCIONANDO !
+[4/6/2017 14:0:8] /bc green ME DIGAM MAIS BUG
+[4/6/2017 14:1:44] /goto Estrupa
+[4/6/2017 14:1:47] /goto Estrupa
+[4/6/2017 14:2:15] /t
+[4/6/2017 14:3:28] /bc greenm Vocações irei balanciar jaja
+[4/6/2017 14:3:39] /bc green Vou revisar as voc que estão apelonas vou ver se acho os bugs nela
+[4/6/2017 14:3:52] /bc green QUERO BUG DE JOGO ! SEM SER BALANCIAMENTO !
+[4/6/2017 14:3:53] /bc green QUERO BUG DE JOGO ! SEM SER BALANCIAMENTO !
+[4/6/2017 14:6:1] /c Estrupa
+[4/6/2017 14:6:7] /ii gold bar
+[4/6/2017 14:6:11] /ii 2160
+[4/6/2017 14:6:45] /m kyuubi
+[4/6/2017 14:6:45] /m kyuubi
+[4/6/2017 14:7:2] /c Estrupa
+[4/6/2017 14:7:32] /m kyuubi
+[4/6/2017 14:7:32] /m kyuubi
+[4/6/2017 14:7:33] /m kyuubi
+[4/6/2017 14:7:45] /c Estrupa
+[4/6/2017 14:7:57] /m kyuubi
+[4/6/2017 14:7:57] /m kyuubi
+[4/6/2017 14:7:57] /m kyuubi
+[4/6/2017 14:7:58] /m kyuubi
+[4/6/2017 14:8:10] /c Estrupa
+[4/6/2017 14:8:23] /aaddskill Estrupa,level,7
+[4/6/2017 14:8:29] /aaddskill Estrupa,magic,5
+[4/6/2017 14:8:46] /ii sannin legs
+[4/6/2017 14:8:50] /ii chakra legs
+[4/6/2017 14:10:20] /goto Dagon
+[4/6/2017 14:12:16] /rreload npc
+[4/6/2017 14:12:53] /t
+[4/6/2017 14:12:59] /goto Dagon
+[4/6/2017 14:13:17] /t
+[4/6/2017 14:14:25] /bc green Só tem os jutsus agora faltando ?
+[4/6/2017 14:14:49] /r
+[4/6/2017 14:14:51] /r
+[4/6/2017 14:16:16] /goto strong snake
+[4/6/2017 14:16:17] /c Eu Era Cassiopeia
+[4/6/2017 14:17:8] /t
+[4/6/2017 14:18:57] /bc green Vou reiniciar para adcionar celestia
+[4/6/2017 14:26:48] /c test
+[4/6/2017 14:27:17] /c teste
+[4/6/2017 14:27:27] /aattr teste,level,400
+[4/6/2017 14:27:41] /aaddskill teste,level,400
+[4/6/2017 14:28:45] /m treiner
+[4/6/2017 14:45:49] /goto Estrupa
+[4/6/2017 14:47:49] /t
+[5/6/2017 5:58:20] /up
+[5/6/2017 5:58:22] /m treiner
+[5/6/2017 6:9:20] /rreload mods
+[5/6/2017 6:11:39] /newtype 742
+[5/6/2017 6:12:20] /newtype 960
+[5/6/2017 6:12:41] /newtype 961
+[5/6/2017 6:13:37] /c Incapetado
+[5/6/2017 6:14:17] /c naruto wona
+[5/6/2017 6:14:19] /c naruto owna
+[5/6/2017 6:14:45] /r
+[5/6/2017 6:14:52] /m treiner
+[5/6/2017 6:19:2] /t Naruto Owna
+[5/6/2017 6:19:6] /t incapetado
+[5/6/2017 6:23:0] /rreload spells
+[5/6/2017 6:23:51] /newtype 1019
+[5/6/2017 6:51:29] /goto naruto owna
+[5/6/2017 6:51:36] /t
+[5/6/2017 6:51:45] /bc green Eu fiz amor não fiz a mala !
+[5/6/2017 6:51:47] /bc green Eu fiz amor não fiz a mala !
+[5/6/2017 6:51:57] /up
+[5/6/2017 6:52:5] /info naruto owna
+[5/6/2017 7:35:42] /rreload spells
+[5/6/2017 7:35:50] /bc green TODOS OS DANOS E COMBOS FORAM REVISADOS !
+[5/6/2017 7:35:52] /bc green TODOS OS DANOS E COMBOS FORAM REVISADOS !
+[5/6/2017 7:35:52] /bc green TODOS OS DANOS E COMBOS FORAM REVISADOS !
+[5/6/2017 7:36:15] /bc green Balanciamento concluido, agora resta somente adcionar magias a algumas voc.
+[5/6/2017 7:45:28] /c heroi da fé
+[5/6/2017 7:45:34] /c heroi da 
+[5/6/2017 7:45:37] /c heroi~
+[5/6/2017 7:47:3] /goto belattrix
+[5/6/2017 7:47:12] /a 2
+[5/6/2017 7:47:43] /aaddskill Roberto,sword,110
+[5/6/2017 7:48:17] /aaddskill Roberto,level,200
+[5/6/2017 7:48:22] /aaddskill Roberto,sword,20
+[5/6/2017 7:48:43] /a 2
+[5/6/2017 7:48:48] /a 5
+[5/6/2017 7:48:56] /goto Belattrix
+[5/6/2017 7:48:59] /goto Belattrix
+[5/6/2017 7:49:30] /ii slayer punho
+[5/6/2017 7:49:31] /a 2
+[5/6/2017 7:52:20] /m treiner
+[5/6/2017 7:52:23] /aaddskill Heroi Da Fe ,level,100
+[5/6/2017 7:54:21] /aaddskill Heroi,level,100
+[5/6/2017 7:56:17] /bc green Todos os exausteds sofrerão mudanças.
+[5/6/2017 7:56:18] /bc green Todos os exausteds sofrerão mudanças.
+[5/6/2017 7:56:30] /rreload spells
+[5/6/2017 7:56:55] /aaddskill Heroi,level,100
+[5/6/2017 7:56:56] /aaddskill Heroi,level,100
+[5/6/2017 7:58:5] /ii uchiha legs
+[5/6/2017 7:58:7] /ii uchiha armor
+[5/6/2017 7:58:11] /ii uchiha tunic
+[5/6/2017 7:58:19] /ii uchiha coat
+[5/6/2017 7:58:24] /ii uchiha boots
+[5/6/2017 7:58:25] /ii uchiha helmet
+[5/6/2017 7:58:31] /ii uchiha hat
+[5/6/2017 7:58:34] /ii uchiha bandana
+[5/6/2017 7:59:46] /rreload spells
+[5/6/2017 7:59:55] /rreload spells
+[5/6/2017 8:5:18] /goto Belattrix
+[5/6/2017 9:24:29] /ghost
+[5/6/2017 9:24:34] /goto Rikudou Naruto
+[5/6/2017 9:24:43] /ghost
+[5/6/2017 9:24:58] /newtype 1244
+[5/6/2017 9:25:25] /m treiner
+[5/6/2017 9:26:9] /r
+[5/6/2017 9:31:28] /bc green Pontos entregues.
+[5/6/2017 9:44:13] /goto naruto rikkudo
+[5/6/2017 9:44:16] /rreload spells
+[5/6/2017 9:46:1] /info Senju Nobre
+[5/6/2017 10:0:10] /ccloseserver
+[5/6/2017 10:0:11] /oopenserver
+[5/6/2017 10:2:15] /goto Rah Ziel
+[5/6/2017 10:8:16] /goto Ban Roux
+[5/6/2017 10:9:5] /c Ban Roux
+[5/6/2017 10:9:6] /c Ban Roux
+[5/6/2017 10:9:8] /c Ban Roux
+[5/6/2017 10:9:10] /c Ban Roux
+[5/6/2017 10:9:11] /c Ban Roux
+[5/6/2017 10:9:12] /c Ban Roux
+[5/6/2017 10:9:16] /c Ban Roux
+[5/6/2017 10:9:18] /c Ban Roux
+[5/6/2017 10:9:20] /c Ban Roux
+[5/6/2017 10:9:22] /c Ban Roux
+[5/6/2017 10:10:19] /r
+[5/6/2017 10:24:11] /info Belattrix
+[5/6/2017 10:24:15] /info Belattrix
+[5/6/2017 10:31:31] /ghost
+[5/6/2017 10:41:11] /goto Onoki
+[5/6/2017 10:41:14] /goto Onoki
+[5/6/2017 10:42:4] /bc green MAPA NO SITE !
+[5/6/2017 10:42:6] /bc green MAPA NO SITE !
+[5/6/2017 11:20:25] /info Belattrix
+[5/6/2017 11:30:3] /goto Eu Era Cassiopeia
+[5/6/2017 11:30:54] /t
+[5/6/2017 11:31:12] /goto King Luisseh
+[5/6/2017 11:31:14] /goto King Luisseh
+[5/6/2017 11:31:15] /ghost
+[5/6/2017 11:31:17] /goto King Luisseh
+[5/6/2017 11:32:36] /a 5
+[5/6/2017 11:32:37] /a 5
+[5/6/2017 11:32:42] /a 5
+[5/6/2017 11:32:42] /a 5
+[5/6/2017 11:33:10] /t
+[5/6/2017 11:33:37] /goto Belattrix
+[5/6/2017 11:35:10] /a 2
+[5/6/2017 11:35:11] /a 2
+[5/6/2017 12:2:3] /ghost
+[5/6/2017 12:49:18] /goto Katsu
+[5/6/2017 14:5:2] /ghost
+[5/6/2017 14:5:57] /bc green Reiniciando !
+[5/6/2017 14:5:57] /bc green Reiniciando !
+[5/6/2017 14:5:58] /bc green Reiniciando !
+[5/6/2017 14:6:1] /bc green Reiniciando ! Alterar mapa !
+[5/6/2017 14:6:2] /bc green Reiniciando ! Alterar mapa !
+[5/6/2017 14:6:5] /save
+[5/6/2017 14:6:9] /sshutdown
+[5/6/2017 14:7:48] /ii 2160
+[5/6/2017 14:11:55] /goto katsu
+[5/6/2017 14:12:2] /goto dark wolf
+[5/6/2017 14:12:5] /a 50
+[5/6/2017 14:12:6] /a 50
+[5/6/2017 14:12:9] /c katsu
+[5/6/2017 14:12:11] /a 3
+[5/6/2017 14:12:11] /a 3
+[5/6/2017 14:12:11] /a 3
+[5/6/2017 14:12:12] /a 3
+[5/6/2017 14:12:13] /c katsu
+[5/6/2017 14:12:18] /c katsu
+[5/6/2017 14:12:21] /ghost
+[5/6/2017 14:12:23] /ghost
+[5/6/2017 14:31:11] /aaddskill Heroi,level,320
+[5/6/2017 14:31:18] /aattr vocation 4
+[5/6/2017 14:31:20] /aattr vocation 5
+[5/6/2017 14:31:24] /aattr vocation 6
+[5/6/2017 14:31:27] /aattr vocation 7
+[5/6/2017 14:32:7] /a
+[5/6/2017 14:32:11] /aattr group 3
+[5/6/2017 14:32:29] /newtype 1244,heroi
+[5/6/2017 14:32:43] /nn obito
+[5/6/2017 14:32:54] /ii senju legs
+[5/6/2017 14:32:57] /ii senju armor
+[5/6/2017 14:33:19] /ii hokage amulet
+[5/6/2017 14:33:46] /aaddskill Heroi,fist,80
+[5/6/2017 14:34:6] /ii backpack
+[5/6/2017 14:34:9] /ii 2160
+[5/6/2017 14:34:10] /ii 2160
+[5/6/2017 14:34:33] /ii katon snake shield
+[5/6/2017 14:35:6] /ii Fuuton Snake Shield
+[5/6/2017 14:36:13] /c heoi
+[5/6/2017 14:36:14] /c heroi
+[5/6/2017 14:36:24] /ii doc anbu
+[5/6/2017 14:36:26] /ii doc anbu secreto
+[5/6/2017 14:36:48] /ii Doc Secreto da Anbu
+[5/6/2017 14:36:49] /ii Doc Secreto da Anbu
+[5/6/2017 14:36:49] /ii Doc Secreto da Anbu
+[5/6/2017 14:36:50] /ii Doc Secreto da Anbu
+[5/6/2017 14:36:50] /ii Doc Secreto da Anbu
+[5/6/2017 14:36:50] /ii Doc Secreto da Anbu
+[5/6/2017 14:36:51] /ii Doc Secreto da Anbu
+[5/6/2017 14:36:51] /ii Doc Secreto da Anbu
+[5/6/2017 14:36:58] /ii Doc Secreto  Anbu
+[5/6/2017 14:37:3] /ii Doc Secreto Anbu
+[5/6/2017 14:37:4] /ii Doc Secreto Anbu
+[5/6/2017 14:37:5] /ii Doc Secreto Anbu
+[5/6/2017 14:37:5] /ii Doc Secreto Anbu
+[5/6/2017 14:37:6] /ii Doc Secreto Anbu
+[5/6/2017 14:37:6] /ii Doc Secreto Anbu
+[5/6/2017 14:37:7] /ii Doc Secreto Anbu
+[5/6/2017 14:37:8] /ii Doc Secreto Anbu
+[5/6/2017 14:37:8] /ii Doc Secreto Anbu
+[5/6/2017 14:37:8] /ii Doc Secreto Anbu
+[5/6/2017 14:37:9] /ii Doc Secreto Anbu
+[5/6/2017 14:37:9] /ii Doc Secreto Anbu
+[5/6/2017 14:37:49] /t Heroi
+[5/6/2017 14:37:54] /t
+[5/6/2017 14:37:56] /c Heroi
+[5/6/2017 14:40:28] /c estrupa
+[5/6/2017 14:40:36] /c heroi
+[5/6/2017 14:40:41] /c estrupa
+[5/6/2017 14:43:54] /ii moeda de ouro
+[5/6/2017 14:43:57] /ii moeda vip
+[5/6/2017 14:44:17] /ii 9004
+[5/6/2017 14:44:18] /ii 9004
+[5/6/2017 14:57:58] /goto le irritante
+[5/6/2017 14:58:12] /ghost
+[5/6/2017 14:59:56] /ii 6301
+[5/6/2017 15:1:7] /aaddskill Heroi,magic,10
+[5/6/2017 15:1:13] /aaddskill Heroi,magic,30
+[5/6/2017 15:1:21] /aaddskill Heroi,magic,10
+[5/6/2017 15:42:43] /aattr vocation 3
+[5/6/2017 15:43:9] /aattr vocation 100023
+[5/6/2017 15:43:32] /aattr vocation 100022
+[5/6/2017 15:45:2] /rreload spells
+[5/6/2017 15:45:31] /rreload actions
+[5/6/2017 15:58:58] /ii clock
+[5/6/2017 15:59:52] /ghost
+[5/6/2017 16:2:0] /aattr vocation 7
+[5/6/2017 16:2:30] /newtype 100063
+[5/6/2017 16:7:59] /aattr vocation 100063
+[5/6/2017 16:15:29] /m treiner
+[5/6/2017 16:16:40] /ii uchiha boots
+[5/6/2017 16:16:58] /ii moeda vip
+[5/6/2017 16:17:10] /a 2
+[5/6/2017 16:17:11] /a 2
+[5/6/2017 16:17:12] /r
+[5/6/2017 16:17:14] /r
+[5/6/2017 16:17:16] /a 2
+[5/6/2017 16:17:19] /a 2
+[5/6/2017 16:17:23] /r
+[5/6/2017 16:17:24] /r
+[5/6/2017 16:17:25] /r
+[5/6/2017 16:17:27] /a 2
+[5/6/2017 16:17:43] /bc green Comprem potion
+[5/6/2017 17:27:30] /rreload creaturescripts
+[5/6/2017 17:29:14] /newtype 1243
+[5/6/2017 17:51:49] /kick Belattrix
+[5/6/2017 17:59:22] /a 2
+[5/6/2017 17:59:32] /up
+[5/6/2017 17:59:34] /c masacrador
+[5/6/2017 17:59:36] /ii moeda vip
+[5/6/2017 17:59:42] /t masacrador
+[5/6/2017 17:59:53] /down
+[5/6/2017 18:12:10] /nn alquimista
+[5/6/2017 18:12:14] /nn Alquimista
+[5/6/2017 18:13:12] /r
+[5/6/2017 18:13:14] /r
+[6/6/2017 11:21:38] /info james walters
+[6/6/2017 11:22:33] /bc green Mudanças = Até lv 200  será high exp.
+[6/6/2017 11:22:34] /bc green Mudanças = Até lv 200  será high exp.
+[6/6/2017 11:22:35] /bc green Mudanças = Até lv 200  será high exp.
+[6/6/2017 11:25:39] /ghost
+[6/6/2017 11:31:15] /info shotavix
+[6/6/2017 11:35:22] /a 5
+[6/6/2017 11:35:22] /a 5
+[6/6/2017 11:35:23] /a 5
+[6/6/2017 11:35:24] /a 5
+[6/6/2017 11:38:9] /c James Walters
+[6/6/2017 11:38:13] /ghost
+[6/6/2017 11:38:18] /m treiner
+[6/6/2017 11:39:19] /c bellatrix
+[6/6/2017 11:39:24] /c belattrix
+[6/6/2017 11:42:30] /c belattrix
+[6/6/2017 11:43:10] /aattr vocation 6
+[6/6/2017 11:43:14] /r
+[6/6/2017 11:43:15] /r
+[6/6/2017 11:44:9] /aattr vocation 100053
+[6/6/2017 11:45:6] /aattr vocation 1000203
+[6/6/2017 11:50:13] /aattr vocation 100053
+[6/6/2017 11:53:51] /r
+[6/6/2017 11:55:16] /m treiner
+[6/6/2017 11:55:36] /nn tsunade
+[6/6/2017 11:56:39] /r
+[6/6/2017 11:56:41] /r
+[6/6/2017 12:0:7] /aattr vocation 1000202
+[6/6/2017 12:3:10] /info Mgobito
+[6/6/2017 12:9:54] /a 2
+[6/6/2017 12:12:12] /up
+[6/6/2017 12:12:17] /c mg obito
+[6/6/2017 12:12:19] /c mgobito
+[6/6/2017 12:17:4] /ii moeda vip
+[6/6/2017 12:22:31] /t Mgobito
+[6/6/2017 12:22:31] /down
+[6/6/2017 12:34:22] /info Mgobito
+[6/6/2017 12:36:17] /ii vale vocation tobirama
+[6/6/2017 12:37:12] /a 2
+[6/6/2017 12:40:47] /goto deedall
+[6/6/2017 12:40:51] /goto deeadall
+[6/6/2017 12:40:56] /goto Deeadall
+[6/6/2017 12:46:22] /bc green EVENTO AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:46:23] /bc green EVENTO AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:46:26] /mode npvp
+[6/6/2017 12:46:32] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:46:35] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:46:36] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:46:36] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:46:37] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:11] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:11] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:12] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:12] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:12] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:16] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:17] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:17] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:24] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:49:24] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:50:19] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:50:21] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:50:30] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:51:43] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:51:44] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:51:44] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:51:56] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:51:58] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:52:1] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:52:5] /mc 
+[6/6/2017 12:54:4] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:54:7] /mode pvp
+[6/6/2017 12:56:45] /r
+[6/6/2017 12:56:49] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:56:51] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:56:52] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:57:6] /aaddskill nooway,level,10
+[6/6/2017 12:57:49] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:57:51] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:58:9] /ghost
+[6/6/2017 12:58:10] /ghost
+[6/6/2017 12:58:42] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:58:42] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:58:43] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:58:43] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:58:54] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:58:54] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:58:55] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:58:56] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:58:58] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:59:0] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 12:59:58] /mode npvp
+[6/6/2017 13:0:2] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 13:0:2] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 13:0:4] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 13:0:8] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 13:0:34] /bc green EVENTOS AS 13 HORAS, SAIDA SUL KONOHA \/ !
+[6/6/2017 13:0:43] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:0:44] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:0:46] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:0:50] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:0:51] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:0:52] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:0:56] /c le irritante
+[6/6/2017 13:0:58] /c gordelicia
+[6/6/2017 13:1:4] /c alpha portal
+[6/6/2017 13:1:8] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:8] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:9] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:9] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:10] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:11] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:11] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:12] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:13] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:13] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:14] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:16] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:18] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:18] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:21] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:27] /bc blue QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:30] /bc blue QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:30] /bc blue QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:30] /bc blue QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:31] /bc blue QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:31] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:32] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:32] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:33] /bc green QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:34] /bc blue QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:34] /bc blue QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:34] /bc blue QUEM NÃO VEIO, ESTÁ LONGE MANDA NO HELP  ( EU )
+[6/6/2017 13:1:45] /ii chakra potion
+[6/6/2017 13:2:22] /m emperium
+[6/6/2017 13:2:23] /m emperium
+[6/6/2017 13:2:24] /m emperium
+[6/6/2017 13:2:25] /m emperium
+[6/6/2017 13:2:26] /m emperium
+[6/6/2017 13:2:27] /m emperium
+[6/6/2017 13:2:29] /m emperium
+[6/6/2017 13:2:31] /m emperium
+[6/6/2017 13:2:32] /m emperium
+[6/6/2017 13:2:34] /m emperium
+[6/6/2017 13:2:40] /m emperium
+[6/6/2017 13:2:41] /m emperium
+[6/6/2017 13:2:44] /m emperium
+[6/6/2017 13:2:50] /bc green EMPERIUM !
+[6/6/2017 13:2:51] /bc green EMPERIUM !
+[6/6/2017 13:2:56] /bc green EMPERIUM !
+[6/6/2017 13:2:57] /bc green EMPERIUM !
+[6/6/2017 13:2:59] /m emperium
+[6/6/2017 13:3:2] /m emperium
+[6/6/2017 13:3:9] /bc green EMPERIUM !
+[6/6/2017 13:3:10] /m emperium
+[6/6/2017 13:3:11] /m emperium
+[6/6/2017 13:3:12] /bc green EMPERIUM !
+[6/6/2017 13:3:13] /m emperium
+[6/6/2017 13:3:13] /bc green EMPERIUM !
+[6/6/2017 13:3:14] /m emperium
+[6/6/2017 13:3:14] /bc green EMPERIUM !
+[6/6/2017 13:3:15] /m emperium
+[6/6/2017 13:3:15] /bc green EMPERIUM !
+[6/6/2017 13:3:17] /bc green EMPERIUM !
+[6/6/2017 13:3:17] /m emperium
+[6/6/2017 13:3:18] /bc green EMPERIUM !
+[6/6/2017 13:3:18] /m emperium
+[6/6/2017 13:3:20] /bc green EMPERIUM !
+[6/6/2017 13:3:20] /m emperium
+[6/6/2017 13:3:28] /m emperium
+[6/6/2017 13:3:28] /bc green EMPERIUM !
+[6/6/2017 13:3:32] /m emperium
+[6/6/2017 13:3:33] /bc green EMPERIUM !
+[6/6/2017 13:3:42] /m emperium
+[6/6/2017 13:3:43] /bc green EMPERIUM !
+[6/6/2017 13:3:44] /m emperium
+[6/6/2017 13:3:44] /bc green EMPERIUM !
+[6/6/2017 13:3:45] /m emperium
+[6/6/2017 13:3:45] /bc green EMPERIUM !
+[6/6/2017 13:3:47] /m emperium
+[6/6/2017 13:3:47] /bc green EMPERIUM !
+[6/6/2017 13:3:48] /m emperium
+[6/6/2017 13:3:49] /bc green EMPERIUM !
+[6/6/2017 13:3:51] /bc green EMPERIUM !
+[6/6/2017 13:3:52] /bc green EMPERIUM !
+[6/6/2017 13:3:53] /bc green EMPERIUM !
+[6/6/2017 13:3:54] /bc green EMPERIUM !
+[6/6/2017 13:3:54] /bc green EMPERIUM !
+[6/6/2017 13:3:55] /bc green EMPERIUM !
+[6/6/2017 13:3:56] /bc green EMPERIUM !
+[6/6/2017 13:3:57] /bc green EMPERIUM !
+[6/6/2017 13:3:58] /bc green EMPERIUM !
+[6/6/2017 13:3:58] /bc green EMPERIUM !
+[6/6/2017 13:3:59] /m emperium
+[6/6/2017 13:4:0] /m emperium
+[6/6/2017 13:4:0] /bc green EMPERIUM !
+[6/6/2017 13:4:1] /m emperium
+[6/6/2017 13:4:1] /bc green EMPERIUM !
+[6/6/2017 13:4:2] /m emperium
+[6/6/2017 13:4:2] /bc green EMPERIUM !
+[6/6/2017 13:4:3] /m emperium
+[6/6/2017 13:4:3] /bc green EMPERIUM !
+[6/6/2017 13:4:4] /m emperium
+[6/6/2017 13:4:4] /bc green EMPERIUM !
+[6/6/2017 13:4:5] /m emperium
+[6/6/2017 13:4:5] /bc green EMPERIUM !
+[6/6/2017 13:4:6] /m emperium
+[6/6/2017 13:4:6] /bc green EMPERIUM !
+[6/6/2017 13:4:7] /m emperium
+[6/6/2017 13:4:7] /bc green EMPERIUM !
+[6/6/2017 13:4:8] /bc green EMPERIUM !
+[6/6/2017 13:4:9] /bc green EMPERIUM !
+[6/6/2017 13:4:10] /bc green EMPERIUM !
+[6/6/2017 13:4:11] /m emperium
+[6/6/2017 13:4:11] /bc green EMPERIUM !
+[6/6/2017 13:4:12] /m emperium
+[6/6/2017 13:4:12] /bc green EMPERIUM !
+[6/6/2017 13:4:13] /m emperium
+[6/6/2017 13:4:14] /bc green EMPERIUM !
+[6/6/2017 13:4:15] /bc green EMPERIUM !
+[6/6/2017 13:4:16] /bc green EMPERIUM !
+[6/6/2017 13:4:17] /bc green EMPERIUM !
+[6/6/2017 13:4:17] /bc green EMPERIUM !
+[6/6/2017 13:4:18] /bc green EMPERIUM !
+[6/6/2017 13:4:19] /bc green EMPERIUM !
+[6/6/2017 13:4:20] /bc green EMPERIUM !
+[6/6/2017 13:4:20] /bc green EMPERIUM !
+[6/6/2017 13:4:21] /bc green EMPERIUM !
+[6/6/2017 13:4:22] /bc green EMPERIUM !
+[6/6/2017 13:4:22] /bc green EMPERIUM !
+[6/6/2017 13:4:27] /bc green EMPERIUM !
+[6/6/2017 13:4:28] /bc green EMPERIUM !
+[6/6/2017 13:4:29] /bc green EMPERIUM !
+[6/6/2017 13:4:30] /bc green EMPERIUM !
+[6/6/2017 13:4:35] /bc green EMPERIUM !
+[6/6/2017 13:4:39] /bc green EMPERIUM !
+[6/6/2017 13:4:39] /a 3
+[6/6/2017 13:4:43] /bc green EMPERIUM !
+[6/6/2017 13:4:44] /m emperium
+[6/6/2017 13:4:45] /m emperium
+[6/6/2017 13:4:46] /bc green EMPERIUM !
+[6/6/2017 13:4:47] /m emperium
+[6/6/2017 13:4:48] /m emperium
+[6/6/2017 13:4:49] /bc green EMPERIUM !
+[6/6/2017 13:4:49] /m emperium
+[6/6/2017 13:4:51] /m emperium
+[6/6/2017 13:4:51] /bc green EMPERIUM !
+[6/6/2017 13:4:52] /m emperium
+[6/6/2017 13:4:52] /bc green EMPERIUM !
+[6/6/2017 13:4:53] /m emperium
+[6/6/2017 13:4:54] /bc green EMPERIUM !
+[6/6/2017 13:4:55] /m emperium
+[6/6/2017 13:4:55] /bc green EMPERIUM !
+[6/6/2017 13:5:1] /c Fukasaki Kun
+[6/6/2017 13:5:3] /bc green EMPERIUM !
+[6/6/2017 13:5:4] /m emperium
+[6/6/2017 13:5:5] /bc green EMPERIUM !
+[6/6/2017 13:5:7] /bc green EMPERIUM !
+[6/6/2017 13:5:8] /bc green EMPERIUM !
+[6/6/2017 13:5:9] /bc green EMPERIUM !
+[6/6/2017 13:5:10] /bc green EMPERIUM !
+[6/6/2017 13:5:12] /bc green EMPERIUM !
+[6/6/2017 13:5:13] /bc green EMPERIUM !
+[6/6/2017 13:5:16] /bc green EMPERIUM !
+[6/6/2017 13:5:19] /bc green EMPERIUM !
+[6/6/2017 13:5:21] /bc green EMPERIUM !
+[6/6/2017 13:5:24] /m emperium
+[6/6/2017 13:5:25] /m emperium
+[6/6/2017 13:5:26] /m emperium
+[6/6/2017 13:5:27] /m emperium
+[6/6/2017 13:5:28] /bc green EMPERIUM !
+[6/6/2017 13:5:29] /m emperium
+[6/6/2017 13:5:30] /m emperium
+[6/6/2017 13:5:30] /bc green EMPERIUM !
+[6/6/2017 13:5:30] /m emperium
+[6/6/2017 13:5:31] /m emperium
+[6/6/2017 13:5:32] /bc green EMPERIUM !
+[6/6/2017 13:5:32] /m emperium
+[6/6/2017 13:5:33] /bc green EMPERIUM !
+[6/6/2017 13:5:33] /m emperium
+[6/6/2017 13:5:34] /bc green EMPERIUM !
+[6/6/2017 13:5:35] /m emperium
+[6/6/2017 13:5:35] /bc green EMPERIUM !
+[6/6/2017 13:5:36] /bc green EMPERIUM !
+[6/6/2017 13:5:36] /m emperium
+[6/6/2017 13:5:36] /bc green EMPERIUM !
+[6/6/2017 13:5:37] /m emperium
+[6/6/2017 13:5:38] /m emperium
+[6/6/2017 13:5:38] /bc green EMPERIUM !
+[6/6/2017 13:5:38] /m emperium
+[6/6/2017 13:5:39] /bc green EMPERIUM !
+[6/6/2017 13:5:40] /m emperium
+[6/6/2017 13:5:40] /bc green EMPERIUM !
+[6/6/2017 13:5:41] /m emperium
+[6/6/2017 13:5:41] /bc green EMPERIUM !
+[6/6/2017 13:5:42] /m emperium
+[6/6/2017 13:5:42] /bc green EMPERIUM !
+[6/6/2017 13:5:42] /m emperium
+[6/6/2017 13:5:42] /bc green EMPERIUM !
+[6/6/2017 13:5:43] /m emperium
+[6/6/2017 13:5:43] /bc green EMPERIUM !
+[6/6/2017 13:5:44] /m emperium
+[6/6/2017 13:5:44] /bc green EMPERIUM !
+[6/6/2017 13:5:45] /m emperium
+[6/6/2017 13:5:45] /bc green EMPERIUM !
+[6/6/2017 13:5:46] /m emperium
+[6/6/2017 13:5:46] /bc green EMPERIUM !
+[6/6/2017 13:5:47] /m emperium
+[6/6/2017 13:5:47] /bc green EMPERIUM !
+[6/6/2017 13:5:48] /m emperium
+[6/6/2017 13:5:48] /bc green EMPERIUM !
+[6/6/2017 13:5:49] /m emperium
+[6/6/2017 13:5:49] /bc green EMPERIUM !
+[6/6/2017 13:5:50] /m emperium
+[6/6/2017 13:5:50] /bc green EMPERIUM !
+[6/6/2017 13:5:51] /m emperium
+[6/6/2017 13:5:51] /bc green EMPERIUM !
+[6/6/2017 13:5:52] /m emperium
+[6/6/2017 13:5:52] /bc green EMPERIUM !
+[6/6/2017 13:5:53] /m emperium
+[6/6/2017 13:5:53] /bc green EMPERIUM !
+[6/6/2017 13:5:54] /m emperium
+[6/6/2017 13:5:54] /bc green EMPERIUM !
+[6/6/2017 13:5:55] /m emperium
+[6/6/2017 13:5:55] /bc green EMPERIUM !
+[6/6/2017 13:5:55] /m emperium
+[6/6/2017 13:5:55] /bc green EMPERIUM !
+[6/6/2017 13:5:56] /m emperium
+[6/6/2017 13:5:56] /bc green EMPERIUM !
+[6/6/2017 13:5:57] /m emperium
+[6/6/2017 13:5:58] /bc green EMPERIUM !
+[6/6/2017 13:5:59] /bc green EMPERIUM !
+[6/6/2017 13:5:59] /bc green EMPERIUM !
+[6/6/2017 13:6:0] /bc green EMPERIUM !
+[6/6/2017 13:6:1] /bc green EMPERIUM !
+[6/6/2017 13:6:1] /bc green EMPERIUM !
+[6/6/2017 13:6:2] /bc green EMPERIUM !
+[6/6/2017 13:6:3] /bc green EMPERIUM !
+[6/6/2017 13:6:3] /bc green EMPERIUM !
+[6/6/2017 13:6:4] /bc green EMPERIUM !
+[6/6/2017 13:6:5] /bc green EMPERIUM !
+[6/6/2017 13:6:5] /bc green EMPERIUM !
+[6/6/2017 13:6:6] /bc green EMPERIUM !
+[6/6/2017 13:6:7] /bc green EMPERIUM !
+[6/6/2017 13:6:7] /bc green EMPERIUM !
+[6/6/2017 13:6:8] /bc green EMPERIUM !
+[6/6/2017 13:6:9] /bc green EMPERIUM !
+[6/6/2017 13:6:9] /bc green EMPERIUM !
+[6/6/2017 13:6:10] /bc green EMPERIUM !
+[6/6/2017 13:6:11] /bc green EMPERIUM !
+[6/6/2017 13:6:11] /bc green EMPERIUM !
+[6/6/2017 13:6:12] /bc green EMPERIUM !
+[6/6/2017 13:6:12] /bc green EMPERIUM !
+[6/6/2017 13:6:13] /bc green EMPERIUM !
+[6/6/2017 13:6:14] /bc green EMPERIUM !
+[6/6/2017 13:6:14] /bc green EMPERIUM !
+[6/6/2017 13:6:15] /bc green EMPERIUM !
+[6/6/2017 13:6:16] /bc green EMPERIUM !
+[6/6/2017 13:6:17] /bc green EMPERIUM !
+[6/6/2017 13:6:18] /bc green EMPERIUM !
+[6/6/2017 13:6:18] /bc green EMPERIUM !
+[6/6/2017 13:6:23] /bc green EMPERIUM !
+[6/6/2017 13:6:26] /bc green EMPERIUM !
+[6/6/2017 13:6:27] /bc green EMPERIUM !
+[6/6/2017 13:6:28] /bc green EMPERIUM !
+[6/6/2017 13:6:29] /bc green EMPERIUM !
+[6/6/2017 13:6:30] /bc green EMPERIUM !
+[6/6/2017 13:6:30] /bc green EMPERIUM !
+[6/6/2017 13:6:31] /bc green EMPERIUM !
+[6/6/2017 13:6:31] /bc green EMPERIUM !
+[6/6/2017 13:6:32] /bc green EMPERIUM !
+[6/6/2017 13:6:32] /bc green EMPERIUM !
+[6/6/2017 13:6:33] /bc green EMPERIUM !
+[6/6/2017 13:6:34] /bc green EMPERIUM !
+[6/6/2017 13:6:34] /bc green EMPERIUM !
+[6/6/2017 13:6:34] /bc green EMPERIUM !
+[6/6/2017 13:6:35] /bc green EMPERIUM !
+[6/6/2017 13:6:35] /bc green EMPERIUM !
+[6/6/2017 13:6:36] /bc green EMPERIUM !
+[6/6/2017 13:6:36] /bc green EMPERIUM !
+[6/6/2017 13:6:37] /bc green EMPERIUM !
+[6/6/2017 13:6:37] /bc green EMPERIUM !
+[6/6/2017 13:6:38] /bc green EMPERIUM !
+[6/6/2017 13:6:39] /bc green EMPERIUM !
+[6/6/2017 13:6:39] /bc green EMPERIUM !
+[6/6/2017 13:6:40] /bc green EMPERIUM !
+[6/6/2017 13:6:40] /bc green EMPERIUM !
+[6/6/2017 13:6:41] /bc green EMPERIUM !
+[6/6/2017 13:6:41] /bc green EMPERIUM !
+[6/6/2017 13:6:42] /bc green EMPERIUM !
+[6/6/2017 13:6:43] /bc green EMPERIUM !
+[6/6/2017 13:6:43] /bc green EMPERIUM !
+[6/6/2017 13:6:44] /bc green EMPERIUM !
+[6/6/2017 13:6:44] /bc green EMPERIUM !
+[6/6/2017 13:6:45] /bc green EMPERIUM !
+[6/6/2017 13:6:45] /bc green EMPERIUM !
+[6/6/2017 13:6:46] /bc green EMPERIUM !
+[6/6/2017 13:6:47] /bc green EMPERIUM !
+[6/6/2017 13:6:47] /bc green EMPERIUM !
+[6/6/2017 13:6:48] /bc green EMPERIUM !
+[6/6/2017 13:6:48] /bc green EMPERIUM !
+[6/6/2017 13:6:49] /bc green EMPERIUM !
+[6/6/2017 13:6:50] /bc green EMPERIUM !
+[6/6/2017 13:6:51] /bc green EMPERIUM !
+[6/6/2017 13:6:51] /bc green EMPERIUM !
+[6/6/2017 13:6:51] /bc green EMPERIUM !
+[6/6/2017 13:6:52] /bc green EMPERIUM !
+[6/6/2017 13:6:52] /m emperium
+[6/6/2017 13:6:53] /bc green EMPERIUM !
+[6/6/2017 13:6:53] /bc green EMPERIUM !
+[6/6/2017 13:6:53] /m emperium
+[6/6/2017 13:6:53] /bc green EMPERIUM !
+[6/6/2017 13:6:54] /m emperium
+[6/6/2017 13:6:54] /bc green EMPERIUM !
+[6/6/2017 13:6:54] /m emperium
+[6/6/2017 13:6:54] /bc green EMPERIUM !
+[6/6/2017 13:6:54] /m emperium
+[6/6/2017 13:6:54] /bc green EMPERIUM !
+[6/6/2017 13:6:54] /m emperium
+[6/6/2017 13:6:54] /bc green EMPERIUM !
+[6/6/2017 13:6:55] /m emperium
+[6/6/2017 13:6:55] /bc green EMPERIUM !
+[6/6/2017 13:6:55] /m emperium
+[6/6/2017 13:6:55] /bc green EMPERIUM !
+[6/6/2017 13:6:55] /m emperium
+[6/6/2017 13:6:55] /bc green EMPERIUM !
+[6/6/2017 13:6:55] /m emperium
+[6/6/2017 13:6:55] /bc green EMPERIUM !
+[6/6/2017 13:6:55] /m emperium
+[6/6/2017 13:6:56] /bc green EMPERIUM !
+[6/6/2017 13:6:56] /m emperium
+[6/6/2017 13:6:56] /bc green EMPERIUM !
+[6/6/2017 13:6:57] /m emperium
+[6/6/2017 13:6:57] /bc green EMPERIUM !
+[6/6/2017 13:6:57] /m emperium
+[6/6/2017 13:6:57] /bc green EMPERIUM !
+[6/6/2017 13:6:57] /m emperium
+[6/6/2017 13:6:57] /bc green EMPERIUM !
+[6/6/2017 13:6:57] /m emperium
+[6/6/2017 13:6:57] /bc green EMPERIUM !
+[6/6/2017 13:6:58] /m emperium
+[6/6/2017 13:6:58] /bc green EMPERIUM !
+[6/6/2017 13:6:58] /m emperium
+[6/6/2017 13:6:58] /bc green EMPERIUM !
+[6/6/2017 13:6:58] /m emperium
+[6/6/2017 13:6:58] /bc green EMPERIUM !
+[6/6/2017 13:6:59] /m emperium
+[6/6/2017 13:6:59] /bc green EMPERIUM !
+[6/6/2017 13:7:0] /m emperium
+[6/6/2017 13:7:1] /bc green EMPERIUM !
+[6/6/2017 13:7:3] /bc green EMPERIUM !
+[6/6/2017 13:7:5] /bc green EMPERIUM !
+[6/6/2017 13:7:6] /bc green EMPERIUM !
+[6/6/2017 13:7:11] /bc green EMPERIUM !
+[6/6/2017 13:7:13] /bc green EMPERIUM !
+[6/6/2017 13:7:14] /bc green EMPERIUM !
+[6/6/2017 13:7:14] /bc green EMPERIUM !
+[6/6/2017 13:7:15] /bc green EMPERIUM !
+[6/6/2017 13:7:16] /bc green EMPERIUM !
+[6/6/2017 13:7:17] /bc green EMPERIUM !
+[6/6/2017 13:7:18] /bc green EMPERIUM !
+[6/6/2017 13:7:19] /bc green EMPERIUM !
+[6/6/2017 13:7:20] /bc green EMPERIUM !
+[6/6/2017 13:7:20] /bc green EMPERIUM !
+[6/6/2017 13:7:22] /bc green EMPERIUM !
+[6/6/2017 13:7:22] /bc green EMPERIUM !
+[6/6/2017 13:7:23] /bc green EMPERIUM !
+[6/6/2017 13:7:26] /m alygazor
+[6/6/2017 13:7:27] /m alygazor
+[6/6/2017 13:7:27] /m alygazor
+[6/6/2017 13:7:27] /m alygazor
+[6/6/2017 13:7:28] /m alygazor
+[6/6/2017 13:7:28] /m alygazor
+[6/6/2017 13:7:29] /m alygazor
+[6/6/2017 13:7:30] /m alygazor
+[6/6/2017 13:7:33] /m bagometh
+[6/6/2017 13:7:35] /m bagometh
+[6/6/2017 13:7:35] /m bagometh
+[6/6/2017 13:7:36] /m bagometh
+[6/6/2017 13:7:39] /m bagometh
+[6/6/2017 13:7:46] /m eletro guard
+[6/6/2017 13:7:46] /m eletro guard
+[6/6/2017 13:7:47] /m eletro guard
+[6/6/2017 13:7:47] /m eletro guard
+[6/6/2017 13:7:48] /m eletro guard
+[6/6/2017 13:8:18] /m alygazor
+[6/6/2017 13:8:21] /m alygazhor
+[6/6/2017 13:8:25] /bc green EMPERIUM !
+[6/6/2017 13:8:29] /bc green EMPERIUM !
+[6/6/2017 13:8:30] /bc green EMPERIUM !
+[6/6/2017 13:8:31] /bc green EMPERIUM !
+[6/6/2017 13:8:32] /bc green EMPERIUM !
+[6/6/2017 13:8:32] /bc green EMPERIUM !
+[6/6/2017 13:8:34] /bc green EMPERIUM !
+[6/6/2017 13:8:34] /bc green EMPERIUM !
+[6/6/2017 13:8:35] /bc green EMPERIUM !
+[6/6/2017 13:8:35] /bc green EMPERIUM !
+[6/6/2017 13:8:36] /bc green EMPERIUM !
+[6/6/2017 13:8:37] /bc green EMPERIUM !
+[6/6/2017 13:8:38] /m emperium
+[6/6/2017 13:8:38] /m emperium
+[6/6/2017 13:8:39] /m emperium
+[6/6/2017 13:8:39] /bc green EMPERIUM !
+[6/6/2017 13:8:39] /m emperium
+[6/6/2017 13:8:39] /bc green EMPERIUM !
+[6/6/2017 13:8:39] /m emperium
+[6/6/2017 13:8:39] /bc green EMPERIUM !
+[6/6/2017 13:8:40] /m emperium
+[6/6/2017 13:8:40] /bc green EMPERIUM !
+[6/6/2017 13:8:41] /m emperium
+[6/6/2017 13:8:41] /bc green EMPERIUM !
+[6/6/2017 13:8:41] /m emperium
+[6/6/2017 13:8:41] /bc green EMPERIUM !
+[6/6/2017 13:8:42] /m emperium
+[6/6/2017 13:8:42] /bc green EMPERIUM !
+[6/6/2017 13:8:42] /m emperium
+[6/6/2017 13:8:42] /bc green EMPERIUM !
+[6/6/2017 13:8:42] /m emperium
+[6/6/2017 13:8:43] /bc green EMPERIUM !
+[6/6/2017 13:8:47] /r
+[6/6/2017 13:8:49] /r
+[6/6/2017 13:8:53] /bc green EMPERIUM !
+[6/6/2017 13:8:54] /m emperium
+[6/6/2017 13:8:56] /m emperium
+[6/6/2017 13:8:56] /m emperium
+[6/6/2017 13:8:57] /bc green EMPERIUM !
+[6/6/2017 13:8:57] /m emperium
+[6/6/2017 13:8:57] /bc green EMPERIUM !
+[6/6/2017 13:8:57] /m emperium
+[6/6/2017 13:8:57] /bc green EMPERIUM !
+[6/6/2017 13:8:57] /m emperium
+[6/6/2017 13:8:58] /bc green EMPERIUM !
+[6/6/2017 13:8:58] /m emperium
+[6/6/2017 13:8:58] /bc green EMPERIUM !
+[6/6/2017 13:8:58] /m emperium
+[6/6/2017 13:8:58] /bc green EMPERIUM !
+[6/6/2017 13:8:58] /m emperium
+[6/6/2017 13:8:58] /bc green EMPERIUM !
+[6/6/2017 13:8:59] /m emperium
+[6/6/2017 13:8:59] /bc green EMPERIUM !
+[6/6/2017 13:9:0] /m emperium
+[6/6/2017 13:9:0] /bc green EMPERIUM !
+[6/6/2017 13:9:0] /m emperium
+[6/6/2017 13:9:0] /bc green EMPERIUM !
+[6/6/2017 13:9:1] /m emperium
+[6/6/2017 13:9:1] /bc green EMPERIUM !
+[6/6/2017 13:9:2] /m emperium
+[6/6/2017 13:9:2] /bc green EMPERIUM !
+[6/6/2017 13:9:2] /bc green EMPERIUM !
+[6/6/2017 13:9:2] /m emperium
+[6/6/2017 13:9:2] /bc green EMPERIUM !
+[6/6/2017 13:9:2] /bc green EMPERIUM !
+[6/6/2017 13:9:3] /bc green EMPERIUM !
+[6/6/2017 13:9:4] /bc green EMPERIUM !
+[6/6/2017 13:9:4] /m emperium
+[6/6/2017 13:9:4] /bc green EMPERIUM !
+[6/6/2017 13:9:4] /m emperium
+[6/6/2017 13:9:4] /m emperium
+[6/6/2017 13:9:4] /bc green EMPERIUM !
+[6/6/2017 13:9:5] /bc green EMPERIUM !
+[6/6/2017 13:9:5] /bc green EMPERIUM !
+[6/6/2017 13:9:6] /m emperium
+[6/6/2017 13:9:6] /bc green EMPERIUM !
+[6/6/2017 13:9:7] /m emperium
+[6/6/2017 13:9:7] /bc green EMPERIUM !
+[6/6/2017 13:9:7] /m emperium
+[6/6/2017 13:9:7] /bc green EMPERIUM !
+[6/6/2017 13:9:7] /m emperium
+[6/6/2017 13:9:7] /bc green EMPERIUM !
+[6/6/2017 13:9:7] /m emperium
+[6/6/2017 13:9:7] /bc green EMPERIUM !
+[6/6/2017 13:9:8] /m emperium
+[6/6/2017 13:9:8] /bc green EMPERIUM !
+[6/6/2017 13:9:8] /bc green EMPERIUM !
+[6/6/2017 13:9:8] /m emperium
+[6/6/2017 13:9:9] /m emperium
+[6/6/2017 13:9:9] /bc green EMPERIUM !
+[6/6/2017 13:9:9] /bc green EMPERIUM !
+[6/6/2017 13:9:10] /bc green EMPERIUM !
+[6/6/2017 13:9:11] /bc green EMPERIUM !
+[6/6/2017 13:9:12] /bc green EMPERIUM !
+[6/6/2017 13:9:13] /bc green EMPERIUM !
+[6/6/2017 13:9:13] /bc green EMPERIUM !
+[6/6/2017 13:9:14] /bc green EMPERIUM !
+[6/6/2017 13:9:15] /bc green EMPERIUM !
+[6/6/2017 13:9:15] /bc green EMPERIUM !
+[6/6/2017 13:9:16] /bc green EMPERIUM !
+[6/6/2017 13:9:16] /bc green EMPERIUM !
+[6/6/2017 13:9:17] /bc green EMPERIUM !
+[6/6/2017 13:9:17] /bc green EMPERIUM !
+[6/6/2017 13:9:18] /bc green EMPERIUM !
+[6/6/2017 13:9:18] /bc green EMPERIUM !
+[6/6/2017 13:9:19] /bc green EMPERIUM !
+[6/6/2017 13:9:19] /bc green EMPERIUM !
+[6/6/2017 13:9:20] /bc green EMPERIUM !
+[6/6/2017 13:9:20] /bc green EMPERIUM !
+[6/6/2017 13:9:21] /bc green EMPERIUM !
+[6/6/2017 13:9:21] /bc green EMPERIUM !
+[6/6/2017 13:9:22] /bc green EMPERIUM !
+[6/6/2017 13:9:22] /bc green EMPERIUM !
+[6/6/2017 13:9:23] /bc green EMPERIUM !
+[6/6/2017 13:9:23] /bc green EMPERIUM !
+[6/6/2017 13:9:23] /bc green EMPERIUM !
+[6/6/2017 13:9:24] /bc green EMPERIUM !
+[6/6/2017 13:9:24] /bc green EMPERIUM !
+[6/6/2017 13:9:25] /bc green EMPERIUM !
+[6/6/2017 13:9:25] /bc green EMPERIUM !
+[6/6/2017 13:9:25] /bc green EMPERIUM !
+[6/6/2017 13:9:25] /bc green EMPERIUM !
+[6/6/2017 13:10:38] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:40] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:41] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:42] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:42] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:48] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:50] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:51] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:52] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:53] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:53] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:54] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:55] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:56] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:56] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:57] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:58] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:58] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:10:59] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:11:0] /bc green Vou fazer kyuubi, quem tem medo de morrer se retire !
+[6/6/2017 13:11:3] /m kyuubi
+[6/6/2017 13:11:32] /m kyuubi
+[6/6/2017 13:11:57] /m kyuubi
+[6/6/2017 13:12:20] /m kyuubi
+[6/6/2017 13:12:53] /bc green Ligando pvp
+[6/6/2017 13:13:13] /mode pvp
+[6/6/2017 13:15:5] /ghost
+[6/6/2017 13:17:6] /bc green Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:17:7] /bc green Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:17:8] /bc green Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:17:8] /bc green Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:17:17] /bc green Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:17:18] /bc green Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:17:22] /bc blue Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:17:22] /bc blue Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:17:24] /bc blue Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:17:27] /bc blue Lembrando que está TRIPLE LOOT, agora é a hora de farmar moedas, voces estao perdendo tempo, quando acabar ficará muito mais dificil !
+[6/6/2017 13:19:53] /bc blue Nao existe double points nesse server, os item ficam pela metade do prelo, uma parte do set é apenas 5 pontos !
+[6/6/2017 13:19:54] /bc blue Nao existe double points nesse server, os item ficam pela metade do prelo, uma parte do set é apenas 5 pontos !
+[6/6/2017 13:20:42] /goto Mgtobirama
+[6/6/2017 13:21:17] /aattr vocation 20
+[6/6/2017 13:21:23] /aattr vocation 21
+[6/6/2017 13:21:36] /aattr vocation 22
+[6/6/2017 13:21:40] /t
+[6/6/2017 13:21:48] /ghost
+[6/6/2017 13:22:54] /goto Eu Era Cassiopeia
+[6/6/2017 13:24:7] /c eu era 
+[6/6/2017 13:24:10] /c eu era~
+[6/6/2017 13:26:19] /t
+[6/6/2017 13:26:21] /ghost
+[6/6/2017 13:29:13] /goto Lord Atlan
+[6/6/2017 13:29:21] /t
+[6/6/2017 14:7:21] /goto Mlk Piranha
+[6/6/2017 14:7:25] /c Mlk Piranha
+[6/6/2017 14:7:26] /ghost
+[6/6/2017 14:7:35] /ghost
+[6/6/2017 14:7:36] /c Mlk Piranha
+[6/6/2017 14:7:37] /ghost
+[6/6/2017 14:7:40] /c Mlk Piranha
+[6/6/2017 14:7:42] /c Mlk Piranha
+[6/6/2017 14:7:44] /c Mlk Piranha
+[6/6/2017 14:7:45] /c Mlk Piranha
+[6/6/2017 14:7:47] /c Mlk Piranha
+[6/6/2017 14:7:48] /c Mlk Piranha
+[6/6/2017 14:8:7] /ghost
+[6/6/2017 16:40:30] /ghost
+[6/6/2017 16:40:31] /ghost
+[6/6/2017 16:40:34] /goto duff
+[6/6/2017 16:40:46] /goto duff
+[6/6/2017 16:42:32] /ghost
+[6/6/2017 16:42:45] /mc duff
+[6/6/2017 16:42:45] /mc duff
+[6/6/2017 16:42:47] /ghost
+[6/6/2017 16:42:49] /goto nooway
+[6/6/2017 16:42:59] /goto Holydox
+[6/6/2017 16:43:0] /ghost
+[6/6/2017 16:43:4] /a 5
+[6/6/2017 16:45:6] /t
+[6/6/2017 16:45:8] /ghost
+[6/6/2017 16:50:14] /goto Ames The King
+[6/6/2017 16:50:25] /ghost
+[6/6/2017 16:50:36] /t
+[6/6/2017 16:50:38] /ghost
+[6/6/2017 16:52:17] /goto Ames The King
+[6/6/2017 16:52:18] /ghost
+[6/6/2017 16:55:16] /ii hokage amulet
+[6/6/2017 16:55:25] /t
+[6/6/2017 16:55:29] /ghost
+[6/6/2017 16:55:33] /goto Ames The King
+[6/6/2017 16:57:22] /goto Shodblock
+[6/6/2017 16:57:23] /ghost
+[6/6/2017 16:58:9] /ii moeda vip
+[6/6/2017 16:58:36] /a 5
+[6/6/2017 16:58:37] /a 5
+[6/6/2017 16:58:37] /a 5
+[6/6/2017 16:58:37] /a 5
+[6/6/2017 16:58:38] /ghost
+[6/6/2017 16:59:15] /a
+[6/6/2017 17:1:59] /goto Lord Atlan
+[6/6/2017 17:3:19] /goto Lord Atlan
+[6/6/2017 17:3:38] /goto Lord Atlan
+[6/6/2017 17:4:40] /goto Lord Atlan
+[6/6/2017 17:4:43] /goto Lord Atlan
+[6/6/2017 17:6:56] /goto Lord Atlan
+[6/6/2017 17:7:0] /t
+[6/6/2017 17:9:34] /t
+[6/6/2017 17:17:10] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:17:11] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:19:6] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:19:8] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:19:8] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:19:9] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:19:9] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:19:9] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:19:10] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:19:10] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:20:13] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:21:37] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:21:47] /bc green Servidor irá cair, voltará com a EXP para level 349 Ou Menor muito mais FACIL de upar, resolvi colocar assim para dar a chance de novatos conhecer melhor o servidor antes de encarar a realidade !
+[6/6/2017 17:22:35] /ghost
+[6/6/2017 17:22:39] /a 2
+[6/6/2017 17:22:43] /bc green REiniciando
+[6/6/2017 17:22:50] /bc green Reiniciando !
+[6/6/2017 17:22:51] /bc green Reiniciando !
+[6/6/2017 17:27:5] /ghost
+[6/6/2017 17:28:30] /sshutdown
+[6/6/2017 17:28:51] /goto mxitachi~
+[6/6/2017 17:34:19] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS !
+[6/6/2017 17:34:20] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS !
+[6/6/2017 17:34:25] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS ! - O SERVIDOR IRÁ REINICAR NOVAMENTE !
+[6/6/2017 17:34:26] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS ! - O SERVIDOR IRÁ REINICAR NOVAMENTE !
+[6/6/2017 17:34:26] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS ! - O SERVIDOR IRÁ REINICAR NOVAMENTE !
+[6/6/2017 17:34:27] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS ! - O SERVIDOR IRÁ REINICAR NOVAMENTE !
+[6/6/2017 17:34:42] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS ! - O SERVIDOR IRÁ REINICAR NOVAMENTE !
+[6/6/2017 17:34:42] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS ! - O SERVIDOR IRÁ REINICAR NOVAMENTE !
+[6/6/2017 17:34:43] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS ! - O SERVIDOR IRÁ REINICAR NOVAMENTE !
+[6/6/2017 17:34:47] /bc green Para facilitar os novatos, os monstros lv 150 - terão TODAS AS LIFES DIMINUIDAS ! - O SERVIDOR IRÁ REINICAR NOVAMENTE !
+[6/6/2017 17:34:55] /sshutdown
+[6/6/2017 17:36:1] /goto mxitachi
+[6/6/2017 17:36:5] /goto mxitachi~
+[6/6/2017 17:36:39] /ghost
+[6/6/2017 17:37:18] /goto mxitachi~
+[6/6/2017 17:37:34] /bc green Jogo facilitado para lowers leveis !
+[6/6/2017 17:37:36] /bc green Jogo facilitado para lowers leveis !
+[6/6/2017 17:37:38] /bc green Jogo facilitado para lowers leveis !
+[6/6/2017 17:37:43] /bc green Jogo facilitado para lowers leveis !
+[6/6/2017 17:39:12] /goto fat butter
+[6/6/2017 17:39:13] /c Eu Era Cassiopeia
+[6/6/2017 17:41:7] /t
+[6/6/2017 17:43:23] /ghost
+[6/6/2017 17:43:36] /goto eu era cassiopeia
+[6/6/2017 17:44:10] /c eu era cassiopeia
+[6/6/2017 17:44:13] /c eu era cassiopeia
+[6/6/2017 17:44:14] /c eu era cassiopeia
+[6/6/2017 17:44:15] /c eu era cassiopeia
+[6/6/2017 17:44:18] /c eu era cassiopeia
+[6/6/2017 17:44:21] /c eu era cassiopeia
+[6/6/2017 17:45:0] /goto ancient creature
+[6/6/2017 17:45:3] /c eu era cassiopeia
+[6/6/2017 17:45:29] /t
+[6/6/2017 17:45:30] /ghost
+[6/6/2017 17:45:33] /ghost
+[6/6/2017 17:51:20] /goto Roberto Gay
+[6/6/2017 17:51:22] /ghost
+[6/6/2017 17:51:24] /goto Roberto Gay
+[6/6/2017 17:51:41] /m dark wolf
+[6/6/2017 17:52:13] /m bat
+[6/6/2017 17:52:14] /m bat
+[6/6/2017 17:52:14] /m bat
+[6/6/2017 17:52:15] /m bat
+[6/6/2017 17:52:15] /m bat
+[6/6/2017 17:52:15] /m bat
+[6/6/2017 17:52:16] /m bat
+[6/6/2017 17:52:39] /m tarantula
+[6/6/2017 17:52:51] /m tortoise
+[6/6/2017 17:52:53] /m tortoise
+[6/6/2017 17:52:55] /m tortoise
+[6/6/2017 17:53:7] /m tortoise
+[6/6/2017 17:53:7] /m tortoise
+[6/6/2017 17:53:7] /m tortoise
+[6/6/2017 17:53:20] /m centipede
+[6/6/2017 17:54:31] /m doton shinobi
+[6/6/2017 17:55:0] /m ancient creautre
+[6/6/2017 17:55:5] /m ancient creature
+[6/6/2017 17:56:21] /m frozen monsters
+[6/6/2017 17:56:25] /m frozen monster
+[6/6/2017 17:57:18] /ghost
+[6/6/2017 17:57:19] /ghost
+[6/6/2017 17:57:42] /m master monk
+[6/6/2017 17:58:8] /m Giant Axe Man
+[6/6/2017 17:58:28] /ii kage shuriken
+[6/6/2017 17:59:13] /m Giant Axe Man
+[6/6/2017 17:59:20] /m giant fire
+[6/6/2017 17:59:29] /m giant furie
+[6/6/2017 17:59:38] /ghost
+[6/6/2017 18:5:43] /up
+[7/6/2017 0:0:38] /bc green Oque acharam da exp ?
+[7/6/2017 0:1:8] /c Luisse Tankmode
+[7/6/2017 0:1:31] /aattr vocation 1000273
+[7/6/2017 0:2:3] /ghost
+[7/6/2017 0:2:7] /ghost
+[7/6/2017 0:54:19] /goto Mlk Piranha
+[7/6/2017 0:54:32] /ghost
+[7/6/2017 0:56:13] /t
+[7/6/2017 0:56:16] /ghost
+[7/6/2017 10:53:46] /goto Viper
+[7/6/2017 10:55:16] /up
+[7/6/2017 10:55:19] /m treiner
+[7/6/2017 11:21:51] /goto Suigetsu Nordestino
+[7/6/2017 11:21:53] /ghost
+[7/6/2017 11:23:3] /goto belattrix
+[7/6/2017 11:23:6] /a 2
+[7/6/2017 11:24:28] /goto pau brasil
+[7/6/2017 11:25:49] /a 40
+[7/6/2017 11:25:50] /a 40
+[7/6/2017 11:25:51] /a 40
+[7/6/2017 11:25:52] /a 40
+[7/6/2017 11:25:54] /up
+[7/6/2017 11:26:22] /aattr vocation 1000222
+[7/6/2017 11:34:22] /rreload spells
+[7/6/2017 11:37:13] /m treiner
+[7/6/2017 11:38:42] /aattr vocation 100032
+[7/6/2017 11:40:14] /aattr vocation 1000122
+[7/6/2017 12:4:7] /rreload spells
+[7/6/2017 12:7:28] /r
+[7/6/2017 12:7:32] /m treiner
+[7/6/2017 12:9:32] /aattr vocation 26
+[7/6/2017 12:10:12] /r
+[7/6/2017 12:10:13] /r
+[7/6/2017 12:10:13] /ghost
+[7/6/2017 12:10:33] /up
+[7/6/2017 12:10:35] /c Incapetado
+[7/6/2017 12:10:37] /m treiner
+[7/6/2017 12:10:40] /ghost
+[7/6/2017 12:11:29] /c estrupa
+[7/6/2017 12:11:38] /r
+[7/6/2017 12:11:41] /c estrupa
+[7/6/2017 12:11:43] /c estrupa
+[7/6/2017 12:11:44] /c estrupa
+[7/6/2017 12:11:44] /c estrupa
+[7/6/2017 12:11:44] /c estrupa
+[7/6/2017 12:11:45] /c estrupa
+[7/6/2017 12:11:45] /c estrupa
+[7/6/2017 12:11:45] /c estrupa
+[7/6/2017 12:11:46] /c estrupa
+[7/6/2017 12:11:46] /c estrupa
+[7/6/2017 12:11:46] /c estrupa
+[7/6/2017 12:11:47] /c estrupa
+[7/6/2017 12:11:47] /c estrupa
+[7/6/2017 12:11:47] /c estrupa
+[7/6/2017 12:11:48] /c estrupa
+[7/6/2017 12:11:48] /c estrupa
+[7/6/2017 12:11:48] /c estrupa
+[7/6/2017 12:11:49] /c estrupa
+[7/6/2017 12:15:37] /aattr vocation 100042
+[7/6/2017 12:18:11] /aattr vocation /aattr vocation 
+[7/6/2017 12:18:26] /aattr vocation 1000102
+[7/6/2017 12:18:56] /r
+[7/6/2017 12:19:16] /t estrupa
+[7/6/2017 12:21:56] /goto Quirito
+[7/6/2017 12:22:7] /goto roberto gay
+[7/6/2017 12:22:21] /aattr vocation 26
+[7/6/2017 12:23:39] /goto roberto gay
+[7/6/2017 12:23:46] /aattr vocation 36
+[7/6/2017 12:23:51] /rreload spells
+[7/6/2017 12:26:5] /t
+[7/6/2017 12:26:8] /goto quirito
+[7/6/2017 12:26:20] /ghost
+[7/6/2017 12:26:21] /ghost
+[7/6/2017 12:26:23] /ghost
+[7/6/2017 12:26:26] /ghost
+[7/6/2017 12:26:27] /ghost
+[7/6/2017 12:26:28] /ghost
+[7/6/2017 12:26:28] /ghost
+[7/6/2017 12:26:29] /ghost
+[7/6/2017 12:27:1] /t
+[7/6/2017 12:30:2] /mode npvp
+[7/6/2017 12:30:9] /bc green EVENTO - EMPERIUM AS 13 HORAS !
+[7/6/2017 12:30:13] /bc green EVENTO - EMPERIUM AS 13 HORAS !
+[7/6/2017 12:30:14] /bc green EVENTO - EMPERIUM AS 13 HORAS !
+[7/6/2017 12:30:20] /bc green EVENTO - EMPERIUM AS 13 HORAS !
+[7/6/2017 12:31:55] /up
+[7/6/2017 12:32:1] /down
+[7/6/2017 12:32:16] /c Quirito
+[7/6/2017 12:32:49] /r
+[7/6/2017 12:32:52] /r
+[7/6/2017 12:32:53] /ii backpack
+[7/6/2017 12:33:13] /mode pvp
+[7/6/2017 12:33:19] /bc green As 13 horas Evento, fiquem atentos.
+[7/6/2017 12:33:20] /bc green As 13 horas Evento, fiquem atentos.
+[7/6/2017 12:34:26] /r
+[7/6/2017 12:35:59] /up
+[7/6/2017 12:36:1] /c quirito
+[7/6/2017 12:36:6] /ghost
+[7/6/2017 12:36:7] /ghost
+[7/6/2017 12:36:15] /ii moeda vip
+[7/6/2017 12:43:23] /ii hokage amulet
+[7/6/2017 12:51:57] /ii vocation minato
+[7/6/2017 12:52:1] /ii backpack
+[7/6/2017 12:53:58] /bc green Evento as 13 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:54:0] /bc green Evento as 13 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:54:7] /mode npvp
+[7/6/2017 12:54:9] /bc green Evento as 13 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:54:10] /bc green Evento as 13 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:54:55] /bc green Evento as 13 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:55:2] /bc green Evento as 13 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:55:17] /mode npvp
+[7/6/2017 12:55:19] /bc green Evento as 13 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:55:41] /rreload spells
+[7/6/2017 12:55:46] /bc green Evento as 13 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:56:8] /goto dagon
+[7/6/2017 12:56:52] /t 
+[7/6/2017 12:56:57] /c Dagon
+[7/6/2017 12:57:43] /bc green Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:44] /bc green Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:45] /bc green Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:46] /bc green Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:49] /bc blue Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:51] /bc blue Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:51] /bc blue Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:51] /bc blue Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:52] /bc blue Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:52] /bc blue Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:52] /bc blue Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:53] /bc blue Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:57:53] /bc green Evento as 13:10 Horas, Venha sul de konoha ! \/ !  ( EMPERIUM )
+[7/6/2017 12:58:26] /c katsu
+[7/6/2017 12:58:39] /bc green ( QUEM NÃO TA NO EVENTO DIGA ( EU ) ) NO HELP
+[7/6/2017 12:58:40] /bc green ( QUEM NÃO TA NO EVENTO DIGA ( EU ) ) NO HELP
+[7/6/2017 12:58:41] /bc green ( QUEM NÃO TA NO EVENTO DIGA ( EU ) ) NO HELP
+[7/6/2017 12:58:48] /bc blue ( QUEM NÃO TA NO EVENTO DIGA ( EU ) ) NO HELP
+[7/6/2017 12:58:48] /bc blue ( QUEM NÃO TA NO EVENTO DIGA ( EU ) ) NO HELP
+[7/6/2017 12:58:49] /bc blue ( QUEM NÃO TA NO EVENTO DIGA ( EU ) ) NO HELP
+[7/6/2017 12:58:49] /bc blue ( QUEM NÃO TA NO EVENTO DIGA ( EU ) ) NO HELP
+[7/6/2017 12:58:49] /bc blue ( QUEM NÃO TA NO EVENTO DIGA ( EU ) ) NO HELP
+[7/6/2017 12:58:57] /bc green Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:58:58] /bc green Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:2] /bc green Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:3] /bc green Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:5] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:6] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:6] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:6] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:7] /bc green Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:7] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:8] /bc green Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:9] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:10] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:10] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:10] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:11] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 12:59:14] /c Orochimaru Owned
+[7/6/2017 13:0:3] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 13:0:5] /bc green Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 13:0:6] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 13:0:7] /bc green Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 13:0:8] /bc blue Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 13:0:8] /bc green Quem ta longe do evento diga ( Eu ) No help !
+[7/6/2017 13:0:11] /c Fukasaki Kun
+[7/6/2017 13:0:19] /bc green EMPERIUM !
+[7/6/2017 13:0:21] /m emperium
+[7/6/2017 13:0:21] /m emperium
+[7/6/2017 13:0:22] /m emperium
+[7/6/2017 13:0:22] /m emperium
+[7/6/2017 13:0:23] /m emperium
+[7/6/2017 13:0:23] /bc green EMPERIUM !
+[7/6/2017 13:0:23] /m emperium
+[7/6/2017 13:0:23] /bc green EMPERIUM !
+[7/6/2017 13:0:24] /m emperium
+[7/6/2017 13:0:24] /bc green EMPERIUM !
+[7/6/2017 13:0:24] /m emperium
+[7/6/2017 13:0:25] /bc green EMPERIUM !
+[7/6/2017 13:0:25] /m emperium
+[7/6/2017 13:0:25] /m emperium
+[7/6/2017 13:0:25] /bc green EMPERIUM !
+[7/6/2017 13:0:25] /m emperium
+[7/6/2017 13:0:25] /bc green EMPERIUM !
+[7/6/2017 13:0:26] /m emperium
+[7/6/2017 13:0:26] /bc green EMPERIUM !
+[7/6/2017 13:0:27] /m emperium
+[7/6/2017 13:0:27] /bc green EMPERIUM !
+[7/6/2017 13:0:27] /m emperium
+[7/6/2017 13:0:27] /bc green EMPERIUM !
+[7/6/2017 13:0:29] /m emperium
+[7/6/2017 13:0:29] /bc green EMPERIUM !
+[7/6/2017 13:0:29] /m emperium
+[7/6/2017 13:0:29] /bc green EMPERIUM !
+[7/6/2017 13:0:30] /m emperium
+[7/6/2017 13:0:30] /bc green EMPERIUM !
+[7/6/2017 13:0:30] /m emperium
+[7/6/2017 13:0:30] /bc green EMPERIUM !
+[7/6/2017 13:0:31] /m emperium
+[7/6/2017 13:0:32] /bc green EMPERIUM !
+[7/6/2017 13:0:32] /m emperium
+[7/6/2017 13:0:32] /bc green EMPERIUM !
+[7/6/2017 13:0:33] /m emperium
+[7/6/2017 13:0:33] /bc green EMPERIUM !
+[7/6/2017 13:0:33] /m emperium
+[7/6/2017 13:0:33] /bc green EMPERIUM !
+[7/6/2017 13:0:34] /m emperium
+[7/6/2017 13:0:34] /bc green EMPERIUM !
+[7/6/2017 13:0:34] /m emperium
+[7/6/2017 13:0:34] /bc green EMPERIUM !
+[7/6/2017 13:0:35] /m emperium
+[7/6/2017 13:0:35] /bc green EMPERIUM !
+[7/6/2017 13:0:35] /m emperium
+[7/6/2017 13:0:35] /bc green EMPERIUM !
+[7/6/2017 13:0:37] /m emperium
+[7/6/2017 13:0:37] /bc green EMPERIUM !
+[7/6/2017 13:0:37] /m emperium
+[7/6/2017 13:0:37] /bc green EMPERIUM !
+[7/6/2017 13:0:38] /m emperium
+[7/6/2017 13:0:38] /bc green EMPERIUM !
+[7/6/2017 13:0:38] /m emperium
+[7/6/2017 13:0:38] /bc green EMPERIUM !
+[7/6/2017 13:0:39] /m emperium
+[7/6/2017 13:0:40] /bc green EMPERIUM !
+[7/6/2017 13:0:41] /bc green EMPERIUM !
+[7/6/2017 13:0:42] /bc green EMPERIUM !
+[7/6/2017 13:0:43] /bc green EMPERIUM !
+[7/6/2017 13:0:44] /bc green EMPERIUM !
+[7/6/2017 13:0:44] /bc green EMPERIUM !
+[7/6/2017 13:1:2] /bc green EMPERIUM !
+[7/6/2017 13:1:31] /c Mick Jeguer
+[7/6/2017 13:1:49] /bc green EMPERIUM !
+[7/6/2017 13:1:51] /bc green EMPERIUM !
+[7/6/2017 13:1:51] /bc green EMPERIUM !
+[7/6/2017 13:1:52] /m emperium
+[7/6/2017 13:1:53] /bc green EMPERIUM !
+[7/6/2017 13:1:53] /m emperium
+[7/6/2017 13:1:53] /bc green EMPERIUM !
+[7/6/2017 13:1:54] /m emperium
+[7/6/2017 13:1:54] /bc green EMPERIUM !
+[7/6/2017 13:1:55] /m emperium
+[7/6/2017 13:1:55] /m emperium
+[7/6/2017 13:1:55] /bc green EMPERIUM !
+[7/6/2017 13:1:56] /m emperium
+[7/6/2017 13:1:56] /bc green EMPERIUM !
+[7/6/2017 13:1:57] /m emperium
+[7/6/2017 13:1:57] /bc green EMPERIUM !
+[7/6/2017 13:2:8] /c Mick Jeguer
+[7/6/2017 13:2:13] /c Roberto Gay
+[7/6/2017 13:2:14] /m emperium
+[7/6/2017 13:2:14] /bc green EMPERIUM !
+[7/6/2017 13:2:14] /m emperium
+[7/6/2017 13:2:15] /bc green EMPERIUM !
+[7/6/2017 13:2:15] /m emperium
+[7/6/2017 13:2:15] /bc green EMPERIUM !
+[7/6/2017 13:2:15] /m emperium
+[7/6/2017 13:2:15] /bc green EMPERIUM !
+[7/6/2017 13:2:16] /m emperium
+[7/6/2017 13:2:16] /bc green EMPERIUM !
+[7/6/2017 13:2:16] /m emperium
+[7/6/2017 13:2:16] /bc green EMPERIUM !
+[7/6/2017 13:2:16] /m emperium
+[7/6/2017 13:2:16] /bc green EMPERIUM !
+[7/6/2017 13:2:17] /m emperium
+[7/6/2017 13:2:17] /bc green EMPERIUM !
+[7/6/2017 13:2:18] /m emperium
+[7/6/2017 13:2:18] /bc green EMPERIUM !
+[7/6/2017 13:2:19] /m emperium
+[7/6/2017 13:2:19] /bc green EMPERIUM !
+[7/6/2017 13:2:19] /m emperium
+[7/6/2017 13:2:19] /bc green EMPERIUM !
+[7/6/2017 13:2:19] /m emperium
+[7/6/2017 13:2:20] /bc green EMPERIUM !
+[7/6/2017 13:2:20] /m emperium
+[7/6/2017 13:2:20] /bc green EMPERIUM !
+[7/6/2017 13:2:21] /m emperium
+[7/6/2017 13:2:22] /bc green EMPERIUM !
+[7/6/2017 13:2:22] /m emperium
+[7/6/2017 13:2:22] /bc green EMPERIUM !
+[7/6/2017 13:2:22] /m emperium
+[7/6/2017 13:2:22] /bc green EMPERIUM !
+[7/6/2017 13:2:23] /m emperium
+[7/6/2017 13:2:23] /bc green EMPERIUM !
+[7/6/2017 13:2:24] /m emperium
+[7/6/2017 13:2:24] /bc green EMPERIUM !
+[7/6/2017 13:2:25] /m emperium
+[7/6/2017 13:2:25] /bc green EMPERIUM !
+[7/6/2017 13:2:26] /m emperium
+[7/6/2017 13:2:26] /bc green EMPERIUM !
+[7/6/2017 13:2:27] /m emperium
+[7/6/2017 13:2:27] /bc green EMPERIUM !
+[7/6/2017 13:2:28] /m emperium
+[7/6/2017 13:2:28] /bc green EMPERIUM !
+[7/6/2017 13:2:29] /bc green EMPERIUM !
+[7/6/2017 13:2:36] /m emperium
+[7/6/2017 13:2:36] /bc green EMPERIUM !
+[7/6/2017 13:2:37] /m emperium
+[7/6/2017 13:2:37] /bc green EMPERIUM !
+[7/6/2017 13:3:1] /m emperium
+[7/6/2017 13:3:1] /bc green EMPERIUM !
+[7/6/2017 13:3:1] /m emperium
+[7/6/2017 13:3:1] /bc green EMPERIUM !
+[7/6/2017 13:3:2] /m emperium
+[7/6/2017 13:3:2] /bc green EMPERIUM !
+[7/6/2017 13:3:5] /m emperium
+[7/6/2017 13:3:5] /bc green EMPERIUM !
+[7/6/2017 13:3:8] /m emperium
+[7/6/2017 13:3:8] /bc green EMPERIUM !
+[7/6/2017 13:3:12] /m emperium
+[7/6/2017 13:3:13] /bc green EMPERIUM !
+[7/6/2017 13:3:14] /m emperium
+[7/6/2017 13:3:14] /bc green EMPERIUM !
+[7/6/2017 13:3:14] /m emperium
+[7/6/2017 13:3:14] /bc green EMPERIUM !
+[7/6/2017 13:3:17] /m emperium
+[7/6/2017 13:3:17] /bc green EMPERIUM !
+[7/6/2017 13:3:19] /m emperium
+[7/6/2017 13:3:19] /bc green EMPERIUM !
+[7/6/2017 13:3:20] /m emperium
+[7/6/2017 13:3:20] /bc green EMPERIUM !
+[7/6/2017 13:3:21] /m emperium
+[7/6/2017 13:3:21] /bc green EMPERIUM !
+[7/6/2017 13:3:23] /m emperium
+[7/6/2017 13:3:23] /bc green EMPERIUM !
+[7/6/2017 13:3:25] /m emperium
+[7/6/2017 13:3:25] /bc green EMPERIUM !
+[7/6/2017 13:3:29] /m emperium
+[7/6/2017 13:3:29] /bc green EMPERIUM !
+[7/6/2017 13:3:30] /m emperium
+[7/6/2017 13:3:30] /bc green EMPERIUM !
+[7/6/2017 13:3:32] /m emperium
+[7/6/2017 13:3:33] /bc green EMPERIUM !
+[7/6/2017 13:3:35] /bc green EMPERIUM !
+[7/6/2017 13:3:36] /bc green EMPERIUM !
+[7/6/2017 13:3:38] /bc green EMPERIUM !
+[7/6/2017 13:3:38] /bc green EMPERIUM !
+[7/6/2017 13:3:39] /bc green EMPERIUM !
+[7/6/2017 13:3:42] /bc green EMPERIUM !
+[7/6/2017 13:3:44] /bc green EMPERIUM !
+[7/6/2017 13:3:45] /bc green EMPERIUM !
+[7/6/2017 13:3:47] /bc green EMPERIUM !
+[7/6/2017 13:3:48] /bc green EMPERIUM !
+[7/6/2017 13:3:48] /bc green EMPERIUM !
+[7/6/2017 13:3:49] /bc green EMPERIUM !
+[7/6/2017 13:3:50] /bc green EMPERIUM !
+[7/6/2017 13:3:50] /bc green EMPERIUM !
+[7/6/2017 13:3:51] /bc green EMPERIUM !
+[7/6/2017 13:3:51] /bc green EMPERIUM !
+[7/6/2017 13:3:51] /bc green EMPERIUM !
+[7/6/2017 13:3:52] /bc green EMPERIUM !
+[7/6/2017 13:3:52] /bc green EMPERIUM !
+[7/6/2017 13:3:52] /bc green EMPERIUM !
+[7/6/2017 13:3:53] /bc green EMPERIUM !
+[7/6/2017 13:3:53] /bc green EMPERIUM !
+[7/6/2017 13:3:53] /bc green EMPERIUM !
+[7/6/2017 13:3:53] /bc green EMPERIUM !
+[7/6/2017 13:3:58] /bc green EMPERIUM !
+[7/6/2017 13:4:1] /bc green EMPERIUM !
+[7/6/2017 13:4:3] /m emperium
+[7/6/2017 13:4:3] /bc green EMPERIUM !
+[7/6/2017 13:4:4] /m emperium
+[7/6/2017 13:4:4] /bc green EMPERIUM !
+[7/6/2017 13:4:5] /m emperium
+[7/6/2017 13:4:5] /bc green EMPERIUM !
+[7/6/2017 13:4:6] /m emperium
+[7/6/2017 13:4:6] /bc green EMPERIUM !
+[7/6/2017 13:4:6] /m emperium
+[7/6/2017 13:4:7] /bc green EMPERIUM !
+[7/6/2017 13:4:7] /m emperium
+[7/6/2017 13:4:8] /bc green EMPERIUM !
+[7/6/2017 13:4:8] /m emperium
+[7/6/2017 13:4:8] /bc green EMPERIUM !
+[7/6/2017 13:4:9] /m emperium
+[7/6/2017 13:4:9] /bc green EMPERIUM !
+[7/6/2017 13:4:10] /bc green EMPERIUM !
+[7/6/2017 13:4:10] /m emperium
+[7/6/2017 13:4:11] /m emperium
+[7/6/2017 13:4:11] /bc green EMPERIUM !
+[7/6/2017 13:4:12] /m emperium
+[7/6/2017 13:4:12] /bc green EMPERIUM !
+[7/6/2017 13:4:13] /m emperium
+[7/6/2017 13:4:13] /bc green EMPERIUM !
+[7/6/2017 13:4:13] /m emperium
+[7/6/2017 13:4:14] /bc green EMPERIUM !
+[7/6/2017 13:4:14] /bc green EMPERIUM !
+[7/6/2017 13:4:14] /m emperium
+[7/6/2017 13:4:15] /m emperium
+[7/6/2017 13:4:15] /bc green EMPERIUM !
+[7/6/2017 13:4:20] /r
+[7/6/2017 13:4:22] /bc green EMPERIUM !
+[7/6/2017 13:4:23] /m emperium
+[7/6/2017 13:4:23] /m emperium
+[7/6/2017 13:4:23] /bc green EMPERIUM !
+[7/6/2017 13:4:24] /m emperium
+[7/6/2017 13:4:24] /bc green EMPERIUM !
+[7/6/2017 13:4:24] /m emperium
+[7/6/2017 13:4:24] /bc green EMPERIUM !
+[7/6/2017 13:4:24] /bc green EMPERIUM !
+[7/6/2017 13:4:25] /m emperium
+[7/6/2017 13:4:25] /bc green EMPERIUM !
+[7/6/2017 13:4:26] /m emperium
+[7/6/2017 13:4:26] /bc green EMPERIUM !
+[7/6/2017 13:4:27] /bc green EMPERIUM !
+[7/6/2017 13:4:27] /m emperium
+[7/6/2017 13:4:27] /m emperium
+[7/6/2017 13:4:28] /bc green EMPERIUM !
+[7/6/2017 13:4:29] /m emperium
+[7/6/2017 13:4:29] /bc green EMPERIUM !
+[7/6/2017 13:4:30] /m emperium
+[7/6/2017 13:4:31] /m emperium
+[7/6/2017 13:4:31] /bc green EMPERIUM !
+[7/6/2017 13:4:31] /m emperium
+[7/6/2017 13:4:31] /bc green EMPERIUM !
+[7/6/2017 13:4:32] /m emperium
+[7/6/2017 13:4:32] /bc green EMPERIUM !
+[7/6/2017 13:4:33] /m emperium
+[7/6/2017 13:4:33] /bc green EMPERIUM !
+[7/6/2017 13:4:34] /m emperium
+[7/6/2017 13:4:34] /bc green EMPERIUM !
+[7/6/2017 13:4:35] /m emperium
+[7/6/2017 13:4:35] /bc green EMPERIUM !
+[7/6/2017 13:4:36] /m emperium
+[7/6/2017 13:4:37] /bc green EMPERIUM !
+[7/6/2017 13:4:38] /m emperium
+[7/6/2017 13:4:38] /bc green EMPERIUM !
+[7/6/2017 13:4:39] /m emperium
+[7/6/2017 13:4:39] /bc green EMPERIUM !
+[7/6/2017 13:4:41] /bc green EMPERIUM !
+[7/6/2017 13:4:41] /m emperium
+[7/6/2017 13:4:42] /m emperium
+[7/6/2017 13:4:42] /bc green EMPERIUM !
+[7/6/2017 13:4:45] /m emperium
+[7/6/2017 13:4:45] /bc green EMPERIUM !
+[7/6/2017 13:4:50] /m emperium
+[7/6/2017 13:4:51] /bc green EMPERIUM !
+[7/6/2017 13:4:53] /bc green EMPERIUM !
+[7/6/2017 13:4:53] /m emperium
+[7/6/2017 13:5:0] /m emperium
+[7/6/2017 13:5:1] /bc green EMPERIUM !
+[7/6/2017 13:5:3] /bc green EMPERIUM !
+[7/6/2017 13:5:3] /bc green EMPERIUM !
+[7/6/2017 13:5:4] /bc green EMPERIUM !
+[7/6/2017 13:5:5] /bc green EMPERIUM !
+[7/6/2017 13:5:6] /bc green EMPERIUM !
+[7/6/2017 13:5:7] /bc green EMPERIUM !
+[7/6/2017 13:5:9] /bc green EMPERIUM !
+[7/6/2017 13:5:10] /bc green EMPERIUM !
+[7/6/2017 13:5:11] /bc green EMPERIUM !
+[7/6/2017 13:5:12] /bc green EMPERIUM !
+[7/6/2017 13:5:12] /bc green EMPERIUM !
+[7/6/2017 13:5:14] /bc green EMPERIUM !
+[7/6/2017 13:5:14] /bc green EMPERIUM !
+[7/6/2017 13:5:16] /bc green EMPERIUM !
+[7/6/2017 13:5:17] /bc green EMPERIUM !
+[7/6/2017 13:5:18] /bc green EMPERIUM !
+[7/6/2017 13:5:19] /bc green EMPERIUM !
+[7/6/2017 13:5:52] /bc green EMPERIUM !
+[7/6/2017 13:6:45] /m emperium
+[7/6/2017 13:6:45] /bc green EMPERIUM !
+[7/6/2017 13:6:46] /bc green EMPERIUM !
+[7/6/2017 13:6:46] /bc green EMPERIUM !
+[7/6/2017 13:6:47] /m emperium
+[7/6/2017 13:6:47] /bc green EMPERIUM !
+[7/6/2017 13:6:47] /m emperium
+[7/6/2017 13:6:47] /bc green EMPERIUM !
+[7/6/2017 13:6:47] /m emperium
+[7/6/2017 13:6:47] /bc green EMPERIUM !
+[7/6/2017 13:6:47] /m emperium
+[7/6/2017 13:6:47] /bc green EMPERIUM !
+[7/6/2017 13:6:48] /m emperium
+[7/6/2017 13:6:48] /bc green EMPERIUM !
+[7/6/2017 13:6:48] /m emperium
+[7/6/2017 13:6:48] /bc green EMPERIUM !
+[7/6/2017 13:6:49] /m emperium
+[7/6/2017 13:6:49] /bc green EMPERIUM !
+[7/6/2017 13:6:49] /bc green EMPERIUM !
+[7/6/2017 13:6:50] /m emperium
+[7/6/2017 13:6:50] /bc green EMPERIUM !
+[7/6/2017 13:6:50] /m emperium
+[7/6/2017 13:6:50] /bc green EMPERIUM !
+[7/6/2017 13:6:51] /m emperium
+[7/6/2017 13:6:51] /bc green EMPERIUM !
+[7/6/2017 13:6:51] /m emperium
+[7/6/2017 13:6:51] /bc green EMPERIUM !
+[7/6/2017 13:6:52] /m emperium
+[7/6/2017 13:6:52] /bc green EMPERIUM !
+[7/6/2017 13:6:52] /m emperium
+[7/6/2017 13:6:52] /bc green EMPERIUM !
+[7/6/2017 13:6:52] /m emperium
+[7/6/2017 13:6:52] /bc green EMPERIUM !
+[7/6/2017 13:6:52] /m emperium
+[7/6/2017 13:6:52] /bc green EMPERIUM !
+[7/6/2017 13:6:52] /m emperium
+[7/6/2017 13:6:52] /bc green EMPERIUM !
+[7/6/2017 13:6:53] /m emperium
+[7/6/2017 13:6:53] /bc green EMPERIUM !
+[7/6/2017 13:6:53] /m emperium
+[7/6/2017 13:6:53] /bc green EMPERIUM !
+[7/6/2017 13:6:56] /a 3
+[7/6/2017 13:6:58] /m emperium
+[7/6/2017 13:6:58] /bc green EMPERIUM !
+[7/6/2017 13:6:59] /m emperium
+[7/6/2017 13:6:59] /bc green EMPERIUM !
+[7/6/2017 13:6:59] /m emperium
+[7/6/2017 13:7:0] /bc green EMPERIUM !
+[7/6/2017 13:7:0] /m emperium
+[7/6/2017 13:7:0] /bc green EMPERIUM !
+[7/6/2017 13:7:0] /m emperium
+[7/6/2017 13:7:0] /bc green EMPERIUM !
+[7/6/2017 13:7:1] /m emperium
+[7/6/2017 13:7:1] /bc green EMPERIUM !
+[7/6/2017 13:7:1] /m emperium
+[7/6/2017 13:7:1] /bc green EMPERIUM !
+[7/6/2017 13:7:2] /m emperium
+[7/6/2017 13:7:2] /bc green EMPERIUM !
+[7/6/2017 13:7:2] /m emperium
+[7/6/2017 13:7:3] /bc green EMPERIUM !
+[7/6/2017 13:7:3] /m emperium
+[7/6/2017 13:7:3] /bc green EMPERIUM !
+[7/6/2017 13:7:4] /m emperium
+[7/6/2017 13:7:4] /bc green EMPERIUM !
+[7/6/2017 13:7:5] /m emperium
+[7/6/2017 13:7:5] /bc green EMPERIUM !
+[7/6/2017 13:7:6] /m emperium
+[7/6/2017 13:7:6] /bc green EMPERIUM !
+[7/6/2017 13:7:7] /bc green EMPERIUM !
+[7/6/2017 13:7:7] /m emperium
+[7/6/2017 13:7:7] /bc green EMPERIUM !
+[7/6/2017 13:7:7] /m emperium
+[7/6/2017 13:7:7] /bc green EMPERIUM !
+[7/6/2017 13:7:8] /m emperium
+[7/6/2017 13:7:8] /bc green EMPERIUM !
+[7/6/2017 13:7:23] /m emperium
+[7/6/2017 13:7:23] /bc green EMPERIUM !
+[7/6/2017 13:7:24] /m emperium
+[7/6/2017 13:7:24] /bc green EMPERIUM !
+[7/6/2017 13:7:34] /m emperium
+[7/6/2017 13:7:34] /bc green EMPERIUM !
+[7/6/2017 13:7:35] /m emperium
+[7/6/2017 13:7:35] /bc green EMPERIUM !
+[7/6/2017 13:7:35] /m emperium
+[7/6/2017 13:7:35] /bc green EMPERIUM !
+[7/6/2017 13:7:35] /m emperium
+[7/6/2017 13:7:35] /bc green EMPERIUM !
+[7/6/2017 13:7:36] /m emperium
+[7/6/2017 13:7:36] /bc green EMPERIUM !
+[7/6/2017 13:7:36] /bc green EMPERIUM !
+[7/6/2017 13:7:36] /m emperium
+[7/6/2017 13:7:37] /m emperium
+[7/6/2017 13:7:37] /bc green EMPERIUM !
+[7/6/2017 13:7:38] /bc green EMPERIUM !
+[7/6/2017 13:7:38] /m emperium
+[7/6/2017 13:7:38] /m emperium
+[7/6/2017 13:7:38] /bc green EMPERIUM !
+[7/6/2017 13:7:39] /m emperium
+[7/6/2017 13:7:39] /bc green EMPERIUM !
+[7/6/2017 13:7:39] /bc green EMPERIUM !
+[7/6/2017 13:7:39] /m emperium
+[7/6/2017 13:7:39] /m emperium
+[7/6/2017 13:7:39] /bc green EMPERIUM !
+[7/6/2017 13:7:39] /bc green EMPERIUM !
+[7/6/2017 13:7:39] /m emperium
+[7/6/2017 13:7:40] /m emperium
+[7/6/2017 13:7:40] /bc green EMPERIUM !
+[7/6/2017 13:7:40] /m emperium
+[7/6/2017 13:7:40] /bc green EMPERIUM !
+[7/6/2017 13:7:40] /m emperium
+[7/6/2017 13:7:40] /bc green EMPERIUM !
+[7/6/2017 13:7:41] /m emperium
+[7/6/2017 13:7:41] /bc green EMPERIUM !
+[7/6/2017 13:7:42] /m emperium
+[7/6/2017 13:7:42] /bc green EMPERIUM !
+[7/6/2017 13:7:42] /m emperium
+[7/6/2017 13:7:42] /bc green EMPERIUM !
+[7/6/2017 13:7:42] /bc green EMPERIUM !
+[7/6/2017 13:7:42] /m emperium
+[7/6/2017 13:7:43] /m emperium
+[7/6/2017 13:7:43] /bc green EMPERIUM !
+[7/6/2017 13:7:43] /m emperium
+[7/6/2017 13:7:43] /bc green EMPERIUM !
+[7/6/2017 13:7:44] /bc green EMPERIUM !
+[7/6/2017 13:7:44] /m emperium
+[7/6/2017 13:7:44] /bc green EMPERIUM !
+[7/6/2017 13:7:44] /m emperium
+[7/6/2017 13:7:44] /m emperium
+[7/6/2017 13:7:44] /bc green EMPERIUM !
+[7/6/2017 13:7:45] /m emperium
+[7/6/2017 13:7:45] /bc green EMPERIUM !
+[7/6/2017 13:7:46] /m emperium
+[7/6/2017 13:7:46] /bc green EMPERIUM !
+[7/6/2017 13:7:47] /bc green EMPERIUM !
+[7/6/2017 13:7:48] /bc green EMPERIUM !
+[7/6/2017 13:7:48] /bc green EMPERIUM !
+[7/6/2017 13:7:49] /bc green EMPERIUM !
+[7/6/2017 13:7:50] /bc green EMPERIUM !
+[7/6/2017 13:7:50] /bc green EMPERIUM !
+[7/6/2017 13:7:51] /bc green EMPERIUM !
+[7/6/2017 13:7:51] /bc green EMPERIUM !
+[7/6/2017 13:7:51] /bc green EMPERIUM !
+[7/6/2017 13:7:52] /bc green EMPERIUM !
+[7/6/2017 13:7:52] /bc green EMPERIUM !
+[7/6/2017 13:7:52] /bc green EMPERIUM !
+[7/6/2017 13:7:52] /bc green EMPERIUM !
+[7/6/2017 13:7:53] /bc green EMPERIUM !
+[7/6/2017 13:7:53] /bc green EMPERIUM !
+[7/6/2017 13:7:53] /bc green EMPERIUM !
+[7/6/2017 13:7:53] /bc green EMPERIUM !
+[7/6/2017 13:7:54] /bc green EMPERIUM !
+[7/6/2017 13:7:54] /bc green EMPERIUM !
+[7/6/2017 13:7:54] /bc green EMPERIUM !
+[7/6/2017 13:7:54] /bc green EMPERIUM !
+[7/6/2017 13:7:55] /bc green EMPERIUM !
+[7/6/2017 13:7:57] /bc green EMPERIUM !
+[7/6/2017 13:7:57] /bc green EMPERIUM !
+[7/6/2017 13:7:57] /bc green EMPERIUM !
+[7/6/2017 13:7:58] /bc green EMPERIUM !
+[7/6/2017 13:7:58] /bc green EMPERIUM !
+[7/6/2017 13:7:58] /bc green EMPERIUM !
+[7/6/2017 13:7:58] /bc green EMPERIUM !
+[7/6/2017 13:7:59] /bc green EMPERIUM !
+[7/6/2017 13:7:59] /bc green EMPERIUM !
+[7/6/2017 13:7:59] /bc green EMPERIUM !
+[7/6/2017 13:7:59] /bc green EMPERIUM !
+[7/6/2017 13:8:0] /bc green EMPERIUM !
+[7/6/2017 13:8:0] /bc green EMPERIUM !
+[7/6/2017 13:9:34] /mode pvp
+[7/6/2017 13:9:35] /mode npvp
+[7/6/2017 13:9:41] /bc green kk
+[7/6/2017 13:9:47] /bc green Ligando PVP
+[7/6/2017 13:9:49] /bc green Ligando PVP
+[7/6/2017 13:10:26] /mode pvp
+[7/6/2017 13:10:30] /bc green Bom jogo a todos, irei almoçar;
+[7/6/2017 13:10:33] /bc green Bom jogo a todos, irei almoçar.
+[7/6/2017 13:10:35] /a 2
+[7/6/2017 13:10:57] /bc green Premio pra quem ta on rs
+[7/6/2017 13:11:5] /ghost
+[7/6/2017 13:14:39] /c Mick Jeguer
+[7/6/2017 13:15:6] /aattr vocation 11
+[7/6/2017 14:55:10] /goto lord atlan
+[7/6/2017 14:55:19] /goto lord atlan
+[7/6/2017 14:55:25] /goto lord atlan
+[7/6/2017 14:55:32] /goto lord atlan
+[7/6/2017 14:55:33] /goto lord atlan
+[7/6/2017 14:55:35] /goto lord atlan
+[7/6/2017 14:55:47] /goto lord atlan
+[7/6/2017 14:55:49] /goto lord atlan
+[7/6/2017 14:56:0] /goto lord atlan
+[7/6/2017 14:56:2] /goto lord atlan
+[7/6/2017 14:56:15] /goto lord atlan
+[7/6/2017 14:56:17] /goto lord atlan
+[7/6/2017 14:56:28] /goto lord atlan
+[7/6/2017 14:56:29] /goto lord atlan
+[7/6/2017 14:56:59] /goto lord atlan
+[7/6/2017 14:57:4] /goto dagon
+[7/6/2017 14:59:49] /goto Anngeh Eeh Rei
+[7/6/2017 14:59:51] /goto Anngeh Eeh Rei
+[7/6/2017 15:0:0] /t
+[7/6/2017 15:4:12] /a 2
+[7/6/2017 15:4:35] /ghost
+[7/6/2017 15:4:38] /a 3
+[7/6/2017 15:4:40] /a 3
+[7/6/2017 15:4:40] /a 3
+[7/6/2017 15:4:42] /a 3
+[7/6/2017 15:4:43] /a 3
+[7/6/2017 15:4:44] /a 3
+[7/6/2017 15:4:45] /a 3
+[7/6/2017 15:4:46] /a 3
+[7/6/2017 15:4:46] /a 3
+[7/6/2017 15:4:46] /a 3
+[7/6/2017 15:4:46] /a 3
+[7/6/2017 15:4:46] /a 3
+[7/6/2017 15:4:47] /a 3
+[7/6/2017 15:4:47] /a 3
+[7/6/2017 15:4:47] /a 3
+[7/6/2017 15:4:47] /a 3
+[7/6/2017 15:4:49] /a 3
+[7/6/2017 15:4:49] /a 3
+[7/6/2017 15:4:49] /a 3
+[7/6/2017 15:4:49] /a 3
+[7/6/2017 15:4:49] /a 3
+[7/6/2017 15:4:50] /a 3
+[7/6/2017 15:4:50] /a 3
+[7/6/2017 15:4:50] /a 3
+[7/6/2017 15:4:50] /a 3
+[7/6/2017 15:4:51] /a 3
+[7/6/2017 15:4:51] /a 3
+[7/6/2017 15:4:51] /a 3
+[7/6/2017 15:4:51] /a 3
+[7/6/2017 15:4:54] /a 3
+[7/6/2017 15:17:6] /goto Overdose
+[7/6/2017 15:17:51] /ii senju legs
+[7/6/2017 15:17:57] /ii uchiha legs
+[7/6/2017 15:18:12] /t
+[7/6/2017 15:39:29] /t
+[7/6/2017 15:46:17] /goto Kankuro Higorzin
+[7/6/2017 15:46:20] /ghost
+[7/6/2017 15:46:22] /ghost
+[7/6/2017 15:46:40] /c Kankuro Higorzin
+[7/6/2017 15:46:42] /c Kankuro Higorzin
+[7/6/2017 15:46:44] /c Kankuro Higorzin
+[7/6/2017 15:46:45] /c Kankuro Higorzin
+[7/6/2017 15:46:45] /c Kankuro Higorzin
+[7/6/2017 15:46:46] /c Kankuro Higorzin
+[7/6/2017 15:46:48] /c Kankuro Higorzin
+[7/6/2017 15:46:49] /c Kankuro Higorzin
+[7/6/2017 15:46:51] /c Kankuro Higorzin
+[7/6/2017 15:46:53] /c Kankuro Higorzin
+[7/6/2017 15:46:58] /ghost
+[7/6/2017 15:47:18] /goto shisui boss
+[7/6/2017 15:47:27] /c Katsu
+[7/6/2017 15:50:12] /t
+[7/6/2017 15:57:24] /goto elite cursed
+[7/6/2017 15:59:22] /bc green ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 15:59:23] /bc green ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 15:59:26] /bc blue ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 15:59:27] /bc green ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 15:59:28] /bc blue ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 15:59:28] /bc green ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 15:59:29] /bc blue ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 15:59:30] /t
+[7/6/2017 15:59:59] /bc blue ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 15:59:59] /bc blue ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 16:0:2] /bc green ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 16:1:40] /c Hokage Sannin
+[7/6/2017 16:1:44] /aattr group 3
+[7/6/2017 16:2:3] /goto sasuke boss
+[7/6/2017 16:2:9] /c cremosa
+[7/6/2017 16:2:11] /c cremosa
+[7/6/2017 16:4:45] /t
+[7/6/2017 16:8:8] /goto Hokage Sannin
+[7/6/2017 16:8:43] /t
+[7/6/2017 16:9:32] /ii hokage amulet
+[7/6/2017 16:16:43] /goto Shotavix
+[7/6/2017 16:18:21] /goto Shotavix
+[7/6/2017 16:18:26] /m kinkaku
+[7/6/2017 16:19:41] /rreload monsters
+[7/6/2017 16:19:44] /rreload monsters
+[7/6/2017 16:20:45] /t
+[7/6/2017 16:20:55] /goto Overdose
+[7/6/2017 16:21:52] /goto Deidara Dark
+[7/6/2017 16:24:41] /goto Cremosa
+[7/6/2017 16:24:43] /t Cremosa
+[7/6/2017 16:26:16] /t
+[7/6/2017 16:27:38] /bc green ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 16:27:42] /bc blue ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 16:27:44] /bc blue ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 16:27:45] /bc green ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 16:27:51] /bc green Servidor irá reiniciar !
+[7/6/2017 16:28:21] /bc green ( Mudança na HUNT GGN ) Agora no castelo possui hunts normais de level 100 ao 400 , com bixos desde a farmer shinobi até mesmo Elite Darknes Swordsman
+[7/6/2017 16:29:13] /bc green CAINDO
+[7/6/2017 16:29:14] /bc green CAINDO EM
+[7/6/2017 16:29:17] /bc green CAINDO EM 3
+[7/6/2017 16:29:18] /bc green CAINDO EM 2
+[7/6/2017 16:29:20] /bc green CAINDO EM 1
+[7/6/2017 16:29:23] /sshutdown
+[7/6/2017 16:29:37] /bc green Pronto.
+[7/6/2017 16:35:5] /ii great chakra phill
+[7/6/2017 16:35:13] /ii great health phill
+[7/6/2017 16:35:17] /ii great health potion
+[7/6/2017 16:35:23] /nn Alquimista
+[7/6/2017 16:35:29] /ii 2169
+[7/6/2017 16:35:31] /ii 2160
+[7/6/2017 16:37:44] /ii chakra armor
+[7/6/2017 16:39:40] /r
+[7/6/2017 16:43:12] /bc green Lembrando que ja tem castelo hoje as 19 horas
+[7/6/2017 16:49:26] /goto shato~
+[7/6/2017 16:49:31] /goto shatovix
+[7/6/2017 16:49:53] /goto Shotavix
+[7/6/2017 17:1:28] /t
+[7/6/2017 17:1:35] /rreload npc
+[7/6/2017 17:1:54] /t
+[7/6/2017 17:1:56] /rreload npc
+[7/6/2017 17:1:59] /goto Kurosaki Test
+[7/6/2017 17:2:12] /goto giant scorpion
+[7/6/2017 17:2:17] /c Kurosaki Test
+[7/6/2017 17:3:14] /t
+[7/6/2017 17:14:31] /rreload creaturescripts
+[7/6/2017 17:16:4] /rreload creaturescripts
+[7/6/2017 17:16:6] /rreload creaturescripts
+[7/6/2017 17:16:11] /rreload creaturescripts
+[7/6/2017 17:17:32] /rreload creaturescripts
+[7/6/2017 17:17:55] /bc green Triple Loot + Skill acabam domingo !
+[7/6/2017 17:17:56] /bc green Triple Loot + Skill acabam domingo !
+[7/6/2017 17:17:56] /bc green Triple Loot + Skill acabam domingo !
+[7/6/2017 17:17:57] /bc green Triple Loot + Skill acabam domingo !
+[7/6/2017 17:55:51] /rreload creaturescripts
+[7/6/2017 18:21:28] /newtype 1244
+[7/6/2017 18:26:31] /info Raikage Tgl
+[8/6/2017 10:26:45] /up
+[8/6/2017 10:26:47] /m treiner
+[8/6/2017 10:36:25] /ii kurama legs
+[8/6/2017 10:38:40] /ii madara legs
+[8/6/2017 10:47:48] /down
+[8/6/2017 10:48:39] /goto psylocke
+[8/6/2017 10:48:56] /t
+[8/6/2017 10:50:18] /goto viper
+[8/6/2017 11:22:15] /goto dark snake
+[8/6/2017 11:22:17] /c eu era cassiopeia
+[8/6/2017 11:22:18] /t
+[8/6/2017 15:27:41] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:27:43] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:27:43] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:27:44] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:27:48] /ccloseserver
+[8/6/2017 15:27:50] /oopenserver
+[8/6/2017 15:27:56] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:27:57] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:27:58] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:28:6] /mode npvp
+[8/6/2017 15:28:7] /ghost
+[8/6/2017 15:28:20] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:28:25] /bc blue EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:28:26] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:28:27] /bc blue EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:28:30] /bc green EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:28:31] /bc blue EVENTO - GO SAIDA SUL KONOHA AS 15:40 VEM VEM VEM
+[8/6/2017 15:29:4] /c Iods
+[8/6/2017 15:30:55] /bc green - EVENTO - VENHA SUL KONOHA ! EMPERIUM + ! 
+[8/6/2017 15:30:59] /ghost
+[17/11/2017 17:46:26] /m juubi
+[17/11/2017 17:46:58] /ghost
+[19/11/2017 3:1:53] /a 5
+[19/11/2017 3:1:53] /a 5
+[19/11/2017 3:18:54] /sshutdown
+[19/11/2017 3:20:12] /sshutdown
+[19/11/2017 3:22:26] /c Hazon
+[19/11/2017 3:50:7] /sshutdown
+[19/11/2017 3:50:52] /aaddskill Hazon,level,1
+[19/11/2017 3:50:59] /aaddskill Hazon,level,1
+[19/11/2017 3:51:2] /aaddskill Hazon,level,1
+[19/11/2017 3:51:4] /aaddskill Hazon,level,1
+[19/11/2017 3:51:17] /aaddskill level, 345
+[19/11/2017 3:51:27] /aaddskill level, hazon,level,345
+[19/11/2017 3:51:47] /aaddskill hazon,level,345
+[19/11/2017 3:53:3] /r
+[19/11/2017 3:53:6] /ii backpackp
+[19/11/2017 3:53:9] /ii backpack
+[19/11/2017 3:53:12] /ii kurama tunic
+[19/11/2017 3:53:15] /ii kurama legs
+[19/11/2017 3:53:17] /ii kurama boots
+[19/11/2017 3:53:19] /ii kurama helmet
+[19/11/2017 3:55:10] /ii 7455
+[19/11/2017 3:55:22] /ii 11476
+[19/11/2017 3:55:35] /ii 150
+[19/11/2017 3:55:47] /ii 7456
+[19/11/2017 3:56:5] /owner roberto
+[19/11/2017 3:56:29] /ii 2647
+[19/11/2017 3:56:33] /ii 7407
+[19/11/2017 3:56:38] /ii 7454
+[19/11/2017 3:56:44] /ii 122
+[19/11/2017 3:56:59] /ii 146
+[19/11/2017 3:57:4] /ii 2452
+[19/11/2017 3:57:9] /ii 8854
+[19/11/2017 3:57:15] /ii 125
+[19/11/2017 3:57:31] /ii 2161
+[19/11/2017 3:57:38] /ii 2429
+[19/11/2017 3:57:46] /ii 7453
+[19/11/2017 3:57:52] /ii 126
+[19/11/2017 3:58:12] /ii 123
+[19/11/2017 3:58:17] /ii 123
+[19/11/2017 3:58:23] /ii 7463
+[19/11/2017 3:58:37] /ii 11475
+[19/11/2017 3:58:45] /ii 124
+[19/11/2017 3:58:59] /ii uchiha boots
+[19/11/2017 3:59:1] /ii uchiha legs
+[19/11/2017 3:59:3] /ii uchiha armor
+[19/11/2017 3:59:5] /ii uchiha tunic
+[19/11/2017 3:59:9] /ii uchiha coat
+[19/11/2017 3:59:13] /ii protetor uchiha
+[19/11/2017 3:59:17] /ii uchiha protetor
+[19/11/2017 3:59:19] /ii uchiha bandana
+[19/11/2017 4:11:42] /save
+[19/11/2017 4:12:23] /sshutdown
+[19/11/2017 4:29:21] /sshutdown
+[19/11/2017 4:38:47] /sshutdown
+[19/11/2017 21:34:15] /m araton
+[19/11/2017 21:34:53] /m fighter
+[19/11/2017 21:40:14] /m fighter
+[19/11/2017 21:41:22] /rreload monsters
+[19/11/2017 21:43:39] /rreload monsters
+[19/11/2017 21:49:33] /rreload monsters
+[20/11/2017 0:1:6] /nn Alquimista
+[20/11/2017 0:2:1] /aaddskill Hazon,level,250
+[20/11/2017 0:2:40] /aaddskill Hazon,magic,level,100
+[20/11/2017 0:2:45] /aaddskill Hazon,magic,level,30
+[20/11/2017 0:2:50] /aaddskill Hazon,magic,level,30
+[20/11/2017 0:3:11] /m treiner
+[20/11/2017 0:3:23] /aattr vocation 2
+[20/11/2017 0:3:27] /aattr vocation 3
+[20/11/2017 0:3:31] /aattr vocation 2
+[29/12/2017 22:3:15] /sshutdown
+[29/12/2017 23:19:51] /sshutdown
+[2/1/2018 8:41:9] /nn Mercantilista
+[2/1/2018 8:44:0] /nn comprador
+[2/1/2018 8:44:3] /nn Comprador
+[2/1/2018 9:9:56] /rreload npcs
+[2/1/2018 9:9:58] /rreload npc
+[2/1/2018 9:10:2] /nn Comprador
+[2/1/2018 9:17:1] /nn Cozinheiro
+[2/1/2018 9:21:19] /a 5
+[2/1/2018 9:39:38] /sshutdown
+[2/1/2018 9:41:5] /sshutdown
+[2/1/2018 9:44:23] /sshutdown
+[3/1/2018 7:19:19] /sshutdown
+[3/1/2018 7:39:2] /newtype 1294
+[3/1/2018 9:21:40] /sshutdown
+[3/1/2018 10:15:2] /ii 2795
+[3/1/2018 10:15:16] /ii 1615
+[3/1/2018 10:15:40] /ii clock
+[4/1/2018 3:23:17] /ii 2580
+[4/1/2018 3:24:0] /ii 2580
+[4/1/2018 3:24:13] /ii 10223
+[4/1/2018 9:38:24] /sshutdown
+[4/1/2018 11:0:1] /r
+[4/1/2018 11:0:3] /ii backpack
+[4/1/2018 11:8:55] /goto octopus
+[4/1/2018 11:10:6] /t
+[5/1/2018 4:37:23] /sshutdown
+[6/1/2018 11:23:30] /c hazon
+[6/1/2018 11:23:32] /m treiner
+[6/1/2018 11:23:49] /aaddskill Hazon,magic,25
+[6/1/2018 11:25:54] /rreload spells
+[6/1/2018 11:41:25] /sshutdown
+[6/1/2018 11:42:39] /m treiner
+[6/1/2018 11:43:48] /m araton
+[6/1/2018 11:43:53] /m octopus
+[6/1/2018 11:46:34] /c kazoru
+[6/1/2018 11:46:40] /aaddskill kazoru,level,600
+[6/1/2018 11:46:49] /aaddskill kazoru,magic,200
+[6/1/2018 11:48:47] /ii kurama tunic
+[6/1/2018 11:48:49] /ii kurama legs
+[6/1/2018 11:48:52] /ii kurama boots
+[6/1/2018 11:48:54] /ii kurama helmet
+[6/1/2018 11:49:38] /ii kurama helmet
+[6/1/2018 11:49:41] /ii kurama tunic
+[6/1/2018 11:49:43] /ii kurama legs
+[6/1/2018 11:49:45] /ii kurama boots
+[6/1/2018 11:50:53] /rreload spells
+[6/1/2018 11:53:49] /rreload spells
+[6/1/2018 11:55:7] /rreload spells
+[6/1/2018 11:59:34] /nn anbu test
+[6/1/2018 11:59:40] /nn Tobi
+[6/1/2018 11:59:43] /ss tobi
+[6/1/2018 11:59:47] /nn Tobi
+[6/1/2018 12:0:14] /nn Akatsuki Tobi
+[6/1/2018 12:0:52] /ii cetre rikkudo
+[6/1/2018 12:1:13] /ii raiton snake shield
+[6/1/2018 12:1:42] /aaddskill Kazoru,distance,110
+[6/1/2018 12:2:26] /aaddskill Kazoru,distance,10
+[6/1/2018 12:2:43] /ii kage shuriken
+[6/1/2018 12:3:34] /aattr set attack 500
+[6/1/2018 12:3:48] /ii cetre rikkudo
+[6/1/2018 12:4:29] /aattr set attack 1000
+[6/1/2018 12:5:59] /ii 2466
+[6/1/2018 12:6:3] /ii uchiha coat
+[6/1/2018 12:6:5] /ii uchiha legs
+[6/1/2018 12:6:11] /ii uchiha boots
+[6/1/2018 12:6:53] /aaddskill Kazoru,sword,140
+[6/1/2018 12:7:0] /ii shibuki sword
+[6/1/2018 12:7:6] /aattr set attack 1000
+[6/1/2018 12:8:22] /ii 2399
+[6/1/2018 12:8:28] /aattr set attack 1000
+[6/1/2018 12:8:54] /aattr set attack 1000
+[6/1/2018 12:9:46] /aattr set atack 1000
+[6/1/2018 12:9:57] /aattr set attack 500
+[6/1/2018 12:10:17] /aattr set attack 1000
+[6/1/2018 12:10:43] /ii 3965
+[6/1/2018 12:10:49] /aattr set attack 1000
+[6/1/2018 12:11:0] /ii 135
+[6/1/2018 12:11:5] /aattr set attack 1000
+[6/1/2018 12:14:50] /aattr set attack 3000
+[6/1/2018 12:16:24] /save
+[6/1/2018 12:16:25] /sshutdown
+[6/1/2018 12:16:44] /m treiner
+[6/1/2018 12:17:51] /aattr atack 1000
+[6/1/2018 12:17:58] /aattr attack 1000
+[6/1/2018 12:18:4] /aattr set atack 1000
+[6/1/2018 12:18:12] /aattr set attack 1000
+[6/1/2018 12:19:14] /sshutdown
+[6/1/2018 12:20:11] /ii cetre rikkudo
+[6/1/2018 12:21:37] /ii shibuki sword
+[6/1/2018 12:21:46] /aattr set attack 1500
+[6/1/2018 12:22:51] /ii critical refino
+[6/1/2018 12:23:6] /nn kakashi
+[6/1/2018 12:23:8] /a 5
+[6/1/2018 12:23:9] /a 5
+[6/1/2018 12:23:9] /up
+[6/1/2018 12:23:11] /a 10
+[6/1/2018 12:23:18] /ii moeda vip
+[6/1/2018 12:23:20] /ii gold bar
+[6/1/2018 12:23:25] /ii 2130
+[6/1/2018 12:23:27] /ii 2160
+[6/1/2018 12:24:11] /down
+[6/1/2018 12:24:15] /a 5
+[6/1/2018 12:24:16] /a 5
+[6/1/2018 12:24:21] /ii 2259
+[6/1/2018 12:24:24] /ii 2259
+[6/1/2018 12:24:24] /ii 2259
+[6/1/2018 12:24:28] /ii 2259
+[6/1/2018 12:24:28] /ii 2259
+[6/1/2018 12:24:29] /ii 2259
+[6/1/2018 12:24:29] /ii 2259
+[6/1/2018 12:24:30] /ii 2259
+[6/1/2018 12:24:39] /ii 2259
+[6/1/2018 12:24:39] /ii 2259
+[6/1/2018 12:24:40] /ii 2259
+[6/1/2018 12:28:10] /rreload creaturescripts
+[6/1/2018 12:28:39] /rreload creaturescripts
+[6/1/2018 12:30:5] /rreload creaturescripts
+[6/1/2018 12:35:42] /ii hokage amulet
+[6/1/2018 12:36:9] /nn Akatsuki system
+[6/1/2018 12:36:19] /goto akatsuki tobi
+[6/1/2018 12:36:22] /c hazon
+[6/1/2018 12:36:40] /ii Doc Secreto da Anbu
+[6/1/2018 12:37:28] /ii Doc Secreto da Anbu
+[6/1/2018 12:37:44] /ii 2471
+[6/1/2018 12:37:45] /ii 2471
+[6/1/2018 12:37:45] /ii 2471
+[6/1/2018 12:37:45] /ii 2471
+[6/1/2018 12:37:46] /ii 2471
+[6/1/2018 12:37:47] /ii 2471
+[6/1/2018 12:37:47] /ii 2471
+[6/1/2018 12:37:48] /ii 2471
+[6/1/2018 12:37:48] /ii 2471
+[6/1/2018 12:37:49] /ii 2471
+[6/1/2018 12:37:49] /ii 2471
+[6/1/2018 12:38:57] /goto kazoru
+[6/1/2018 12:38:58] /c hazon
+[6/1/2018 12:41:16] /rreload spells
+[6/1/2018 12:41:23] /rreload creaturescripts
+[6/1/2018 12:43:18] /ii cetre rikkudo
+[6/1/2018 12:43:57] /c hazon
+[6/1/2018 12:44:34] /aaddskill Hazon,level,10
+[6/1/2018 12:45:34] /rreload creaturescripts
+[6/1/2018 12:45:43] /c hazon
+[6/1/2018 12:45:59] /aaddskill Hazon,level,10
+[6/1/2018 12:48:0] /ii kurama tunic
+[6/1/2018 12:48:3] /ii kurama legs
+[6/1/2018 12:48:5] /ii kurama helmet
+[6/1/2018 12:48:8] /ii kurama boots
+[6/1/2018 12:50:38] /aaddskill Hazon,level,300
+[6/1/2018 13:6:26] /m treiner
+[7/1/2018 0:57:2] /c hazon
+[7/1/2018 1:4:58] /r
+[7/1/2018 1:17:4] /save
+[7/1/2018 1:17:8] /sshutdown
+[7/1/2018 1:18:2] /m bat
+[7/1/2018 1:20:44] /rreload monsters
+[7/1/2018 1:20:48] /m bat
+[7/1/2018 1:27:3] /aaddskill Hakudo,level,25
+[7/1/2018 1:27:55] /rreload monsters
+[7/1/2018 1:27:57] /m fighter
+[7/1/2018 1:28:23] /m fighter
+[7/1/2018 1:29:18] /r
+[7/1/2018 1:29:19] /r
+[7/1/2018 1:32:41] /rreload spells
+[7/1/2018 1:36:15] /m treiner
+[7/1/2018 1:50:8] /rreload spells
+[7/1/2018 1:50:11] /rreload monsters
+[7/1/2018 1:50:13] /m fighter
+[7/1/2018 1:50:24] /m fighter
+[7/1/2018 1:53:3] /aaddskill Hakudo,level,60
+[7/1/2018 1:53:9] /m fighter
+[7/1/2018 2:14:18] /rreload spells
+[7/1/2018 2:15:38] /m fighter
+[7/1/2018 2:15:39] /m fighter
+[7/1/2018 2:16:20] /m fighter
+[7/1/2018 2:16:21] /m fighter
+[7/1/2018 2:16:21] /m fighter
+[7/1/2018 2:18:34] /ii Jiraya Sandal
+[7/1/2018 2:18:44] /ii 150
+[7/1/2018 2:18:49] /ii 11476
+[7/1/2018 2:18:54] /ii 7455
+[7/1/2018 2:20:1] /rreload monsters
+[7/1/2018 2:20:4] /rreload spells
+[7/1/2018 2:20:13] /m fighter
+[7/1/2018 2:20:57] /m fighter
+[7/1/2018 2:22:16] /aaddskill Hakudo,level,100
+[7/1/2018 2:22:52] /ii 122
+[7/1/2018 2:22:59] /ii 7454
+[7/1/2018 2:23:4] /ii 7407
+[7/1/2018 2:23:9] /ii 2647
+[7/1/2018 2:23:56] /rreload monsters
+[7/1/2018 2:23:58] /m fighter
+[7/1/2018 2:49:59] /m fighter
+[7/1/2018 9:10:46] /m tarantula
+[7/1/2018 10:49:35] /m farmer shinobi
+[7/1/2018 10:49:44] /ss farmer shinobi
+[7/1/2018 10:55:1] /m axe swordsman
+[7/1/2018 22:7:56] /ii 7453
+[7/1/2018 22:29:1] /sshutdown
+[8/1/2018 1:1:28] /sshutdown
+[8/1/2018 1:6:9] /rreload spells
+[8/1/2018 1:8:2] /aaddskill Capeta,level,9
+[8/1/2018 1:21:42] /c capeta
+[8/1/2018 1:21:50] /sshutdown
+[8/1/2018 1:24:32] /aaddskill trump,level,10
+[8/1/2018 1:27:41] /goto trump
+[10/1/2018 7:8:41] /ii vale vocation minato
+[10/1/2018 7:9:37] /ii vocation minato
+[10/1/2018 8:39:54] /ii gold bar
+[10/1/2018 8:39:57] /ii 2160
+[10/1/2018 8:40:30] /down
+[10/1/2018 8:41:14] /t
+[12/1/2018 9:26:9] /ii 9856
+[13/1/2018 21:49:1] /ii kurama tunic
+[13/1/2018 21:49:3] /ii kurama legs
+[13/1/2018 21:49:6] /ii kurama boots
+[13/1/2018 21:49:8] /ii kurama helmet
+[13/1/2018 21:56:50] /ii cetre rikkudo
+[13/1/2018 21:56:53] /ii slayer punho
+[13/1/2018 21:57:0] /ii shibuki sword

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Renegade Orochimaru" nameDescription="a renegade orochimaru" race="blood" experience="175" speed="620" manacost="0">
+	<health now="12400" max="12400"/>
+	<look type="344" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="3000" min="-450" max="-550"/>
+		<attack name="zcocobra" interval="2000" chance="1000" range="1" min="-275" max="-350">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0"/>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence="X!"/>
+	</voices>
+	<loot>
+	<item id="2148" countmax="5" chance="75000"/>
+	<item id="10557" countmax="6" chance="50000"/>
+	<item id="8931" countmax="2" chance="75000"/>
+	<item id="8932" countmax="4" chance="25000"/>
+	</loot>
+</monster>
+

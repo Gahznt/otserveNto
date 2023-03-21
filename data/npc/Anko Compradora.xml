@@ -1,0 +1,7 @@
+<npc name="Anko Mitarashi[Loot]" script="data/npc/scripts/sell/compranko.lua" walkinterval="2000" speed="0" floorchange="0">
+    <health now="1000" max="1000"/>
+<look type="87" head="0" body="86" legs="0" feet="38" addons="1"/>
+  <parameters>
+    <parameter key="message_greet" value="Olá |PLAYERNAME|, tenho uma coleção enorme de equipamentos, tem algum aí para me vender ? {trade}" />
+  </parameters>
+</npc>  

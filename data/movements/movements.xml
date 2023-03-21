@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movements>
+	<!-- MapTile
+	<movevent type="StepIn" actionid="40050" event="script" value="mapmarks.lua"/> -->
+	
+	<!-- <movevent type="StepIn" itemid="1668" event="script" value="paper_explosive.lua"/> -->
+	<!-- New -->
+	<movevent type="StepIn" itemid="9573" event="script" value="staircd.lua"/>
+	<movevent type="StepIn" itemid="9846" event="script" value="staircd.lua"/>
+	<movevent type="StepIn" itemid="3219" event="script" value="staircd.lua"/>
+	<movevent type="StepIn" itemid="3220" event="script" value="staircd.lua"/>
+	<movevent type="StepIn" itemid="5259" event="script" value="staircd.lua"/>
+	<movevent type="StepIn" itemid="5260" event="script" value="staircd.lua"/>
+	
+	
+	<movevent type="StepIn" actionid="7321" event="script" value="tileinfo1.lua"/>
+	<movevent type="StepIn" actionid="7322" event="script" value="tileinfo2.lua"/>
+	<movevent type="StepIn" actionid="7324" event="script" value="tileinfo4.lua"/>
+	<!-- News Block -->
+	<movevent type="StepIn" actionid="7664" event="script" value="storage_tile/hokage.lua"/>
+	<movevent type="StepIn" actionid="7121" event="script" value="storage_tile/set_um.lua"/>
+	<movevent type="StepIn" actionid="7122" event="script" value="storage_tile/set_dois.lua"/>
+	<movevent type="StepIn" actionid="7123" event="script" value="storage_tile/set_tres.lua"/>
+	<movevent type="StepIn" actionid="7124" event="script" value="storage_tile/set_quat.lua"/>
+	<movevent type="StepIn" actionid="7125" event="script" value="storage_tile/set_cinco.lua"/>
+	<movevent type="StepIn" actionid="7126" event="script" value="storage_tile/level_cinco.lua"/>
+
+	<!-- Decaying tiles -->
+	<movevent type="StepIn" itemid="3195" event="script" value="tile_stamina.lua"/>
+    <movevent type="StepOut" itemid="3195" event="script" value="tile_stamina.lua"/>
+	<movevent type="StepIn" actionid="5841" event="script" value="show/tileshow.lua"/>
+	<movevent type="StepIn" actionid="5842" event="script" value="show/tileshow2.lua"/>
+	<movevent type="StepIn" actionid="5843" event="script" value="show/tileshow3.lua"/>
+	<movevent type="StepIn" actionid="5844" event="script" value="show/tileshow4.lua"/>
+	<movevent type="StepIn" actionid="5845" event="script" value="show/tileshow5.lua"/>
+	<movevent type="StepIn" actionid="5846" event="script" value="show/tileshow6.lua"/>
+	<movevent type="StepIn" actionid="5847" event="script" value="show/tileshow7v.lua"/>
+	<movevent type="StepIn" actionid="5848" event="script" value="show/tileshow7f.lua"/>
+	<movevent type="StepIn" actionid="5849" event="script" value="show/tileshow8f.lua"/>
+	<movevent type="StepIn" actionid="5850" event="script" value="show/tileshow8v.lua"/>
+	<movevent type="StepIn" actionid="5851" event="script" value="show/tileshow9.lua"/>
+	<movevent type="StepIn" actionid="5852" event="script" value="show/tileshow10.lua"/>
+	<movevent type="StepIn" actionid="51852" event="script" value="show/tileshow11.lua"/>
+	<movevent type="StepIn" actionid="5853" event="script" value="show/tileizanami.lua"/>
+	<movevent type="StepIn" actionid="5854" event="script" value="show/tilekurama.lua"/>
+	<movevent type="StepIn" actionid="5855" event="script" value="show/tilesusano.lua"/>
+	<movevent type="StepIn" actionid="5856" event="script" value="show/tileshield.lua"/>
+	<movevent type="StepIn" actionid="5857" event="script" value="show/tileeye.lua"/>
+	<movevent type="StepIn" actionid="5858" event="script" value="show/tilebox.lua"/>
+	<movevent type="StepIn" actionid="5859" event="script" value="show/tilewar.lua"/>
+	<movevent type="StepIn" actionid="5860" event="script" value="show/tileskills.lua"/>
+	<movevent type="StepIn" actionid="5861" event="script" value="show/tilerec.lua"/>
+	<movevent type="StepIn" actionid="5862" event="script" value="show/tileticket.lua"/>
+	<movevent type="StepIn" actionid="5863" event="script" value="show/tileyoutube.lua"/>
+	<movevent type="StepIn" actionid="5864" event="script" value="lowbox.lua"/>
+	<movevent type="StepIn" actionid="5865" event="script" value="superbox.lua"/>
+	<movevent type="StepIn" actionid="5866" event="script" value="show/tilesusanosw.lua"/>
+	<movevent type="StepIn" actionid="5886" event="script" value="show/tilevictoryshield.lua"/>
+	<movevent type="StepIn" actionid="5867" event="script" value="show/tilegunbai.lua"/>
+	<movevent type="StepIn" actionid="5868" event="script" value="kages.lua"/>
+	<movevent type="StepIn" actionid="5869" event="script" value="vipcoin.lua"/>
+	<movevent type="StepIn" actionid="45000" event="script" value="BattleMovements.lua"/>
+	<movevent type="StepIn" actionid="30020-30100" event="script" value="morador.lua"/> --
+	<movevent type="StepIn" actionid="8100" event="script" value="tileanbu.lua"/>
+	<movevent type="StepIn" actionid="8101" event="script" value="show/tileotsutsukidefender.lua"/>
+	<movevent type="StepIn" actionid="8102" event="script" value="tilehagoromo.lua"/>
+	<movevent type="Equip" itemid="7697" slot="ring" event="script" value="exp_ring.lua"/>
+	<movevent type="DeEquip" itemid="7697" slot="ring" event="script" value="exp_ring.lua"/>
+	<movevent type="Equip" itemid="7708" slot="ring" event="script" value="exp_ring.lua"/>
+	<movevent type="DeEquip" itemid="7708" slot="ring" event="script" value="exp_ring.lua"/>
+
+	<movevent type="StepIn" actionid="6703" event="script" value="show/tilestoragekyuubi.lua"/>
+	
+	<movevent type="StepIn" actionid="5201" event="script" value="storage_tile/tilestorage.lua"/>
+	<movevent type="StepIn" actionid="5202" event="script" value="storage_tile/tilestorage2.lua"/>
+	<movevent type="StepIn" actionid="5203" event="script" value="storage_tile/tilestorage3.lua"/>
+	<movevent type="StepIn" actionid="5204" event="script" value="storage_tile/tilestorage4.lua"/>
+	<movevent type="StepIn" actionid="5205" event="script" value="storage_tile/tilestorage5.lua"/>
+	<movevent type="StepIn" actionid="5206" event="script" value="storage_tile/tilestorage6.lua"/>
+	<movevent type="StepIn" actionid="5207" event="script" value="storage_tile/tilestorage7.lua"/>
+	<movevent type="StepIn" actionid="5208" event="script" value="storage_tile/tilestorage8.lua"/>
+	<movevent type="StepIn" actionid="5209" event="script" value="storage_tile/tilestorage9.lua"/>
+	
+	<movevent type="StepIn" actionid="5310" event="script" value="storage_tile/kakuzo.lua"/>
+
+	<movevent type="StepIn" actionid = "63200" event="script" value="CTFMax.lua"/>
+	<movevent type="StepIn" actionid = "47521" event="script" value="CTFTeleport.lua"/>	
+	<movevent type="StepIn" itemid="293" event="script" value="decay.lua"/>
+	<movevent type="StepIn" itemid="2543" event="script" value="jidanda.lua"/>
+	<movevent type="StepIn" itemid="461" event="script" value="decay.lua"/>
+	<movevent type="StepIn" actionid="4444" event="script" value="mina_terrestre.lua"/>
+	<movevent type="StepIn" actionid="14874" event="script" value="tpkamui.lua"/>
+	<movevent type="StepIn" actionid="13245" event="script" value="ativbomb.lua"/>
+	<movevent type="StepIn" actionid="13246" event="script" value="anticastle.lua"/>
+
+	<!-- Bijus -->
+	
+	<!-- Lks Ultimos Edites -->
+	    <movevent type="StepIn" actionid="16200-16203" event="script" value="COH.lua"/>
+	<!-- Uffox tiles -->
+	<movevent type="StepIn" itemid="4820" event="script" value="water.lua"/>
+	<movevent type="StepIn" itemid="4821" event="script" value="water.lua"/>
+	<movevent type="StepIn" itemid="4822" event="script" value="water.lua"/>
+	<movevent type="StepIn" itemid="4823" event="script" value="water.lua"/>
+	<movevent type="StepIn" itemid="4824" event="script" value="water.lua"/>
+	<movevent type="StepIn" itemid="4825" event="script" value="water.lua"/>
+	
+	<!-- Swimming -->
+	<movevent type="StepIn" itemid="4828-4831" event="script" value="swimming.lua"/>
+	<movevent type="StepIn" itemid="7943-7954" event="script" value="swimming.lua"/>
+
+	<!-- Underwater drown -->
+	<movevent type="StepIn" fromid="5405" toid="5410" event="script" value="drown.lua"/>
+	<movevent type="StepOut" fromid="5405" toid="5410" event="script" value="drown.lua"/>
+
+	<!-- (Depot & Level) tiles -->
+	<movevent type="StepIn" itemid="416" event="script" value="tiles.lua"/>
+	<movevent type="StepOut" itemid="417" event="script" value="tiles.lua"/>
+	<movevent type="StepIn" itemid="426" event="script" value="tiles.lua"/>
+	<movevent type="StepOut" itemid="425" event="script" value="tiles.lua"/>
+	<movevent type="StepIn" itemid="446" event="script" value="tiles.lua"/>
+	<movevent type="StepOut" itemid="447" event="script" value="tiles.lua"/>
+	<movevent type="StepIn" itemid="3216" event="script" value="tiles.lua"/>
+	<movevent type="StepOut" itemid="3217" event="script" value="tiles.lua"/>
+	<movevent type="StepOut" itemid="3215" event="script" value="tiles.lua"/>
+	<movevent type="StepIn" itemid="11062" event="script" value="tiles.lua"/>
+	<movevent type="StepOut" itemid="11063" event="script" value="tiles.lua"/>
+	<!-- <movevent type="StepIn" itemid="8714" event="script" value="tiles.lua"/> -->
+
+	<!-- Traps -->
+	<movevent type="StepIn" itemid="1510" event="script" value="trap.lua"/>
+	<movevent type="StepOut" itemid="1511" event="script" value="trap.lua"/>
+	<movevent type="StepIn" itemid="1512" event="script" value="trap.lua"/>
+	<movevent type="StepOut" itemid="1513" event="script" value="trap.lua"/>
+	<movevent type="StepIn" itemid="2579" event="script" value="trap.lua"/>
+	<movevent type="RemoveItem" itemid="2579" event="script" value="trap.lua"/>
+
+	<!-- Citizen teleport -->
+	<movevent type="StepIn" itemid="1387" event="script" value="citizen.lua"/>
+
+	<!-- Walkback when walking on quest chest -->
+	<movevent type="StepIn" itemid="1738" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1740" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" fromid="1746" toid="1749" event="script" value="walkback.lua"/>
+
+	<!-- (Level & quest) doors -->
+	<movevent type="StepOut" itemid="1228" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1230" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1246" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1248" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1260" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1262" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="3541" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="3550" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5104" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5113" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5122" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5131" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5293" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5295" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1224" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1226" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1242" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1244" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1256" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="1258" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="3543" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="3552" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5106" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5115" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5124" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5133" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5289" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5291" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5746" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="5749" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6203" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6205" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6207" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6209" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6260" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6262" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6264" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6266" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6897" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6899" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6906" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="6908" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="7039" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="7041" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="7048" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="7050" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="8552" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="8554" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="8556" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="8558" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="9176" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="9178" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="9180" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="9182" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="9278" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="9280" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="9282" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="9284" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10279" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10281" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10283" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10285" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10474" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10476" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10483" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10485" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10777" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10781" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10783" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10786" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10790" event="script" value="closingdoor.lua"/>
+	<movevent type="StepOut" itemid="10792" event="script" value="closingdoor.lua"/>
+	<movevent type="StepIn" itemid="1228" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1230" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1246" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1248" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1260" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1262" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="3541" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="3550" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5104" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5113" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5122" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5131" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5293" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5295" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1224" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1226" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1242" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1244" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1256" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="1258" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="3543" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="3552" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5106" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5115" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5124" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5133" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5289" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5291" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5746" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="5749" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6203" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6205" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6207" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6209" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6260" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6262" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6264" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6266" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6897" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6899" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6906" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="6908" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="7039" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="7041" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="7048" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="7050" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="8552" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="8554" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="8556" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="8558" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="9176" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="9178" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="9180" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="9182" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="9278" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="9280" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="9282" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="9284" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10279" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10281" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10283" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10285" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10474" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10476" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10483" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10485" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10777" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10781" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10783" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10786" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10790" event="script" value="walkback.lua"/>
+	<movevent type="StepIn" itemid="10792" event="script" value="walkback.lua"/>
+
+	<!-- Snow footprint tiles -->
+	<movevent type="StepIn" itemid="670" event="script" value="snow.lua"/>
+	<movevent type="StepIn" itemid="6580-6594" event="script" value="snow.lua"/>
+
+	<!-- Create bread movements -->
+	<movevent type="AddItem" tileitem="1" itemid="1786" event="script" value="dough.lua"/>
+	<movevent type="AddItem" tileitem="1" itemid="1788" event="script" value="dough.lua"/>
+	<movevent type="AddItem" tileitem="1" itemid="1790" event="script" value="dough.lua"/>
+	<movevent type="AddItem" tileitem="1" itemid="1792" event="script" value="dough.lua"/>
+
+	<!-- Campfires -->
+	<movevent type="StepIn" itemid="1423" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1423" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1424" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1424" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1425" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1425" event="function" value="onAddField"/>
+
+	<!-- Others -->
+	<movevent type="StepIn" itemid="8072" event="script" value="yellowpillow.lua"/>
+
+	<!-- Fields -->
+	<movevent type="StepIn" itemid="1487" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1487" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1488" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1488" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1489" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1489" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1490" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1490" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1491" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1491" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1492" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1492" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1493" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1493" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1494" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1494" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1495" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1495" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1496" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1496" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1497" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1497" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1498" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1498" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1499" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1499" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1500" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1500" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1501" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1501" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1502" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1502" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1503" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1503" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1504" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1504" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1505" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1505" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1506" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1506" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1507" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1507" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="1508" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="1508" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="7359" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="7359" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="7360" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="7360" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="7465-7473" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="7465-7473" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="11098" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="11098" event="function" value="onAddField"/>
+	<movevent type="StepIn" itemid="11099" event="function" value="onStepInField"/>
+	<movevent type="AddItem" itemid="11099" event="function" value="onAddField"/>
+
+	<!-- Boots -->
+	<movevent type="Equip" itemid="11117"  slot="feet" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="11117" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2646" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2646" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2439" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2439" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2195" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2195" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2640" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2640" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="6132" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="6132" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7457" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7457" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7886" slot="feet" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="119" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="119" slot="feet" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="2449" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2449" slot="feet" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="120" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="120" slot="feet" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="121" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="121" slot="feet" event="function" value="onEquipItem">
+	</movevent>
+
+	<movevent type="DeEquip" itemid="7891" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7893" slot="feet" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7893" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="9932" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="9932" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="9933" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="9933" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11118" slot="feet" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="11118" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11240" slot="feet" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="11240" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11303" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11303" slot="feet" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2525" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2525" slot="feet" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="7417" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7417" slot="feet" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="8869" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8869" slot="feet" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2529" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2529" slot="feet" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="7402" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7402" slot="feet" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="11398" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11398" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11224" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11224" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11225" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11225" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11226" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11226" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11222" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11222" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11228" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11228" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11223" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11223" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11227" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11227" slot="feet" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11218" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11218" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11219" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11219" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11220" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11220" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11221" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="1121" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11215" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11215" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11217" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11217" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11216" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11216" slot="head" event="function" value="onDeEquipItem"/>
+
+	
+	<!-- Amulets -->
+	<movevent type="Equip" itemid="2124" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2124" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2170" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2170" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2172" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2172" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2197" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2197" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2198" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2198" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2199" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2199" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2200" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2200" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2201" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2201" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2173" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2173" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2196" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2196" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7887" slot="necklace" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7887" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7888" slot="necklace" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7888" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7889" slot="necklace" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7889" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7890" slot="necklace" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7890" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" fromid="10218" toid="10221" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" fromid="10218" toid="10221" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11374" slot="necklace" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11374" slot="necklace" event="function" value="onDeEquipItem"/>
+	<movevent type="DeEquip" itemid="11400" slot="necklace" event="function" value="onDeEquipItem"/>
+
+	<!-- Rings -->
+	<movevent type="Equip" itemid="11322" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11322" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="6569" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="6569" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="6301" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="6301" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2126" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2126" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="128" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="128" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="129" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="129" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="DeEquip" itemid="2202" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2166" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="2203" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2203" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2167" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="2204" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2204" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2168" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="2205" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2205" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2169" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="2206" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2206" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2207" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="2210" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2210" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2208" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="2211" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2211" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2209" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="2212" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2212" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2213" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="2215" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2215" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2214" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="2216" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2216" slot="ring" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="6300" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="Equip" itemid="140" slot="ring" event="script" value="exp_ring.lua"/>
+    <movevent type="DeEquip" itemid="140" slot="ring" event="script" value="exp_ring.lua"/>
+    <movevent type="Equip" itemid="141" slot="ring" event="script" value="exp_ring.lua"/>
+   <movevent type="DeEquip" itemid="141" slot="ring" event="script" value="exp_ring.lua"/>
+
+	<!-- Helmets -->
+	<movevent type="Equip" itemid="2323" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="2323" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2343" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2343" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2474" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2474" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2502" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2502" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="5461" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="5461" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7459" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7459" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7900" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7900" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7901" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	
+	<movevent type="DeEquip" itemid="127" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="127" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7902" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7903" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7903" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8820" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8820" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="9778" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="9778" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="10016" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="10016" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="10570" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="10570" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11302" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="11302" slot="head" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11368" slot="head" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="11368" slot="head" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2381" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2381" slot="head" event="function" value="onDeEquipItem"/>
+			<movevent type="Equip" itemid="3972" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="3972" slot="head" event="function" value="onDeEquipItem"/>
+			<movevent type="Equip" itemid="7427" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7427" slot="head" event="function" value="onDeEquipItem"/>
+			<movevent type="Equip" itemid="2447" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2447" slot="head" event="function" value="onDeEquipItem"/>
+			<movevent type="Equip" itemid="2451" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2451" slot="head" event="function" value="onDeEquipItem"/>
+			<movevent type="Equip" itemid="8855" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8855" slot="head" event="function" value="onDeEquipItem"/>
+			<movevent type="Equip" itemid="7380" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7380" slot="head" event="function" value="onDeEquipItem"/>
+			<movevent type="Equip" itemid="2131" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2131" slot="head" event="function" value="onDeEquipItem"/>
+			<movevent type="Equip" itemid="7449" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7449" slot="head" event="function" value="onDeEquipItem"/>
+			<movevent type="Equip" itemid="7435" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7435" slot="head" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="11397" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11397" slot="head" event="function" value="onDeEquipItem"/>
+	<!-- Armors -->
+	<movevent type="Equip" itemid="2472" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="2472" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2487" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="2487" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2492" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="2492" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2500" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="2500" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2503" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2503" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2660" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="2660" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7884" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7884" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7897" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7897" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7898" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7898" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7899" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7899" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8819" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8819" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8821" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8821" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8865" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="Equip" itemid="102"  slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="102" slot="armor" event="function" value="onDeEquipItem">
+	</movevent>
+	<movevent type="Equip" itemid="110"  slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="110" slot="armor" event="function" value="onDeEquipItem">
+	</movevent>
+	<movevent type="Equip" itemid="111"  slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="111" slot="armor" event="function" value="onDeEquipItem">
+	</movevent>
+	<movevent type="Equip" itemid="112" level="175" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="112" slot="armor" event="function" value="onDeEquipItem">
+	</movevent>
+	<movevent type="Equip" itemid="113"  slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="113" slot="armor" event="function" value="onDeEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8871" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8872" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8872" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8877" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8877" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8878" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8878" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8879" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8879" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8880" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8880" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8881" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8881" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8882" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8882" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8883" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8883" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8884" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8884" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8885" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8885" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8886" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8886" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8887" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8887" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8888" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8888" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8889" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8889" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8890" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8890" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8891" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8891" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8892" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8892" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="9776" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="9776" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11301" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="11301" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11355" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="11355" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11356" slot="armor" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="11356" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2414" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2414" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7452" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7452" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7430" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7430" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2508" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2508" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7381" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7381" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2422" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2422" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2397" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2397" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7404" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7404" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8849" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8849" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2400" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2400" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8852" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8852" slot="armor" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8850" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8850" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="8874" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8874" slot="armor" event="function" value="onDeEquipItem"/>
+	 	<movevent type="Equip" itemid="7455" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7455" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2393" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2393" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2141" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2141" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="7408" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7408" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2534" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2534" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2395" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2395" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2495" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2495" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="7416" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7416" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="3969" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="3969" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="7434" slot="armor"  event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7434" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="10502" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="10502" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="11399" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11399" slot="armor" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="147" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="147" slot="head" event="function" value="onDeEquipItem"/>
+	
+	
+	<!-- Legs -->
+	<movevent type="Equip" itemid="7730" slot="legs"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="114" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="114" slot="legs" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="115" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="115" slot="legs" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="116" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="116" slot="legs" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="117" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="117" slot="legs" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="118" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="118" slot="legs" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7730" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2488" slot="legs" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="2488" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2504" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2504" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7885" slot="legs"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7885" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7894" slot="legs"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7894" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7895" slot="legs"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7895" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="7896" slot="legs"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="7896" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11304" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11304" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="9777" slot="legs"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="9777" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11298" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11298" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="6433" slot="shield"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="6433" slot="shield" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2427" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2427" slot="legs" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="8851" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8851" slot="legs" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="7406" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7406" slot="legs" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="7390" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7390" slot="legs" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="7386" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7386" slot="legs" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2428" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2428" slot="legs" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2430" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2430" slot="legs" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="7389" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7389" slot="legs" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2135" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2135" slot="legs" event="function" value="onDeEquipItem"/>
+		<movevent type="Equip" itemid="2431" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2431" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11430" slot="shield" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11430" slot="shield" event="function" value="onDeEquipItem"/>
+    
+	<movevent type="Equip" itemid="2164" slot="ammo" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2164" slot="ammo" event="function" value="onDeEquipItem"/>
+    <!-- Shields -->
+	<movevent type="Equip" fromid="8905" toid="8909" slot="shield"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" fromid="8905" toid="8909" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8900" slot="shield" level="30" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8900" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8901" slot="shield"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8901" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8902" slot="shield"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8902" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8903" slot="shield"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8903" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8904" slot="shield"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8904" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8918" slot="shield"  event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="DeEquip" itemid="8918" slot="shield" event="function" value="onDeEquipItem"/>
+	<!-- Ekps -->
+	<movevent type="DeEquip" itemid="2186" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2186" slot="hand" level="10" event="function" value="onEquipItem">
+	</movevent>
+	<movevent type="Equip" itemid="2136" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2136" slot="legs" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2133" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2133" slot="head" event="function" value="onDeEquipItem"/>
+	<!-- Other -->
+	<movevent type="Equip" itemid="9956" slot="pickupable" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="9956" slot="pickupable" event="function" value="onDeEquipItem"/>
+
+
+	<movevent type="Equip" itemid="1995" slot="backpack" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="1995" slot="backpack" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="1994" slot="backpack" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="1994" slot="backpack" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="1993" slot="backpack" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="1993" slot="backpack" event="function" value="onDeEquipItem"/>
+	<!-- objets with sound -->
+	<movevent type="StepIn" itemid="2230-2234" event="script" value="objets.lua"/>
+	<movevent type="StepOut" itemid="2230-2234" event="script" value="objets.lua"/>
+	<movevent type="StepIn" itemid="2010" event="script" value="objets.lua"/>
+	<movevent type="StepOut" itemid="2010" event="script" value="objets.lua"/>
+	<movevent type="StepIn" itemid="2022" event="script" value="objets.lua"/>
+	<movevent type="StepOut" itemid="2022" event="script" value="objets.lua"/>
+	<movevent type="StepIn" itemid="2024" event="script" value="objets.lua"/>
+	<movevent type="StepOut" itemid="2024" event="script" value="objets.lua"/>
+	<movevent type="StepIn" itemid="2226" event="script" value="objets.lua"/>
+	<movevent type="StepOut" itemid="2226" event="script" value="objets.lua"/>
+	<movevent type="StepIn" itemid="2229" event="script" value="objets.lua"/>
+	<movevent type="StepOut" itemid="2229" event="script" value="objets.lua"/>
+	<movevent type="StepIn" itemid="2236" event="script" value="objets.lua"/>
+	<movevent type="StepOut" itemid="2236" event="script" value="objets.lua"/>
+	<movevent type="StepIn" itemid="2246" event="script" value="objets.lua"/>
+	<movevent type="StepOut" itemid="2246" event="script" value="objets.lua"/>
+	<movevent type="StepIn" itemid="3060" event="script" value="objets2.lua"/>
+	<movevent type="StepOut" itemid="3060" event="script" value="objets2.lua"/>
+	<movevent type="StepIn" itemid="2219" event="script" value="basuras.lua"/>
+	<movevent type="StepOut" itemid="2219" event="script" value="basuras.lua"/>
+	<movevent type="StepIn" itemid="2220-2224" event="script" value="basuras.lua"/>
+	<movevent type="StepOut" itemid="2220-2224" event="script" value="basuras.lua"/>
+	<movevent type="StepIn" itemid="2227" event="script" value="basuras.lua"/>
+	<movevent type="StepOut" itemid="2227" event="script" value="basuras.lua"/>
+	<movevent type="StepIn" itemid="2228" event="script" value="basuras.lua"/>
+	<movevent type="StepOut" itemid="2228" event="script" value="basuras.lua"/>
+	<movevent type="StepIn" itemid="2237-2245" event="script" value="basuras.lua"/>
+	<movevent type="StepOut" itemid="2237-2245" event="script" value="basuras.lua"/>
+	<!-- news items -->
+	<movevent type="Equip" itemid="137" slot="shield" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="137" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="138" slot="shield" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="138" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="139" slot="shield" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="139" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="148" slot="shield" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="148" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="149" slot="shield" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="149" slot="shield" event="function" value="onDeEquipItem"/>
+	<!-- Leveis items -->
+	
+	<!-- RARE -->
+	<movevent type="Equip" itemid="11425" slot="shield" level="100" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11425" slot="shield" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="8927" slot="hand" level="100" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8927" slot="hand" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11332" slot="hand" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11332" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11330" slot="hand" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11330" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11331" slot="hand" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11331" slot="hand" event="function" value="onDeEquipItem"/>
+	<!-- VIP -->
+	<movevent type="Equip" itemid="2376" slot="hand" level="60" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2376" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11424" slot="hand" level="60" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11424" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="11434" slot="hand" level="60" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11434" slot="hand" event="function" value="onDeEquipItem"/>
+	<!-- FREE -->
+	<movevent type="Equip" itemid="134" slot="hand" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="134" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2516" slot="hand" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2516" slot="hand" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7862" slot="hand" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7862" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="136" slot="hand" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="136" slot="hand" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7869" slot="hand" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7869" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2413" slot="hand" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2413" slot="hand" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2440" slot="hand" level="40" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2440" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="133" slot="hand" level="40" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="133" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2168" slot="hand" level="40" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2168" slot="hand" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="3965" slot="hand" level="30" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="3965" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2644" slot="hand" level="30" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2644" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2442" slot="hand" level="30" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2442" slot="hand" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2438" slot="hand" level="20" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2438" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="2649" slot="hand" level="20" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2649" slot="hand" event="function" value="onDeEquipItem"/>
+	<movevent type="Equip" itemid="135" slot="hand" level="20" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="135" slot="hand" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="10602" slot="head" level="150" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="10602" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="10603" slot="armor" level="150" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="10603" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="10605" slot="legs" level="150" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="10605" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="10606" slot="feet" level="150" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="10606" slot="feet" event="function" value="onDeEquipItem"/>
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="7759" slot="head" level="100" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7759" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7760" slot="armor" level="100" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7760" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7761" slot="legs" level="100" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7761" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7762" slot="feet" level="100" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7762" slot="feet" event="function" value="onDeEquipItem"/>
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="11337" slot="head" level="90" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11337" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11338" slot="armor" level="90" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11338" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11319" slot="legs" level="90" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11319" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11321" slot="feet" level="90" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11321" slot="feet" event="function" value="onDeEquipItem"/>	
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="2456" slot="head" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2456" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2479" slot="armor" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2479" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2473" slot="legs" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2473" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2474" slot="feet" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2474" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="2475" slot="head" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2475" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2476" slot="armor" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2476" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2477" slot="legs" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2477" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2478" slot="feet" level="80" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2478" slot="feet" event="function" value="onDeEquipItem"/>
+	
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="11419" slot="head" level="70" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11419" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11420" slot="armor" level="70" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11420" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11421" slot="legs" level="70" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11421" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11422" slot="feet" level="70" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11422" slot="feet" event="function" value="onDeEquipItem"/>
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="2466" slot="head" level="60" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2466" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2462" slot="armor" level="60" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2462" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2464" slot="legs" level="60" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2464" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2468" slot="feet" level="60" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2468" slot="feet" event="function" value="onDeEquipItem"/>
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="124" slot="head" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="124" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7463" slot="armor" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7463" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11475" slot="legs" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11475" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="123" slot="feet" level="50" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="123" slot="feet" event="function" value="onDeEquipItem"/>
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="126" slot="head" level="40" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="126" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7453" slot="armor" level="40" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7453" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2429" slot="legs" level="40" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2429" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2161" slot="feet" level="40" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2161" slot="feet" event="function" value="onDeEquipItem"/>
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="125" slot="head" level="30" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="125" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="8854" slot="armor" level="30" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="8854" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2452" slot="legs" level="30" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2452" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="146" slot="feet" level="30" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="146" slot="feet" event="function" value="onDeEquipItem"/>
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="2647" slot="head" level="20" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2647" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7407" slot="armor" level="20" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7407" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7454" slot="legs" level="20" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7454" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="122" slot="feet" level="20" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="122" slot="feet" event="function" value="onDeEquipItem"/>
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="7455" slot="head" level="10" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7455" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11476" slot="armor" level="10" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11476" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="150" slot="legs" level="10" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="150" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="7456" slot="feet" level="10" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="7456" slot="feet" event="function" value="onDeEquipItem"/>
+	<!-- SET SAGA  -->
+	<!-- SET SAGA  -->
+	
+	<!-- SET SAGA  -->
+	<movevent type="Equip" itemid="2467" slot="head" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2467" slot="head" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2463" slot="armor" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2463" slot="armor" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2465" slot="legs" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2465" slot="legs" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="2470" slot="feet" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="2470" slot="feet" event="function" value="onDeEquipItem"/>
+			<!-- RARE SAGA  -->
+	<movevent type="Equip" itemid="11334" slot="ammo" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11334" slot="ammo" event="function" value="onDeEquipItem"/>
+	
+	<movevent type="Equip" itemid="11211" slot="ring" event="function" value="onEquipItem"/>
+	<movevent type="DeEquip" itemid="11211" slot="ring" event="function" value="onDeEquipItem"/>
+
+	
+</movements>

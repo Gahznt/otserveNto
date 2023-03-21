@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Sarutobi Hokage" nameDescription="a hokage" race="blood" experience="125000" speed="1220" manacost="390">
+	<health now="100000" max="100000"/>
+	<look type="1188" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<script>
+    <event name="teleportmonster"/>
+    </script> 
+	<attacks>
+		<attack name="hyuugaeffect" interval="500" min="-425" max="-525"/>
+		<attack name="melee" interval="2250" min="-1050" max="-2250"/>
+		<attack name="sarutobium" interval="2250" chance="1000" range="3" min="-0" max="-0">
+		</attack> 
+		<attack name="melee" interval="3750" min="-3200" max="-4550"/>
+		<attack name="sarutobidois" interval="3750" chance="1000" range="3" min="-0" max="-0">
+		</attack> 
+		<attack name="melee" interval="4750" min="-4200" max="-5550"/>
+		<attack name="sarutobitres" interval="4750" chance="1000" range="3" min="-0" max="-0">
+		</attack> 
+		<attack name="melee" interval="6750" min="-6200" max="-7550"/>
+		<attack name="sarutobiquat" interval="6750" chance="1000" range="3" min="-0" max="-0">
+		</attack> 
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="55000" chance="100" min="25000" max="30000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="90000" chance="100" min="100000" max="115000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+
+	</loot>
+</monster>

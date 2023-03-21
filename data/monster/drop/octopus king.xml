@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="King Octopus" nameDescription="a octopus king" race="blood" experience="65000" speed="1100" manacost="390">
+	<health now="500000" max="500000"/>
+	<look type="1773" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<attacks>
+		<attack name="sakon" interval="2000" chance="1000" range="4" min="-500" max="-750">
+		</attack>
+		<attack name="aguagaara" interval="3250" chance="1000" range="4" min="-800" max="-1500">
+		</attack>
+		<attack name="bolhaagua" interval="5750" chance="1000" range="4" min="-2500" max="-3500">
+		</attack>
+		<attack name="zeonda" interval="8250" chance="1000" range="4" min="-4500" max="-6000">
+		</attack>
+		<attack name="splashagua" interval="35250" chance="1000" range="4" min="-8000" max="-11000">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1300" max="1500"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="8000" chance="100" min="5500" max="6000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="16000" chance="100" min="15000" max="20000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="50000" chance="100" min="35000" max="45000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	<item id="11329" countmax="2" chance="100000"/>
+	<item id="11255" countmax="8" chance="75000"/>
+	</loot>
+</monster>

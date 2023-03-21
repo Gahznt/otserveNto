@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hiromi [Vendedor]" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="240" head="57" body="59" legs="40" feet="76" addons="0"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá |PLAYERNAME| Eu sou o Hiromi, tenho otimas mochilas e ferramentas! {trade}."/>
+		<parameter key="shop_buyable" value="konoha backpack,1999,500;pick,2553,5000;shovel,2554,500;rope,2120,500;mist backpack,2002,500;suna backpack,1998,500;akatsuki backpack,2001,1000;sound backpack,2003,500"/>
+	</parameters>
+</npc>

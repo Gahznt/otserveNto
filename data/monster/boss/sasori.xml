@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Sasori" nameDescription="a Sasori" race="blood" experience="3250" speed="820" manacost="0">
+	<health now="14500" max="14500"/>
+	<look type="1312" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<script>
+            <event name="SasoriKill"/>            
+    </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-320" max="-340"/>
+		<attack name="hirukotail" interval="1000" chance="1000" range="1" min="-225" max="-275">
+		</attack>
+		<attack name="kugutsuattack" interval="2000" chance="1000" range="1" min="-320" max="-350">
+		</attack> 
+		<attack name="socovento" interval="4000" chance="1000" range="1" min="-350" max="-400">
+		</attack> 
+		<attack name="sasoritres" interval="5000" chance="1000" range="1" min="-600" max="-900">
+		</attack> 
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="350" max="375"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="12000" chance="100" min="2200" max="2650"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="18000" chance="100" min="3150" max="3600"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="40000" chance="100" min="4250" max="5500"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence="X!"/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Ancient Katrina" nameDescription="ancient katrina" race="blood" experience="3500" speed="800" manacost="0">
+	<health now="34000" max="34000"/>
+	<look type="1303" head="0" body="94" legs="79" feet="79" corpse="2908"/>
+	<targetchange interval="1500" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	
+	<attacks>
+		<attack name="melee" interval="3000" min="-850" max="-925"/>
+		<attack name="veveneno" interval="2000" chance="1000" range="1" min="-850" max="-925">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="10000" chance="50" min="7" max="20">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	
+	<loot>
+		<item id="10562" countmax="1" chance="10000"/><!-- dolar=verde -->
+	<item id="10563" countmax="1" chance="10000"/><!-- dolar=verde -->
+	<item id="10564" countmax="1" chance="10000"/><!-- dolar=verde -->
+	<item id="8849" countmax="1" chance="15000"/><!-- dolar=verde -->
+	<item id="10565" countmax="1" chance="15000"/><!-- dolar=verde -->
+	<item id="10566" countmax="1" chance="15000"/><!-- dolar=verde -->
+	</loot>
+</monster>

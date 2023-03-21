@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Itachi" nameDescription="a itachi" race="blood" experience="10000" speed="1020" manacost="390">
+	<health now="80500" max="80500"/>
+	<look type="1008" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="ItachiKill"/>            
+        </script>
+	<attacks>
+		<attack name="blackamaterasu" interval="750" chance="1000" range="4" min="-425" max="-650">
+		</attack>
+		<attack name="obitocorvo" interval="2250" chance="1000" range="4" min="-825" max="-1050">
+		</attack>
+		<attack name="tsukitachi" interval="6750" chance="1000" range="4" min="-2200" max="-2400">
+		</attack>
+		<attack name="sharingakut" interval="4350" chance="1000" range="4" min="-2000" max="-2550">
+		</attack>
+		<attack name="corvaiada" interval="6000" chance="1000" target="0" radius="3" min="-6300" max="-7600">
+		</attack>
+		<attack name="itachizao" interval="9750" chance="1000" range="4" min="-7000" max="-9500">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1300" max="1500"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="8000" chance="100" min="5000" max="7000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="16000" chance="100" min="15000" max="20000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="60000" chance="100" min="45000" max="55000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

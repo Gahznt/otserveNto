@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Hashirama Senju" nameDescription="hashirama senju" race="blood" experience="1500000" speed="2000" manacost="0">
+	<health now="25000000" max="25000000"/>
+	<look type="973" head="0" body="94" legs="79" feet="79" corpse="2908"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	
+	<attacks>
+		<attack name="melee" interval="1000" min="-5500" max="-5500"/>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1000" max="1500">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	<loot>
+		<item id="x" countmax="1" chance="100000"/><!-- dolar=verde -->
+		<item id="2148" countmax="2000" chance="50000"/><!-- dolar=verde -->
+		<item id="2152" countmax="10" chance="33333"/><!-- dolar=verde -->
+		<item id="145" countmax="10" chance="33333"/><!-- dolar=verde -->
+		<item id="144" countmax="10" chance="33333"/><!-- dolar=verde -->
+		<item id="143" countmax="10" chance="33333"/><!-- dolar=verde -->
+	</loot>
+</monster>

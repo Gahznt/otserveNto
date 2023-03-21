@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kaguya" nameDescription="a kaguya" race="blood" experience="125000" speed="1220" manacost="390">
+	<health now="650000" max="650000"/>
+	<look type="1258" head="113" body="120" legs="114" feet="132" corpse="2908"/>
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<attacks>
+		<attack name="deepcetre" interval="500" min="-425" max="-525"/>
+		<attack name="bolachakra" interval="2000" chance="1000" range="4" min="-1050" max="-1250">
+		</attack>
+		<attack name="blackchidorao" interval="2250" chance="1000" range="4" min="-800" max="-900">
+		</attack>
+		<attack name="kaguyaun" interval="3750" chance="1000" range="4" min="-2000" max="-2500">
+		</attack>
+		<attack name="kaguyadois" interval="5200" chance="1000" range="4" min="-3000" max="-4500">
+		</attack>
+		<attack name="kaguyatres" interval="9600" chance="1000" range="4" min="-5750" max="-8250">
+		</attack>
+		<attack name="kaguyaquat" interval="13150" chance="1000" range="4" min="-8250" max="-10500">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1000" max="2000"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="10000" chance="100" min="3000" max="5000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="25000" chance="100" min="15000" max="25000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="50000" chance="100" min="50000" max="75000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	<item id="11329" countmax="3" chance="100000"/> <!-- Crystal of Victory-->
+	<item id="11337" countmax="1" chance="500"/> <!-- 1%  = 4Porcento = 2 Set   2  Item Mes -->
+	<item id="11334" countmax="1" chance="750"/> <!-- 1%  = 4Porcento = 2 Set   2  Item Mes -->
+	<item id="8933" countmax="1" chance="25000"/> <!-- 1%  = 4Porcento = 2 Set   2  Item Mes -->
+	<item id="2160" countmax="30" chance="75000"/>
+	</loot>
+</monster>

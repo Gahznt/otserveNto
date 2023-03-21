@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Edo Sasori" nameDescription="edo sasori" race="blood" experience="90" speed="820" manacost="0">
+	<health now="90000" max="90000"/>
+	<look type="383" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1000" min="-320" max="-340"/>
+		<attack name="hirukotail" interval="1000" chance="1000" range="1" min="-225" max="-275">
+		</attack>
+		<attack name="kugutsuattack" interval="2000" chance="1000" range="1" min="-320" max="-350">
+		</attack> 
+		<attack name="socovento" interval="4000" chance="1000" range="1" min="-350" max="-750">
+		</attack> 
+		<attack name="sasoritres" interval="5000" chance="1000" range="1" min="-1100" max="-1200">
+		</attack> 
+	</attacks>
+	<defenses armor="0" defense="0"/>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence="X!"/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

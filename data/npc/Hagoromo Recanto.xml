@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hagoromo" script="data/npc/scripts/bijurecanto.lua" walkinterval="2000" speed="0" floorchange="0">
+    <health now="1" max="1"/>
+<look type="1631" head="0" body="86" legs="0" feet="38" addons="1"/>
+<parameters>
+    <parameter key="message_greet" value="Olá |PLAYERNAME| Nesse Recanto, você poderá encontrar muitas das minhas criações ! Algumas delas, estão oferecendo lealdade { Shukaku },{ Isobu },{ Yonbi },{ Gobi } " />
+  </parameters>
+</npc>  

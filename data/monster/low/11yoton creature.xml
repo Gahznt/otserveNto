@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Yoton Creature" nameDescription="ancient mummy" race="blood" experience="3000" speed="820" manacost="0">
+	<health now="95000" max="95000"/>
+	<look type="1425" head="0" body="94" legs="79" feet="79" corpse="2908"/>
+	<targetchange interval="1500" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="2"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	
+	<attacks>
+		<attack name="melee" interval="1000" min="-750" max="-1250"/>
+		<attack name="fireshot" interval="750" chance="35" range="3" min="-550" max="-750">
+		</attack>	
+		<attack name="zlava" interval="1500" chance="50" range="3" min="-1550" max="-1750">
+		</attack>		
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="10000" chance="50" min="7" max="20">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	<loot>
+	</loot>
+</monster>

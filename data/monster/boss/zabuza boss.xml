@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Zabuza Boss" nameDescription="zabuza boss" race="blood" experience="15000" speed="800" manacost="0">
+	<health now="225000" max="225000"/>
+	<look type="4" head="0" body="94" legs="79" feet="79" />
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+	<script>
+            <event name="teleportmonster"/>            
+        </script>
+	<attacks>
+		<attack name="swzabuza" interval="500" min="-340" max="-645"/>
+		<attack name="bolhaagua" interval="3000" chance="1000" range="1" min="-50" max="-60">
+		</attack>
+		<attack name="zeonda" interval="4000" chance="1000" range="1" min="-50" max="-60">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="1300" max="1500"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="4000" chance="100" min="2500" max="3000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="10000" chance="100" min="8000" max="10000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="45000" chance="100" min="22000" max="24000"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+</monster>

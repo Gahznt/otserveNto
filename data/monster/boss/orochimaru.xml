@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Orochimaru" nameDescription="a orochimaru" race="blood" experience="500" speed="320" manacost="390">
+	<health now="5200" max="5200"/>
+	<look type="575" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="OrochimaruKill"/>            
+        </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-80" max="-90"/>
+		<attack name="cobra" interval="2000" chance="1000" range="1" min="-80" max="-90">
+		</attack>
+		<attack name="veveneno" interval="3000" chance="1000" range="1" min="-80" max="-90">
+		</attack>
+		<attack name="zbrowncobra" interval="4000" chance="1000" range="1" min="-80" max="-100">
+		</attack>
+		<attack name="zcocobra" interval="5000" chance="1000" range="1" min="-120" max="-130">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="60" max="70"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="6000" chance="100" min="300" max="400"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="9000" chance="100" min="400" max="600"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

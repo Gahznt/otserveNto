@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Yorosh [Escudos]" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="1036" head="57" body="59" legs="40" feet="76" addons="0"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola  |PLAYERNAME|! { Trade }."/>
+		<parameter key="shop_buyable" value="Doton Snake Shield,137,30000;Fuuton Snake Shield,138,100000;Suiton Snake Shield,149,250000;Raiton Snake Shield,148,750000;"/>
+	</parameters>
+</npc>

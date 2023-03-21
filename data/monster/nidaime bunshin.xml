@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Bunshin" nameDescription="a bunshin" race="blood" experience="35" speed="1200" manacost="300">
+	<health now="1000" max="1000"/>
+	<look type="1001" corpse="0"/>
+	<targetchange interval="2000" chance="0"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="3"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="tealdano" interval="250" chance="1000" range="2" min="-350" max="-500">
+		</attack>
+		<attack name="tpnidaime" interval="350" chance="33" range="4" min="-250" max="-450">
+		</attack>
+		<attack name="aguashot" interval="1500" chance="50" range="4" min="-575" max="-725">
+		</attack>
+		<attack name="splashagua" interval="1250" chance="50" range="4" min="-375" max="-635">
+		</attack>
+	</attacks>
+	<defenses armor="2" defense="9"/>
+	<elements>
+		<element holyPercent="-25"/>
+	</elements>
+	<loot>
+	</loot>
+</monster>

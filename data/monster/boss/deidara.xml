@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Deidara" nameDescription="a deidara" race="blood" experience="2000" speed="620" manacost="390">
+	<health now="7200" max="7200"/>
+	<look type="672" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="DeidaraKill"/>            
+        </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-175" max="-200"/>
+		<attack name="powfire" interval="2000s" chance="1000" range="1" min="-175" max="-200">
+		</attack>
+		<attack name="downc3" interval="3000" chance="1000" range="1" min="-175" max="-200">
+		</attack>
+		<attack name="fogos" interval="4000" chance="1000" range="1" min="-200" max="-225">
+		</attack>
+		<attack name="furierasengan" interval="5000" chance="1000" range="1" min="-200" max="-230">
+		</attack>
+	</attacks>
+	<defenses armor="0" defense="0">
+		<defense name="healing" interval="1000" chance="100" min="125" max="150"> 25 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="6000" chance="100" min="600" max="750"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="9000" chance="100" min="850" max="950"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

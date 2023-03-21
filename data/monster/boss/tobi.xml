@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Tobi" nameDescription="a tobi" race="blood" experience="3500" speed="820" manacost="390">
+	<health now="17800" max="17800"/>
+	<look type="921" head="113" body="120" legs="114" feet="132" />
+	<targetchange interval="5000" chance="20"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag runonhealth="0"/>
+		<flag passive="0" />
+	</flags>
+		<script>
+            <event name="TobiKill"/>            
+        </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-480" max="-500"/>
+		<attack name="zlava" interval="2300" chance="1000" range="1" min="-450" max="-500">
+		</attack>
+		<attack name="obitocorvo" interval="3000" chance="1000" range="1" min="-480" max="-550">
+		</attack> 
+		<attack name="darkamaterasu" interval="4500" chance="1000" range="1" min="-500" max="-600">
+		</attack> 
+		<attack name="fogos" interval="9750" chance="1000" range="1" min="-850" max="-1200">
+		</attack> 
+	</attacks>
+	<defenses armor="14" defense="10">
+		<defense name="invisible" interval="18000" chance="100" duration="4000">
+			<attribute key="areaEffect" value="TELEPORT"/>
+		</defense>
+		<defense name="healing" interval="2000" chance="100" min="300" max="650"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="12000" chance="100" min="1550" max="2250"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="18000" chance="100" min="3950" max="4300"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+		<defense name="healing" interval="40000" chance="100" min="5250" max="6500"> 100 % do dano do atq
+		<attribute key="areaEffect" value="blueshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element physicalPercent="-0"/>
+		<element deathPercent="-0"/>
+	</elements>
+	<voices interval="5000" chance="0">
+		<voice sentence=""/>
+	</voices>
+	<loot>
+	</loot>
+</monster>

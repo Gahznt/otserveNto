@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creaturescripts>
+    <!-- News -->
+	<event type="kill" name="StorageKilla" script="kill/kimimaru.lua"/>
+	<event type="statschange" name="critical" event="script" value="critical.lua"/>
+	<event type="advance" name="advancedMSG" event="script" value="msglevel.lua"/>
+	<event type="death" name="teleportmonster" script="tpmonster.lua"/>
+	<event type="death" name="redSkullAmulet" event="script" value="redamulet.lua"/>
+	<event type="login" name="firstmessage" script="firstmessage.lua"/>
+	<event type="statschange" name="reflectrob" event="script" value="reflectrob.lua"/>
+	<creaturescript type = "push" name = "PushPlayerThere" event = "script" value = "antipush.lua"/>
+	<event type="death" name="corpse" event="script" value="corpse.lua"/>
+	<!-- <event type="kill" name="FragReward" event="script" value="exp kill.lua"/> -->
+	<event type="login" name="Anti Mc" event="script" value="antimc.lua"/>
+	
+	<event type="death" name="HeartDrop" event="script" value="heart.lua"/>
+	<event type="death" name="stordeath" event="script" value="stordeath.lua"/>
+	<event type="attack" name="targetCreature" script="target.lua"/>
+	<!-- <event type="look" name="showKD" event="script" value="KillsandDeath.lua"/> -->
+	<event type="statschange" name="critical" event="script" value="critical.lua"/>
+	<event type="login" name="autoBless" event="script" value="autoBless.lua"/>
+	<event type="login" name="BattleLogin" event="script" value="BattleCreatureScript.lua"/>
+	<event type="PrepareDeath" name="BattleDeath" event="script" value="BattleCreatureScript.lua"/>
+	<event type="combat" name="BattleTeam" event="script" value="BattleCreatureScript.lua"/>
+	<!-- Player Login -->
+	
+	<event type="login" name="PlayerLogin" event="script" value="login.lua"/>
+	<event type="statschange" name="invencible" event="script" value="kawarimi.lua"/>
+	<event type="statschange" name="kaiten" event="script" value="kaiten.lua"/>
+	<event type="statschange" name="sunadefense" event="script" value="suna defense.lua"/>
+	<!-- Jutsus 
+	<event type="statschange" name="invencible" event="script" value="invencible.lua"/>
+	<event type="statschange" name="reflectrob" event="script" value="reflectrob.lua"/>-->
+	
+	<!-- Ban System -->
+	
+	<event type="channelrequest" name="Ban_Type" event="script" value="ban/type.lua"/>
+	<event type="channelrequest" name="Ban_Action" event="script" value="ban/action.lua"/>
+	<event type="textedit" name="Ban_Finish" event="script" value="ban/finish.lua"/>
+	<event type="target" name="Target_Lost" event="script" value="target lost.lua"/>
+	<event type="login" name="savePlayer" event="script" value="savePlayer.lua" />
+	<event type="logout" name="savePlayer_L" event="script" value="savePlayer.lua" />
+	<event type="combat" name="SummonAntKillPlayer" event="script" value="SummonAntKillPlayer.lua"/>
+	<event type="combat" name="PlayerAntKillSummon" event="script" value="PlayerAntKillSummon.lua"/>
+	
+	<event type="attack" name="apt" event="script" value="apt.lua"/>
+    <event type="cast" name="bpt" event="script" value="bpt.lua"/>
+    <event type="areacombat" name="cpt" event="script" value="cpt.lua"/>
+    <event type="combat" name="dpt" event="script" value="dpt.lua"/>
+	<!-- Server Events -->
+	<event type="channeljoin" name="GuildEvents" event="script" value="guild.lua"/>
+	<event type="mailreceive" name="Mail" event="script" value="mail.lua"/>
+	<event type="reportbug" name="ReportBug" script="reportbug.lua"/>
+	<event type="advance" name="AdvanceSave" event="script" value="advancesave.lua"/>
+	<event type="think" name="SkullCheck" event="script" value="skullcheck.lua"/>
+	<event type="login" name="recordIp" event="script" value="recordIp.lua"/>
+	<event type="kill" name="SummonKill" event="script" value="obsidianknife.lua"/>
+	<event type="login" name="obs_login" event="script" value="obsidianknife.lua"/>
+	<event type="extendedopcode" name="ExtendedOpcode" event="script" value="extendedopcode.lua"/>
+	
+	<!-- Edit New -->
+	<event type="login" name="Inicio" event="script" value="inicio.lua"/>
+	<event type="statschange" name="reborn" script="reborn.lua"/> 
+	<!-- Boss -->
+	<event type="death" name="IndraKill" event="script" value="boss/indraotsutsuki.lua"/>
+	<event type="death" name="AshuraKill" event="script" value="boss/ashuraotsutsuki.lua"/>
+	<event type="death" name="MizukiKill" event="script" value="boss/mizuki.lua"/>
+	<event type="death" name="ZabuzaKill" event="script" value="boss/zabuza.lua"/>
+	<event type="death" name="JiroboKill" event="script" value="boss/jirobo.lua"/>
+	<event type="death" name="OrochimaruKill" event="script" value="boss/orochimaru.lua"/>
+	<event type="death" name="KimimaruKill" event="script" value="boss/kimimaru.lua"/>
+	<event type="death" name="KisameKill" event="script" value="boss/kisame.lua"/>
+	<event type="death" name="DeidaraKill" event="script" value="boss/deidara.lua"/>
+	<event type="death" name="HidanKill" event="script" value="boss/hidan.lua"/>
+	<event type="death" name="KakuzoKill" event="script" value="boss/kakuzo.lua"/>
+	<event type="death" name="KabutoKill" event="script" value="boss/kabuto.lua"/>
+	<event type="death" name="SasoriKill" event="script" value="boss/sasori.lua"/>
+	<event type="death" name="TobiKill" event="script" value="boss/tobi.lua"/>
+	<event type="death" name="NagatoKill" event="script" value="boss/nagato.lua"/>
+	<event type="death" name="KonanKill" event="script" value="boss/konan.lua"/>
+	<event type="death" name="DanzouKill" event="script" value="boss/danzou.lua"/>
+	<event type="death" name="ObitoKill" event="script" value="boss/obito.lua"/>
+	<event type="death" name="ItachiKill" event="script" value="boss/itachi.lua"/>
+	<event type="death" name="MadaraKill" event="script" value="boss/madara.lua"/>
+</creaturescripts>
