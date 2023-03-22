@@ -497,7 +497,7 @@
 	<!-- Personagens VIP -->
 	
 	<!-- Naruto Jutsu -->
-	<instant name="For Support" words="Kage Bunshin no Jutsu" lvl="90" mana="1000" prem="0" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="kagebunshin.lua">
+	<instant name="For Support" words="Kage Bunshin no Jutsu" lvl="250" mana="1000" prem="0" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="kagebunshin.lua">
 	<vocation id="1"/> <vocation id="100"/> <vocation id="200"/> <vocation id="300"/> <vocation id="400"/>	
 	<vocation id="14"/> <vocation id="1410"/> <vocation id="1420"/> <vocation id="1430"/> <vocation id="1440"/>
 	</instant>
@@ -513,7 +513,7 @@
 	<instant name="For Attack" words="Kyuubi Slap" lvl="100" mana="350" aggressive="1" exhaustion="250" needlearn="0" event="script" value="personagem/naruto/kyuubi_hands.lua">
 		<vocation id="1"/> <vocation id="1610"/> <vocation id="1620"/> <vocation id="1630"/> <vocation id="1640"/>
 	</instant>
-	<instant name="For Attack" words="Odama Rasengan" lvl="100" mana="80" prem="0" needtarget="1" range="1" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/naruto/4.lua">
+	<instant name="For Attack" words="Odama Rasengan" lvl="100" mana="100" prem="0" needtarget="1" range="1" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/naruto/4.lua">
 		<vocation id="1"/> <vocation id="100"/> <vocation id="200"/> <vocation id="300"/> <vocation id="400"/>	
 	</instant>
 	<instant name="For Attack" words="Kaifujutsu Shuriken" lvl="150" mana="60" prem="0" needtarget="1" range="6" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/naruto/3.lua">
@@ -525,13 +525,16 @@
 	<instant name="For Attack" words="Kurama Rasenshuriken" lvl="250" mana="275" prem="0" needtarget="1" range="6" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/naruto/6.lua">
 	<vocation id="1"/> <vocation id="100"/> <vocation id="200"/> <vocation id="300"/> <vocation id="400"/>	
 	</instant>
-	<instant name="For Attack" words="Front Rasengan" lvl="60" mana="300" prem="0" exhaustion="250"  direction="1"  event="script" value="personagem/naruto/7.lua">
+	<instant name="For Attack" words="Front Rasengan" lvl="300" mana="300" prem="0" exhaustion="250"  direction="1"  event="script" value="personagem/naruto/7.lua">
 	<vocation id="1"/> <vocation id="100"/> <vocation id="200"/> <vocation id="300"/> <vocation id="400"/>	
 	</instant>
-	<instant name="For Attack" words="Fenpo Yoton Rasenshuriken" lvl="200" mana="350" prem="0" needtarget="1" range="5" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/naruto/8.lua">
+	<instant name="Choodama Rasen Tarengan" words="Choodama Rasen Tarengan" lvl="300" mana="300" prem="0" range="3" exhaustion="250" blockwalls="1" needlearn="0" script="personagem/naruto/multirasengan.lua">
+		<vocation id="1"/>
+	</instant>
+	<instant name="For Attack" words="Fenpo Yoton Rasenshuriken" lvl="200" mana="350" prem="0" needtarget="1" range="7" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/naruto/8.lua">
 	<vocation id="1"/> <vocation id="100"/> <vocation id="200"/> <vocation id="300"/> <vocation id="400"/>
 	</instant>
-	<instant name="For Attack" words="Fuuton Rasenshuriken" lvl="70" mana="400" prem="0" needtarget="1" range="3" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/naruto/9.lua">
+	<instant name="For Attack" words="Fuuton Rasenshuriken" lvl="200" mana="400" prem="0" needtarget="1" range="7" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/naruto/9.lua">
 	<vocation id="1"/> <vocation id="100"/> <vocation id="200"/> <vocation id="300"/> <vocation id="400"/>
 	</instant>
 	<instant name="For Buff" words="Kyuubi Furie" aggressive="0" prem="0" selftarget="1" lvl="200" mana="500" exhaustion="1" event="script" value="personagem/naruto/kyuubi4.lua">
