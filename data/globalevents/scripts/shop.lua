@@ -61,10 +61,10 @@ function onThink(interval, lastExecution)
                         db.executeQuery("DELETE FROM `z_ots_comunication` WHERE `id` = " .. id .. ";")
                         db.executeQuery("UPDATE `z_shop_history_item` SET `trans_state`='realized', `trans_real`=" .. os.time() .. " WHERE id = " .. id .. ";")
                     else
-                        doPlayerSendTextMessage(cid, SHOP_MSG_TYPE, '>> '.. add_item_name ..' << Do Hard Shop esta esperando por voce.  Por favor, coloque este item na sua backpack/hand e espere por '.. SQL_interval ..' segundos para receber.')
+                        doPlayerSendTextMessage(cid, SHOP_MSG_TYPE, '>> '.. add_item_name ..' << Do Shop esta esperando por voce.  Por favor, coloque este item na sua backpack/hand e espere por '.. SQL_interval ..' segundos para receber.')
                     end
                 else
-                    doPlayerSendTextMessage(cid, SHOP_MSG_TYPE, '>> '.. add_item_name ..' << Do Hard Shop esta esperando por voce. O peso eh '.. full_weight ..' oz., voce somente tem '.. free_cap ..' oz. de cap livre. Guarde seus items no DP e aguarde '.. SQL_interval ..' segundos para receber.')
+                    doPlayerSendTextMessage(cid, SHOP_MSG_TYPE, '>> '.. add_item_name ..' << Do Shop esta esperando por voce. O peso é '.. full_weight ..' oz., voce somente tem '.. free_cap ..' oz. de cap livre. Guarde seus items no DP e aguarde '.. SQL_interval ..' segundos para receber.')
                 end
             end
             if not(result_plr:next()) then

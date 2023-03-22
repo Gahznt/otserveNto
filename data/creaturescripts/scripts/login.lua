@@ -107,8 +107,6 @@ function onLogin(cid)
 	registerCreatureEvent(cid, "reflectrob")
 	registerCreatureEvent(cid, "checkBless")
 	registerCreatureEvent(cid, "showKD")
-	doPlayerOpenChannel(cid, 9)
-	doPlayerOpenChannel(cid, 8)
 	doPlayerOpenChannel(cid, 10)
 	
 	if getCreatureName(cid) == "Account Manager" then
