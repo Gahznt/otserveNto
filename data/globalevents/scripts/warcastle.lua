@@ -38,7 +38,7 @@ function onThink(interval, lastExecution, thinkInterval)
 						doRemoveItem(item.uid)
 						doRemoveItem(wall1.uid)
 						doRemoveItem(wall2.uid)
-						doBroadcastMessage("[ Castelo Guild Dominante ] Fechado, parabens a Atual Guild Dominante !", 18)
+						doBroadcastMessage("[ Castelo Guild Dominante ] Fechado, parabéns a Atual Guild Dominante !", 18)
 						doCreateItem(paredeid, 1, paredepos)
 						doCreateItem(paredeid, 1, paredeposb)
 					end

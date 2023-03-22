@@ -283,7 +283,6 @@
 	
 	<action itemid="1775;2005-2009;2011-2015;2023;2031-2034;2562;2574-2577;3941-3942;5553;10150" event="script" value="liquids/containers.lua"/>
 	<action itemid="6558" event="script" value="liquids/demonic_blood.lua"/>
-	<action itemid="7588-7591;8472-8473;7618;7620;8704;7441;" event="script" value="liquids/potions.lua"/>
 	<action itemid="2145" event="script" value="soldier.lua"/>
 	<action itemid="7440" event="script" value="foods/adrenaline.lua"/>
 	<action itemid="7443" event="script" value="liquids/bullseye_potion.lua"/>

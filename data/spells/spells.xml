@@ -451,9 +451,6 @@
 	<instant name="For Attack" words="Kami Chakram" lvl="60" mana="300" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/konan/7.lua">
 	<vocation id="22"/> <vocation id="2210"/> <vocation id="2220"/> <vocation id="2230"/> <vocation id="2240"/>	
 	</instant>
-	<instant name="For Attack" words="Daichakram no Shikigami" lvl="65" mana="350" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/konan/8.lua">
-	<vocation id="22"/> <vocation id="2210"/> <vocation id="2220"/> <vocation id="2230"/> <vocation id="2240"/>	
-	</instant>
 	<instant name="For Attack" words="Kami no Shisha" lvl="70" mana="400" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/konan/9.lua">
 	<vocation id="22"/> <vocation id="2210"/> <vocation id="2220"/> <vocation id="2230"/> <vocation id="2240"/>	
 	</instant>
