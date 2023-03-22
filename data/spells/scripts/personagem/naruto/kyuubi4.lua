@@ -1,10 +1,9 @@
-local outfit = {lookType = 49} -- outfit
-local tempo = 15 -- tempo em segundos.
-local effect = {600} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
+local tempo = 30 -- tempo em segundos.
+local effect = {592} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
 
 local config = {
 storage = 119355,
-cooldown = 75,  --- tempo entre um uso e outro
+cooldown = 32,  --- tempo entre um uso e outro
 }
      
 local ml = 45 -- quantos ira aumentar o skill de ML
@@ -27,7 +26,6 @@ setConditionParam(condition, CONDITION_PARAM_SKILL_AXE, skillaxe)
 setConditionParam(condition, CONDITION_PARAM_SKILL_CLUB, skillclub)
 setConditionParam(condition, CONDITION_PARAM_SKILL_DISTANCE, skilldistance)
 setConditionParam(condition, CONDITION_PARAM_SKILL_SHIELD, skillshield)
-setConditionParam(condition, CONDITION_PARAM_OUTFIT, outfit)
 setCombatCondition(combat, condition)
      
 local condition = createConditionObject(CONDITION_HASTE)
@@ -43,11 +41,6 @@ setConditionParam(condition, CONDITION_PARAM_TICKS, tempo*1000)
 setConditionParam(condition, CONDITION_PARAM_HEALTHGAIN, health)
 setConditionParam(condition, CONDITION_PARAM_HEALTHTICKS, 1000)
 setCombatCondition(combat, condition)
-
-local sys = createConditionObject(CONDITION_OUTFIT)
-setConditionParam(sys, CONDITION_PARAM_TICKS, tempo)
-addOutfitCondition(sys, outfit)
-setCombatCondition(combat, sys)
             
 function magicEffect227(tempo2,tempo3,cid)
 if (isCreature(cid)) then
@@ -59,11 +52,6 @@ doSendMagicEffect(position, effect[i])
     end
 end
 end
-
-local sys = createConditionObject(CONDITION_OUTFIT)
-setConditionParam(sys, CONDITION_PARAM_TICKS, tempo*1000)
-addOutfitCondition(sys, outfit)
-setCombatCondition(combat, sys)
                   
 function onCastSpell(cid, var)
 
