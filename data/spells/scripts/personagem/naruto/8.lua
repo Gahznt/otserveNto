@@ -50,7 +50,7 @@ end
 
 
 function onCastSpell(cid, var)
-local waittime = 3 -- Tempo de exhaustion
+local waittime = 1.5 -- Tempo de exhaustion
 local storage = 8523
 
 if exhaustion.check(cid, storage) then
@@ -64,9 +64,13 @@ local pos = getCreaturePosition(target)
 addEvent(doSendMagicEffect, 100, {x = pos.x+1, y = pos.y+0, z = pos.z}, 117)
 addEvent(doSendMagicEffect, 300, {x = pos.x+1, y = pos.y+0, z = pos.z}, 117)
 addEvent(doSendMagicEffect, 600, {x = pos.x+1, y = pos.y+0, z = pos.z}, 117)
+addEvent(doSendMagicEffect, 600, {x = pos.x+1, y = pos.y+0, z = pos.z}, 117)
+addEvent(doSendMagicEffect, 600, {x = pos.x+1, y = pos.y+0, z = pos.z}, 117)
 addEvent(onCastSpell1, 100, parameters)
 addEvent(onCastSpell2, 300, parameters)
 addEvent(onCastSpell3, 600, parameters)
+addEvent(onCastSpell3, 900, parameters)
+addEvent(onCastSpell3, 1200, parameters)
 exhaustion.set(cid, storage, waittime)
 return TRUE
 end 

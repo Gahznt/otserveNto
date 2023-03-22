@@ -1,5 +1,5 @@
 
-local exhausted_seconds = 25
+local exhausted_seconds = 1
 local exhausted_storagevalue = 6720
 
 function onUse(cid, item, frompos, item2, topos)
