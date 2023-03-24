@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-200" max="-250"/>
-		<attack name="zwolverine" interval="2500" chance="1000" range="1" min="-100" max="-125">
+		<attack name="melee" interval="3000" min="-900" max="-1100"/>
+		<attack name="zwolverine" interval="2500" chance="1000" range="1" min="-2500" max="-3000">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>
