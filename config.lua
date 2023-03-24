@@ -55,7 +55,7 @@ skipItemsVersionCheck = true
 accountManager = false
 pushCreatureDelay = 1 * 1500
 ingameGuildManagement = false
-elfProtectionTarget = true
+elfProtectionTarget = false
 useFragHandler = true
 advancedFragList = false
 
