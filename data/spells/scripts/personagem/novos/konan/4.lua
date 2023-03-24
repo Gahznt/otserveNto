@@ -20,8 +20,8 @@ end
 function onCastSpell(cid, var)
 local parameters = { cid = cid, var = var}
 local target = getCreatureTarget(cid)  -- efeito no alvo
-local pos = getCreaturePosition(target)
 local poz = getCreaturePosition(cid) -- effeito no caster
+local pos = getCreaturePosition(target)
 addEvent(doSendDistanceShoot, 150, getCreaturePosition(cid), pos, 143)
 addEvent(doSendMagicEffect, 200, {x = pos.x+1, y = pos.y, z = pos.z}, 101)
 addEvent(onCastSpell1, 200, parameters)

@@ -44,7 +44,7 @@ end
 end
                   
 function onCastSpell(cid, var)
-local waittime = 165
+local waittime = 45
 local storage = 25895
 
 if exhaustion.check(cid, storage) then
