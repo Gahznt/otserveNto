@@ -82,52 +82,46 @@
 	</instant>
 	
 	<!-- Sakura Jutsus -->
-	<instant name="For Kuchyose" words="Katsuyo Daibunretsu" lvl="65" mana="1000" prem="0" blockwalls="1" exhaustion="100" needlearn="0" event="script" value="kuchyose/kuchyose katsuyo heal.lua">
+	<instant name="For Kuchyose" words="Katsuyo Daibunretsu" lvl="400" mana="1000" prem="0" blockwalls="1" exhaustion="100" needlearn="0" event="script" value="kuchyose/kuchyose katsuyo heal.lua">
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	<vocation id="15"/> <vocation id="1510"/> <vocation id="1520"/> <vocation id="1530"/> <vocation id="1540"/>
 	</instant>
-	<instant name="For Attack" words="Chakura no Mesu" lvl="10" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/sakura/1.lua">
+	<instant name="For Attack" words="Chakura no Mesu" lvl="150" mana="20" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/sakura/1.lua">
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
-	<instant name="For Attack" words="Fubuki no Jutsu" lvl="20" mana="40" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/sakura/2.lua">
+	<instant name="For Attack" words="Fubuki no Jutsu" lvl="50" mana="40" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/sakura/2.lua">
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	<vocation id="6"/> <vocation id="6100"/> <vocation id="6200"/> <vocation id="6300"/> <vocation id="6400"/>
 	</instant>
-	<instant name="For Attack" words="Kongoken" lvl="25" needtarget="1" range="1" mana="50" aggressive="1"  exhaustion="2000" needlearn="0" event="script" value="personagem/sakura/3.lua">
+	<instant name="For Attack" words="Kongoken" lvl="100" needtarget="1" range="1" mana="50" aggressive="1"  exhaustion="2000" needlearn="0" event="script" value="personagem/sakura/3.lua">
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
-	<instant name="For Attack" words="Haruchugeki" lvl="40" mana="80" aggressive="1"  range="1" blockwalls="1" needtarget="1" exhaustion="1000"  needlearn="0" event="script" value="personagem/sakura/4.lua">
+	<instant name="For Attack" words="Haruchugeki" lvl="150" mana="80" aggressive="1"  range="1" blockwalls="1" needtarget="1" exhaustion="1000"  needlearn="0" event="script" value="personagem/sakura/4.lua">
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
-	<instant name="For Attack" words="Shingurupanchi" lvl="50" mana="200" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/sakura/5.lua">
+	<instant name="For Attack" words="Shingurupanchi" lvl="200" mana="200" aggressive="1" range="1" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/sakura/5.lua">
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
-	<instant name="For Attack" words="Oukasho" lvl="60" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/sakura/6.lua">
+	<instant name="For Attack" words="Oukasho" lvl="100" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/sakura/6.lua">
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
-	<instant name="For Attack" words="Daichiwari" lvl="70" mana="350" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/sakura/7.lua">
-	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
-	</instant>
-	<instant name="For Healing" words="Chiyute no Jutsu" lvl="45" mana="500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="250" needlearn="0" event="script" value="personagem/sakura/healfriend.lua">
+	<instant name="For Healing" words="Chiyute no Jutsu" lvl="100" mana="500" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="250" needlearn="0" event="script" value="personagem/sakura/healfriend.lua">
 	<vocation id="15"/> <vocation id="1510"/> <vocation id="1520"/> <vocation id="1530"/> <vocation id="1540"/>
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
-	<instant name="For Healing" words="Saikan Chuushutsu no Jutsu" lvl="65" mana="750" prem="0" aggressive="0" exhaustion="250" needlearn="0" event="script" value="personagem/sakura/masshealing.lua">
+	<instant name="For Healing" words="Saikan Chuushutsu no Jutsu" lvl="175" mana="750" prem="0" aggressive="0" exhaustion="250" needlearn="0" event="script" value="personagem/sakura/masshealing.lua">
 	<vocation id="15"/> <vocation id="1510"/> <vocation id="1520"/> <vocation id="1530"/> <vocation id="1540"/>
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
-	<instant name="For Healing" words="Supreme Chiyute no Jutsu" lvl="110" mana="1000" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="250" needlearn="0" event="script" value="personagem/sakura/healfriend2.lua">
+	<instant name="For Healing" words="Supreme Chiyute no Jutsu" lvl="300" mana="1000" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="250" needlearn="0" event="script" value="personagem/sakura/healfriend2.lua">
 	<vocation id="15"/> <vocation id="1510"/> <vocation id="1520"/> <vocation id="1530"/> <vocation id="1540"/>
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
-	<instant name="For Healing" words="Supreme Chiyute" lvl="90" mana="1000" prem="0" aggressive="0" needtarget="1" params="1" exhaustion="250" needlearn="0" event="script" value="personagem/sakura/healfriend2.lua">
-	<vocation id="15"/> <vocation id="1510"/> <vocation id="1520"/> <vocation id="1530"/> <vocation id="1540"/>
-	</instant>
-	<instant name="For Support" words="Ground Barrier" lvl="55" mana="250" prem="0" exhaustion="100" direction="1" event="script" value="personagem/sakura/groundbarrier.lua">
+	<instant name="For Support" words="Ground Barrier" lvl="200" mana="250" prem="0" exhaustion="100" direction="1" event="script" value="personagem/sakura/groundbarrier.lua">
 	<vocation id="15"/> <vocation id="1510"/> <vocation id="1520"/> <vocation id="1530"/> <vocation id="1540"/>
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
-	<instant name="For Buff" words="Furie" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1000" exhaustion="1" event="script" value="personagem/sakura/furie.lua">
+	<instant name="For Buff" words="Furie" aggressive="0" prem="0" selftarget="1" lvl="200" mana="1000" exhaustion="1" event="script" value="personagem/sakura/furie.lua">
 	<vocation id="3"/> <vocation id="3100"/> <vocation id="3200"/> <vocation id="3300"/> <vocation id="3400"/>
 	</instant>
 	

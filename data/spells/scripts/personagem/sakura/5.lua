@@ -14,8 +14,8 @@ return false
 end
 local positionME = {x=getPlayerPosition(cid).x, y=getPlayerPosition(cid).y, z=getPlayerPosition(cid).z}
 doSendMagicEffect(positionME, 22) 
-local position1 = {x=getThingPosition(getCreatureTarget(cid)).x+1, y=getThingPosition(getCreatureTarget(cid)).y+1, z=getThingPosition(getCreatureTarget(cid)).z}
-doSendMagicEffect(position1, 275) 
+local position1 = {x=getThingPosition(getCreatureTarget(cid)).x+2, y=getThingPosition(getCreatureTarget(cid)).y, z=getThingPosition(getCreatureTarget(cid)).z}
+doSendMagicEffect(position1, 651) 
 exhaustion.set(cid, storage, waittime)
 return doCombat(cid, combat, var)
 end
