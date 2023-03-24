@@ -1,6 +1,6 @@
 function onCastSpell(cid, var)
 
-local waittime = 47 -- Tempo de exhaustion
+local waittime = 45 -- Tempo de exhaustion
 local storage = 8120
 
 if exhaustion.check(cid, storage) then

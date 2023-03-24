@@ -1,5 +1,5 @@
 local tempo = 30 -- tempo em segundos.
-local effect = {592} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
+local effect = {430} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
 
 local config = {
 storage = 119355,
