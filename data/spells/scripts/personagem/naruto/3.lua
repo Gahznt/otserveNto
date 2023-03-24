@@ -28,6 +28,15 @@ arr3 = {
 	{3}
 }
 
+function onCastSpell(cid, var)
+    local waittime = 1 -- Tempo de exhaustion
+    local storage = 5440
+    
+    if exhaustion.check(cid, storage) then
+        doPlayerSendChannelMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Aguarde ".. exhaustion.get(cid, storage) .. " segundos para usar o jutsu novamente.", TALKTYPE_CHANNEL_O, CHANNEL_SPELL)
+        return false
+    end
+    
 
 local area1 = createCombatArea(arr1)
 local area2 = createCombatArea(arr2)
