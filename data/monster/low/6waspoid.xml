@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Waspoid" nameDescription="a waspoid" race="blood" experience="325" speed="720" manacost="0">
+<monster name="Waspoid" nameDescription="a waspoid" race="blood" experience="3870" speed="720" manacost="0">
 	<health now="17500" max="17500"/>
 	<look type="1077" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>

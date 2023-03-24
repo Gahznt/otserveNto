@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Thief Shinobi" nameDescription="a thief shinobi" race="blood" experience="12" speed="220" manacost="0">
+<monster name="Thief Shinobi" nameDescription="a thief shinobi" race="blood" experience="1340" speed="220" manacost="0">
 	<health now="550" max="550"/>
 	<look type="1095" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
