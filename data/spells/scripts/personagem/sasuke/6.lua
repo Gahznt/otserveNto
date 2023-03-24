@@ -1,6 +1,6 @@
 function onGetFormulaValues(cid, level, maglevel)
-    min = -(level * 7.28 + maglevel * 7.48) * 7.4
-    max = -(level * 8.34 + maglevel * 8.34) * 8.4
+    min = -(level * 2 + maglevel * 2) * 2
+    max = -(level * 2.8 + maglevel * 2.8) * 2 
     return min, max
 end
 
