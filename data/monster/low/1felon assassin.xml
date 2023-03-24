@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Felon Assassin" nameDescription="a felon assassin" race="blood" experience="1200" speed="220" manacost="0">
-	<health now="650" max="650"/>
+	<health now="1800" max="650"/>
 	<look type="1098" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>

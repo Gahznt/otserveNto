@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Armed Assassin" nameDescription="a armed assassin" race="blood" experience="1200" speed="220" manacost="0">
-	<health now="700" max="700"/>
+	<health now="2200" max="700"/>
 	<look type="110" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
