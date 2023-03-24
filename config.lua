@@ -55,13 +55,13 @@ skipItemsVersionCheck = true
 accountManager = false
 pushCreatureDelay = 1 * 1500
 ingameGuildManagement = false
-elfProtectionTarget = false
+elfProtectionTarget = true
 useFragHandler = true
 advancedFragList = false
 
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
-ip = "127.0.0.1"
+ip = "54.39.38.242"
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
