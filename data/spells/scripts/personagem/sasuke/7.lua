@@ -1,3 +1,8 @@
+function onGetFormulaValues(cid, level, maglevel)
+    min = -(level * 3 + maglevel * 3) * 3
+    max = -(level * 4.4 + maglevel * 4.4) * 3 
+    return min, max
+end
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_DARKPURPLE)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
@@ -13,7 +18,7 @@ return doCombat(cid, combat1, var)
 end
  
 function onCastSpell(cid, var)
-local waittime = 2 -- Tempo de exhaustion
+local waittime = 2.5 -- Tempo de exhaustion
 local storage = 8222
 
 if exhaustion.check(cid, storage) then

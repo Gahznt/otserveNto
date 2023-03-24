@@ -65,7 +65,7 @@
 	<instant name="For Attack" words="Amaterasu" lvl="250" mana="10" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="personagem/sasuke/5.lua">
 	<vocation id="2"/> <vocation id="2100"/> <vocation id="2200"/> <vocation id="2300"/> <vocation id="2400"/>
 	</instant>
-	<instant name="For Attack" words="Katon Indora no Jutsu" lvl="200" mana="40" prem="0" needtarget="1" range="5" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="personagem/sasuke/6.lua">
+	<instant name="For Attack" words="Katon Indora no Jutsu" lvl="200" mana="40" prem="0" needtarget="1" range="5" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/sasuke/6.lua">
 		<vocation id="2"/> <vocation id="2100"/> <vocation id="2200"/> <vocation id="2300"/> <vocation id="2400"/>	
 	</instant>
 	<instant name="For Attack" words="Susano Arch" lvl="300" mana="300" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="250" needlearn="0" event="script" value="personagem/sasuke/7.lua">
@@ -510,7 +510,7 @@
 	<instant name="For Attack" words="Odama Rasengan" lvl="100" mana="100" prem="0" needtarget="1" range="1" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/naruto/4.lua">
 		<vocation id="1"/> <vocation id="100"/> <vocation id="200"/> <vocation id="300"/> <vocation id="400"/>	
 	</instant>
-	<instant name="For Attack" words="Kaifujutsu Shuriken" lvl="150" mana="60" prem="0" needtarget="1" range="6" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/naruto/3.lua">
+	<instant name="For Attack" words="Kaifujutsu Shuriken" lvl="150" mana="60" prem="0" needtarget="1" range="6" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/naruto/3.lua">
 		<vocation id="1"/> <vocation id="100"/> <vocation id="200"/> <vocation id="300"/> <vocation id="400"/>	
 	</instant>
 	<instant name="For Attack" words="Yoko Rasengan" lvl="150" mana="150" prem="0" needtarget="1" range="1" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/naruto/5.lua">
