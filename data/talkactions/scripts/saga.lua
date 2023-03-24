@@ -13,7 +13,7 @@ local transform = {
 [2300] = {[1] = 2, [2] = 5, [3] = 6, [4] = 7, [5] = 93, [6] = 94, [7] = 165, [8] = 168,  effect = 443},
 [2400] = {[1] = 2, [2] = 5, [3] = 6, [4] = 7, [5] = 93, [6] = 94, [7] = 165, [8] = 168, effect = 443},
 -- Sakura
-[3] = {[1] = 175, [2] = 173, [3] = 172, [4] = 169, [5] = 170, [6] = 194, [7] = 978, [8] = 979, effect = 5},
+[3] = {[1] = 169, [2] = 170, [3] = 301, [4] = 296, [5] = 294, [6] = 194, [7] = 978, [8] = 979, effect = 5},
 [3100] = {[1] = 175, [2] = 173, [3] = 172, [4] = 169, [5] = 170, [6] = 194, [7] = 978, [8] = 979, effect = 5},
 [3200] = {[1] = 175, [2] = 173, [3] = 172, [4] = 169, [5] = 170, [6] = 194, [7] = 978, [8] = 979,   effect = 5},
 [3300] = {[1] = 175, [2] = 173, [3] = 172, [4] = 169, [5] = 170, [6] = 194, [7] = 978, [8] = 979,  effect = 5},
@@ -142,20 +142,20 @@ local transform = {
 }
 
 
-local level = 10 -- Limite para liberar uma transform nova
+local level = 50 -- Limite para liberar uma transform nova
 
 
 function onSay(cid, words, param, channel)
 
 
  if(param == '') then
-  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Saga] Informe o número da saga Ex : !saga 2")
+  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Saga] Informe o nï¿½mero da saga Ex : !saga 2")
   return true
  end
 
 
 if not transform[getPlayerVocation(cid)] then
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Você não pode trocar de saga agora.")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Vocï¿½ nï¿½o pode trocar de saga agora.")
 return true
 end
 
@@ -164,19 +164,19 @@ local t = string.explode(param, ",")
 
 
  if(t[2]) then
-  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Comando não identificado.")
+  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "Comando nï¿½o identificado.")
   return true
  end
 
 
  if not (tonumber(t[1])) then
-  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Saga] Informe o número da saga Ex : !saga 2")
+  doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Saga] Informe o nï¿½mero da saga Ex : !saga 2")
   return true
  end
 
 
 if tonumber(t[1]) > #transform[getPlayerVocation(cid)] or tonumber(t[1]) < 1  then
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Erro] Essa saga não existe.")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Erro] Essa saga nï¿½o existe.")
 return true
 end
 
@@ -184,10 +184,10 @@ end
 if getPlayerLevel(cid) >= (tonumber(t[1])*level) then
 doSetCreatureOutfit(cid, {lookType = transform[getPlayerVocation(cid)][tonumber(t[1])]}, -1)
 doSendMagicEffect(getThingPos(cid), transform[getPlayerVocation(cid)].effect)
-doPlayerSendTextMessage(cid, 25, "Parabéns, Você alterou sua saga !")
+doPlayerSendTextMessage(cid, 25, "Parabens, Voce alterou sua saga !")
 doPlayerSay(cid, "Aaahhh !", TALKTYPE_ORANGE_1)
 else
-doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Aviso] Desculpe mas você precisa estar no level "..(tonumber(t[1]) * level).." para usar essa saga.")
+doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_BLUE, "[Aviso] Desculpe mas vocï¿½ precisa estar no level "..(tonumber(t[1]) * level).." para usar essa saga.")
 end
 
 

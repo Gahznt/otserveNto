@@ -4,6 +4,11 @@ setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat, COMBAT_PARAM_EFFECT, 0)
 setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -4.0, -800, -4.0, -1000)
 
+local condition = createConditionObject(CONDITION_PARALYZE)
+setConditionParam(condition, CONDITION_PARAM_TICKS, 2000)
+setConditionFormula(condition, -0.9, 0, -0.9, 0)
+setCombatCondition(combat, condition)
+
 function onCastSpell(cid, var)
 local positionME = {x=getPlayerPosition(cid).x, y=getPlayerPosition(cid).y, z=getPlayerPosition(cid).z}
 doSendMagicEffect(positionME, 22) 
