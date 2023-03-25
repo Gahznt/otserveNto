@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-250" max="-300"/>
-		<attack name="furierasengan" interval="2000" chance="1000" range="1" min="-200" max="-250">
+		<attack name="melee" interval="3000" min="-700" max="-1000"/>
+		<attack name="furierasengan" interval="2000" chance="1000" range="1" min="-1500" max="-1800">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>
