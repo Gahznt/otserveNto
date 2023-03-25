@@ -1,5 +1,5 @@
 local tempo = 45 -- tempo em segundos.
-local effect = {336} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
+local effect = {690} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
      
 local ml = 30 -- quantos ira aumentar o skill de ML
 local skillfist = 0 -- quantos ira aumentar o skill de Fist
