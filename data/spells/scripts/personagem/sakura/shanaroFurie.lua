@@ -15,15 +15,26 @@ setCombatArea(combat1, area1)
 
 local function onCastSpell1(cid, var)
     local pos = getCreaturePosition(cid)
+
+    local target = getCreatureTarget(cid);
+    if not target or not isCreature(target) then
+        return false
+    end
+
+    local position1 = getThingPosition(target)
+    if not position1 then
+        return false
+    end
+
     local position1 = {
-        x = getThingPosition(getCreatureTarget(cid)).x,
-        y = getThingPosition(getCreatureTarget(cid)).y,
-        z = getThingPosition(getCreatureTarget(cid)).z
+        x = getThingPosition(target).x,
+        y = getThingPosition(target).y,
+        z = getThingPosition(target).z
     }
 	local position2 = {
-        x = getThingPosition(getCreatureTarget(cid)).x + 1,
-        y = getThingPosition(getCreatureTarget(cid)).y + 1,
-        z = getThingPosition(getCreatureTarget(cid)).z
+        x = getThingPosition(target).x + 1,
+        y = getThingPosition(target).y + 1,
+        z = getThingPosition(target).z
     }
     doSendMagicEffect(position2, 509)
     doSendMagicEffect(position1, 691)
@@ -31,6 +42,14 @@ local function onCastSpell1(cid, var)
 end
 
 function onCastSpell(cid, var)
+    local waittime = 2
+    local storage = 8242
+
+    if exhaustion.check(cid, storage) then
+        doPlayerSendChannelMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Aguarde " .. exhaustion.get(cid, storage) ..
+            " segundos para usar o jutsu novamente.", TALKTYPE_CHANNEL_O, CHANNEL_SPELL)
+        return false
+    end
     local parameters = {
         cid = cid,
         var = var
@@ -40,5 +59,6 @@ function onCastSpell(cid, var)
     addEvent(onCastSpell1, 500, cid, var)
     addEvent(onCastSpell1, 700, cid, var)
     addEvent(onCastSpell1, 900, cid, var)
+    exhaustion.set(cid, storage, waittime)
     return TRUE
 end

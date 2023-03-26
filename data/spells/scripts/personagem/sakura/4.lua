@@ -6,7 +6,7 @@ setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -4.0, -800, -4.0, -1000)
 
 local condition = createConditionObject(CONDITION_PARALYZE)
 setConditionParam(condition, CONDITION_PARAM_TICKS, 2000)
-setConditionFormula(condition, -0.9, 0, -0.9, 0)
+setConditionFormula(condition, -0.9, -1, -0.9, -1)
 setCombatCondition(combat, condition)
 
 function onCastSpell(cid, var)

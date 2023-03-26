@@ -1,3 +1,9 @@
+function onGetFormulaValues(cid, level, maglevel)
+    min = -(level * 3 + maglevel * 3.3) * 2.1
+    max = -(level * 4 + maglevel * 4.3) * 3 
+    return min, max
+end
+
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_LIGHTGREEN)
@@ -63,13 +69,14 @@ local function onCastSpell4(parameters)
 end
  
 function onCastSpell(cid, var)
-local waittime = 1
+local waittime = 3
 local storage = 8109
 
 if exhaustion.check(cid, storage) then
 doPlayerSendChannelMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Aguarde ".. exhaustion.get(cid, storage) .. " segundos para usar o jutsu novamente.", TALKTYPE_CHANNEL_O, CHANNEL_SPELL)
 return false
 end
+
 local position127 = {x=getPlayerPosition(cid).x, y=getPlayerPosition(cid).y, z=getPlayerPosition(cid).z}
 local parameters = { cid = cid, var = var}
 local target = getCreatureTarget(cid)

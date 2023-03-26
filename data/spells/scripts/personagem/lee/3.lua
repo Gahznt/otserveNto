@@ -1,3 +1,9 @@
+function onGetFormulaValues(cid, level, maglevel)
+    min = -(level * 3 + maglevel * 3) * 3
+    max = -(level * 3.5 + maglevel * 4) * 4 
+    return min, max
+end
+
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_LIGHTGREEN)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
