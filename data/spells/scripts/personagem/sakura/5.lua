@@ -1,8 +1,14 @@
+function onGetFormulaValues(cid, level, maglevel)
+    min = -(level * 3.3 + maglevel * 3) * 2
+    max = -(level * 4 + maglevel * 4.9) * 2 
+    return min, max
+end
+
 local combat = createCombatObject()
 setCombatParam(combat, COMBAT_PARAM_HITCOLOR, COLOR_LIGHTBLUE)
 setCombatParam(combat, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat, COMBAT_PARAM_EFFECT, 0)
-setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, -5.0, -1200, -5.0, -1400)
+setCombatFormula(combat, COMBAT_FORMULA_LEVELMAGIC, "onGetFormulaValues")
 
 function onCastSpell(cid, var)
 local waittime = 2 -- Tempo de exhaustion
