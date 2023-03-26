@@ -1,7 +1,7 @@
 -- dash as it was in avaOT by Night Wolf 
 
 local damage = 200 -- dano que toma qnd bate em algum obstáculo
-local speed = 910 -- velocidade do player ao usar o dash (vai de 0 a mil)
+local speed = 1000 -- velocidade do player ao usar o dash (vai de 0 a mil)
 local pzprotect = true -- nao deixa entrar em pz com a spell
 local distance = 10 -- quantos sqms anda
 

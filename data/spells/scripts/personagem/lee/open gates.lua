@@ -1,10 +1,10 @@
 local outfit = {lookType = 1536} -- outfit
-local tempo = 45 -- tempo em segundos.
+local tempo = 60 -- tempo em segundos.
 local effect = {588} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
 
 local config = {
 storage = 112335,
-cooldown = 165,  --- tempo entre um uso e outro
+cooldown = 60,  --- tempo entre um uso e outro
 }
      
 local ml = 30 -- quantos ira aumentar o skill de ML
