@@ -3,17 +3,19 @@ function onGetFormulaValues(cid, level, maglevel)
     max = -(level * 4.4 + maglevel * 4.4) * 3 
     return min, max
 end
+
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_DARKPURPLE)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -4.5, -800, -2.0, -900)
+setCombatParam(combat1, COMBAT_PARAM_DISTANCEEFFECT, 134)
+setCombatCallback(combat1, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 local function onCastSpell1(cid, var)
 local pos = getCreaturePosition(cid)
-local position1 = {x=getThingPosition(getCreatureTarget(cid)).x-1, y=getThingPosition(getCreatureTarget(cid)).y-1, z=getThingPosition(getCreatureTarget(cid)).z}
-doSendMagicEffect(position1, 46)
-local position2 = {x=getThingPosition(getCreatureTarget(cid)).x+2, y=getThingPosition(getCreatureTarget(cid)).y+2, z=getThingPosition(getCreatureTarget(cid)).z}
-doSendMagicEffect(position2, 418)
+local position1 = {x=getPlayerPosition(cid).x+1, y=getPlayerPosition(cid).y, z=getPlayerPosition(cid).z}
+doSendMagicEffect(position1, 692)
+local position2 = {x=getThingPosition(getCreatureTarget(cid)).x+1, y=getThingPosition(getCreatureTarget(cid)).y+1, z=getThingPosition(getCreatureTarget(cid)).z}
+doSendMagicEffect(position2, 75)
 return doCombat(cid, combat1, var)
 end
  
@@ -30,7 +32,7 @@ for k = 1, 2 do
         if isCreature(cid) then
             addEvent(onCastSpell1, 100, cid, var)
         end
-    end, 1 + ((k-1) * 600))
+    end, 1 + ((k-1) * 400))
 end
 exhaustion.set(cid, storage, waittime)
 return true
