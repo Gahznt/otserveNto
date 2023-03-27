@@ -1,6 +1,6 @@
 local config = {
-health = 225,
-mana = 135
+health = 500,
+mana = 600
 }
 
 
