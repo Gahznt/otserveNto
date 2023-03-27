@@ -29,7 +29,7 @@ function onWalk(cid)
 		if isWalkable(poslook, false, false, pzprotect) then
 			if not isCreature(getThingfromPos(poslook).uid) then
 				doMoveCreature(cid, getPlayerLookDirection(cid))
-				local position = {x=getPlayerPosition(cid).x+1, y=getPlayerPosition(cid).y, z=getPlayerPosition(cid).z}
+				local position = {x=getPlayerPosition(cid).x+1, y=getPlayerPosition(cid).y+1, z=getPlayerPosition(cid).z}
 				doSendMagicEffect(position, 186)
 			else
 				doCreatureAddHealth(cid, -damage)
