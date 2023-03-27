@@ -9,11 +9,11 @@ setCombatFormula(combat2, COMBAT_FORMULA_LEVELMAGIC, -0.0, 1, -0.0, 1)
 
 
 arr1 = {
-	{0, 0, 0, 0, 0, 0, 0},
-	{1, 1, 1, 1, 1, 1, 1},
-	{1, 1, 1, 3, 1, 1, 1},
-	{1, 1, 1, 1, 1, 1, 1},
-	{0, 0, 0, 0, 0, 0, 0}
+	{0, 0, 1, 1, 1, 0, 0},
+	{0, 1, 1, 1, 1, 1, 0},
+	{0, 1, 1, 3, 1, 1, 0},
+	{0, 1, 1, 1, 1, 1, 0},
+	{0, 0, 1, 1, 1, 0, 0}
 }
 
 arr2 = {
@@ -46,11 +46,12 @@ doPlayerSendChannelMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Aguarde ".. exha
 return false
 end
 
-local position1 = {x=getCreaturePosition(cid).x+4, y=getCreaturePosition(cid).y, z=getCreaturePosition(cid).z}
+local position1 = {x=getCreaturePosition(cid).x+1, y=getCreaturePosition(cid).y+1, z=getCreaturePosition(cid).z}
+
 local parameters = { cid = cid, var = var}
 addEvent(onCastSpell1, 100, parameters)
 addEvent(onCastSpell2, 200, parameters)
-doSendMagicEffect(position1, 51)
+doSendMagicEffect(position1, 693)
 exhaustion.set(cid, storage, waittime)
 return TRUE
 end 

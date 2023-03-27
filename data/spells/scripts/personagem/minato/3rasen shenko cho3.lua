@@ -54,9 +54,11 @@ local target = getCreatureTarget(cid)
 local poz = getCreaturePosition(cid)
 addEvent(doSendMagicEffect, 100, {x = poz.x+1, y = poz.y+1, z = poz.z}, 82)
 addEvent(doSendMagicEffect, 300, {x = poz.x+1, y = poz.y+1, z = poz.z}, 82)
-addEvent(doSendMagicEffect, 600, {x = poz.x+1, y = poz.y+1, z = poz.z}, 82)
+addEvent(doSendMagicEffect, 500, {x = poz.x+1, y = poz.y+1, z = poz.z}, 82)
+addEvent(doSendMagicEffect, 700, {x = poz.x+1, y = poz.y+1, z = poz.z}, 82)
 addEvent(onCastSpell1, 100, parameters)
 addEvent(onCastSpell2, 300, parameters)
-addEvent(onCastSpell3, 600, parameters)
+addEvent(onCastSpell3, 500, parameters)
+addEvent(onCastSpell3, 700, parameters)
 return TRUE
 end 

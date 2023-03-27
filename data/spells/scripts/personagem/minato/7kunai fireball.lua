@@ -1,7 +1,13 @@
+function onGetFormulaValues(cid, level, maglevel)
+    min = -(level * 3.8 + maglevel * 4) * 3.6
+    max = -(level * 4 + maglevel * 4.3) * 5 
+    return min, max
+end
+
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_ORANGE)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -9.0, -1600, -9.0, -1800)
+setCombatCallback(combat1, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues") 
 
 
 arr1 = {

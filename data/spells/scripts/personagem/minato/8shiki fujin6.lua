@@ -1,7 +1,18 @@
+function onGetFormulaValues(cid, level, maglevel)
+    min = -(level * 4 + maglevel * 6.3) * 3.8
+    max = -(level * 5.5 + maglevel * 7) * 4 
+    return min, max
+end
+
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_DARKPURPLE)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -12.0, -1600, -12.0, -1800)
+setCombatCallback(combat1, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues") 
+
+local condition = createConditionObject(CONDITION_PARALYZE)
+setConditionParam(condition, CONDITION_PARAM_TICKS, 5000)
+setConditionFormula(condition, -0.9, -1, -0.9, -1)
+setCombatCondition(combat1, condition)
 
 local function onCastSpell1(cid, var)
 local pos = getCreaturePosition(cid)

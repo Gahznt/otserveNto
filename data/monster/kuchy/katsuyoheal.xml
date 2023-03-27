@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<monster name="Katsuyo Daibunretsu" nameDescription="katsuyo" race="blood" experience="0" speed="100" manacost="0">
+<monster name="Katsuyo Daibunretsu" nameDescription="katsuyo" race="blood" experience="0" speed="200" manacost="0">
 	<health now="10000" max="10000"/>
 	<look type="697" head="0" body="94" legs="79" feet="79" corpse="0"/>
 	<targetchange interval="5000" chance="8"/>
