@@ -41,6 +41,7 @@
 	<action itemid="11191" script="scrollvip.lua"/>
 	<action itemid="11192" script="scrollvip.lua"/>
 	<action itemid="2259" script="other/criticalrock.lua"/>
+	<action itemid="107" event="script" value="tools/hiraishin.lua" allowfaruse="1"/>
 
 	<!-- Boss -->
 	<action actionid="6361" script="drop/oldmadara.lua"/>

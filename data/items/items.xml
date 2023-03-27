@@ -11397,7 +11397,7 @@
         <attribute key="showattributes" value="1" />
         <attribute key="slotType" value="body" />
 	</item>
-	<item id="107" article="a" name="flash kunai [ MINATO ]">
+	<item id="107" article="a" name="Flash Kunai">
 		<attribute key="weight" value="950" />
 		<attribute key="defense" value="2" />
 		<attribute key="attack" value="20" />
