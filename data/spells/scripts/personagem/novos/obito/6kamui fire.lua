@@ -9,15 +9,34 @@ setCombatFormula(combat2, COMBAT_FORMULA_LEVELMAGIC, -6.0, -1400, -6.0, -1600)
 
 local function onCastSpell1(cid, var)
 local pos = getCreaturePosition(cid)
-local position1 = {x=getThingPosition(getCreatureTarget(cid)).x+2, y=getThingPosition(getCreatureTarget(cid)).y+2, z=getThingPosition(getCreatureTarget(cid)).z}
+
+local target = getCreatureTarget(cid)
+if not target or not isCreature(target) then
+    return false
+end
+
+local position11 = getThingPosition(target)
+if not position11 then
+    return false
+end
+local position1 = {x=position11.x+2, y=position11.y+2, z=position11.z}
 doSendMagicEffect(position1, 9)
 return doCombat(cid, combat1, var)
 end
  
 local function onCastSpell2(cid, var)
 local pos = getCreaturePosition(cid)
-local position2 = {x=getThingPosition(getCreatureTarget(cid)).x, y=getThingPosition(getCreatureTarget(cid)).y, z=getThingPosition(getCreatureTarget(cid)).z}
-doSendMagicEffect(position2, 358)
+
+local target2 = getCreatureTarget(cid)
+if not target2 or not isCreature(target2) then
+    return false
+end
+local position22 = getThingPosition(target2)
+if not position22 then
+    return false
+end
+local position2 = {x=position22.x, y=position22.y, z=position22.z}
+doSendMagicEffect(position2, 10)
 return doCombat(cid, combat2, var)
 end
  

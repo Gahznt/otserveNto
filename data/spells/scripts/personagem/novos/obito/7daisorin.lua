@@ -1,8 +1,14 @@
+function onGetFormulaValues(cid, level, maglevel)
+    min = -(level * 1.1 + maglevel * 1.3) * 1.4
+    max = -(level * 1.8 + maglevel * 2) * 1.6 
+    return min, max
+end
+
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_GREY)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat1, COMBAT_PARAM_EFFECT, 0)
-setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -1.5, -265, -1.5, -300)
+setCombatCallback(combat1, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 
 arr1 = {
@@ -19,7 +25,7 @@ local function onCastSpell1(parameters)
 end
 
 function onCastSpell(cid, var)
-local waittime = 2 -- Tempo de exhaustion
+local waittime = 1.4 -- Tempo de exhaustion
 local storage = 8242
 
 if exhaustion.check(cid, storage) then
@@ -30,23 +36,24 @@ local parameters = { cid = cid, var = var}
 local target = getCreatureTarget(cid)  -- efeito no alvo
 local pos = getCreaturePosition(target)
 local poz = getCreaturePosition(cid) -- effeito no caster
-addEvent(doSendMagicEffect, 100, {x = pos.x+3, y = pos.y-3, z = pos.z}, 650)
-addEvent(doSendDistanceShoot, 100, {x = pos.x+3, y = pos.y-3, z = pos.z}, pos, 127)
-addEvent(onCastSpell1, 100, parameters)
-addEvent(doSendMagicEffect, 300, {x = pos.x+3, y = pos.y-3, z = pos.z}, 650)
-addEvent(doSendDistanceShoot, 300, {x = pos.x+3, y = pos.y-3, z = pos.z}, pos, 127)
-addEvent(onCastSpell1, 300, parameters)
-addEvent(doSendMagicEffect, 500, {x = pos.x+3, y = pos.y-3, z = pos.z}, 650)
-addEvent(doSendDistanceShoot, 500, {x = pos.x+3, y = pos.y-3, z = pos.z}, pos, 127)
-addEvent(onCastSpell1, 500, parameters)
-addEvent(doSendMagicEffect, 700, {x = pos.x+3, y = pos.y-3, z = pos.z}, 650)
-addEvent(doSendDistanceShoot, 700, {x = pos.x+3, y = pos.y-3, z = pos.z}, pos, 127)
-addEvent(onCastSpell1, 700, parameters)
-addEvent(doSendMagicEffect, 900, {x = pos.x+3, y = pos.y-3, z = pos.z}, 650)
-addEvent(doSendDistanceShoot, 900, {x = pos.x+3, y = pos.y-3, z = pos.z}, pos, 127)
-addEvent(onCastSpell1, 900, parameters)
-addEvent(doSendDistanceShoot, 1100, {x = pos.x+3, y = pos.y-3, z = pos.z}, pos, 127)
-addEvent(onCastSpell1, 1100, parameters)  
+
+for i = 1, 3 do
+    addEvent(doSendMagicEffect, i * 200, {x = pos.x+3, y = pos.y-3, z = pos.z}, 650)
+    addEvent(doSendDistanceShoot, i * 200, {x = pos.x+3, y = pos.y-3, z = pos.z}, pos, 127)
+    addEvent(onCastSpell1, i * 200, parameters)
+    addEvent(doSendMagicEffect, i * 200, {x = pos.x+3, y = pos.y+3, z = pos.z}, 650)
+    addEvent(doSendDistanceShoot, i * 200, {x = pos.x+3, y = pos.y+3, z = pos.z}, pos, 127)
+    addEvent(onCastSpell1, i * 200, parameters)
+    addEvent(doSendMagicEffect, i * 200, {x = pos.x-3, y = pos.y+3, z = pos.z}, 650)
+    addEvent(doSendDistanceShoot, i * 200, {x = pos.x-3, y = pos.y+3, z = pos.z}, pos, 127)
+    addEvent(onCastSpell1, i * 200, parameters)
+    addEvent(doSendMagicEffect, i * 200, {x = pos.x-3, y = pos.y-3, z = pos.z}, 650)
+    addEvent(doSendDistanceShoot, i * 200, {x = pos.x-3, y = pos.y-3, z = pos.z}, pos, 127)
+    addEvent(onCastSpell1, i * 200, parameters)
+    addEvent(doSendMagicEffect, i * 200, {x = pos.x+3, y = pos.y-3, z = pos.z}, 650)
+    addEvent(doSendDistanceShoot, i * 200, {x = pos.x+3, y = pos.y-3, z = pos.z}, pos, 127)
+    addEvent(onCastSpell1, i * 200, parameters)
+end
 exhaustion.set(cid, storage, waittime)
 return TRUE
 end 

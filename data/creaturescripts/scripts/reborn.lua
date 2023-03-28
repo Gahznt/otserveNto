@@ -1,5 +1,5 @@
 local config = {
-pos = {x=189, y=156, z=9}, -- posição da aegis dimension
+pos = {x=963, y=925, z=5}, -- posição da aegis dimension
 tempo = 15, -- tempo pra voltar
 effect1 = 338, -- efeito ao morrer
 effect2 = 338, -- efeito ao retornar a vida

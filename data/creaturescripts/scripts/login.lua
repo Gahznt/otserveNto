@@ -122,6 +122,5 @@ function onLogin(cid)
         setPlayerStorageValue(cid, 49708, 0) 
 	end
 	-- doPlayerPopupFYI(cid, "[ APROVEITE ] Double POINTS + Double EXP + Double SKILL !")
-	
 	return true
 end
