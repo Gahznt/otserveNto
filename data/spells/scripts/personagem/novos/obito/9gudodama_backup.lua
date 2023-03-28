@@ -1,6 +1,6 @@
 function onGetFormulaValues(cid, level, maglevel)
-    min = -(level * 1.8 + maglevel * 4) * 1.8
-    max = -(level * 2 + maglevel * 6) * 2.1 
+    min = -(level * 2 + maglevel * 4) * 2.3
+    max = -(level * 2.5 + maglevel * 6) * 2.4 
     return min, max
 end
 
@@ -37,27 +37,27 @@ local target = getCreatureTarget(cid)  -- efeito no alvo
 local pos = getCreaturePosition(target)
 local poz = getCreaturePosition(cid) -- effeito no caster
 addEvent(doSendMagicEffect, 100, {x = poz.x, y = poz.y, z = poz.z}, 586)
-addEvent(doSendMagicEffect, 100, {x = pos.x+1, y = pos.y+1, z = pos.z}, 695)
+addEvent(doSendMagicEffect, 100, {x = pos.x+1, y = pos.y+1, z = pos.z}, 649)
 addEvent(doSendDistanceShoot, 100, {x = poz.x-2, y = poz.y-1, z = poz.z}, pos, 51)
 addEvent(onCastSpell1, 100, parameters)
 addEvent(doSendMagicEffect, 300, {x = poz.x, y = poz.y, z = poz.z}, 586)
-addEvent(doSendMagicEffect, 300, {x = pos.x+1, y = pos.y+1, z = pos.z}, 695)
+addEvent(doSendMagicEffect, 300, {x = pos.x+1, y = pos.y+1, z = pos.z}, 649)
 addEvent(doSendDistanceShoot, 300, {x = poz.x, y = poz.y-2, z = poz.z}, pos, 51)
 addEvent(onCastSpell1, 300, parameters)
 addEvent(doSendMagicEffect, 500, {x = poz.x, y = poz.y, z = poz.z}, 586)
-addEvent(doSendMagicEffect, 500, {x = pos.x+1, y = pos.y+1, z = pos.z}, 695)
+addEvent(doSendMagicEffect, 500, {x = pos.x+1, y = pos.y+1, z = pos.z}, 649)
 addEvent(doSendDistanceShoot, 500, {x = poz.x+2, y = poz.y-1, z = poz.z}, pos, 51)
 addEvent(onCastSpell1, 500, parameters)
 addEvent(doSendMagicEffect, 700, {x = poz.x, y = poz.y, z = poz.z}, 586)
-addEvent(doSendMagicEffect, 700, {x = pos.x+1, y = pos.y+1, z = pos.z}, 695)
+addEvent(doSendMagicEffect, 700, {x = pos.x+1, y = pos.y+1, z = pos.z}, 649)
 addEvent(doSendDistanceShoot, 700, {x = poz.x-2, y = poz.y+1, z = poz.z}, pos, 51)
 addEvent(onCastSpell1, 700, parameters)
 addEvent(doSendMagicEffect, 900, {x = poz.x, y = poz.y, z = poz.z}, 586)
-addEvent(doSendMagicEffect, 900, {x = pos.x+1, y = pos.y+1, z = pos.z}, 695)
+addEvent(doSendMagicEffect, 900, {x = pos.x+1, y = pos.y+1, z = pos.z}, 649)
 addEvent(doSendDistanceShoot, 900, {x = poz.x, y = poz.y+2, z = poz.z}, pos, 51)
 addEvent(onCastSpell1, 900, parameters)
 addEvent(doSendMagicEffect, 1100, {x = poz.x, y = poz.y, z = poz.z}, 586)
-addEvent(doSendMagicEffect, 1100, {x = pos.x+1, y = pos.y+1, z = pos.z}, 695)
+addEvent(doSendMagicEffect, 1100, {x = pos.x+1, y = pos.y+1, z = pos.z}, 649)
 addEvent(doSendDistanceShoot, 1100, {x = poz.x+2, y = poz.y+1, z = poz.z}, pos, 51)
 addEvent(onCastSpell1, 1100, parameters)  
 exhaustion.set(cid, storage, waittime)
