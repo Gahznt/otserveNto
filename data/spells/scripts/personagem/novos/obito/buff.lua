@@ -1,5 +1,5 @@
-local tempo = 45 -- tempo em segundos.
-local effect = {608} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
+local tempo = 60 -- tempo em segundos.
+local effect = {404} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
      
 local ml = 30 -- quantos ira aumentar o skill de ML
 local skillfist = 0 -- quantos ira aumentar o skill de Fist
@@ -44,7 +44,7 @@ end
 end
                   
 function onCastSpell(cid, var)
-local waittime = 165
+local waittime = 61
 local storage = 25396
 
 if exhaustion.check(cid, storage) then

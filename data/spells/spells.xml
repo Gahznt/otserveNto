@@ -544,7 +544,7 @@
 	<instant name="For Attack" words="Mokuton Kebutsu" lvl="20" mana="40" prem="0" needtarget="1" range="5" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/hashirama/2.lua">
 	<vocation id="11"/> <vocation id="1110"/> <vocation id="1120"/> <vocation id="1130"/> <vocation id="1140"/>	
 	</instant>
-	<instant name="For Attack" words="Horenju no Jutsu" lvl="30" mana="60" prem="0" needtarget="1" range="5" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/hashirama/3.lua">
+	<instant name="For Attack" words="Horenju no Jutsu" lvl="100" mana="60" prem="0" needtarget="1" range="5" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/hashirama/3.lua">
 	<vocation id="11"/> <vocation id="1110"/> <vocation id="1120"/> <vocation id="1130"/> <vocation id="1140"/>	
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
@@ -750,18 +750,18 @@
 	<vocation id="16"/> <vocation id="1610"/> <vocation id="1620"/> <vocation id="1630"/> <vocation id="1640"/>
 	</instant>
 	<!-- Madara Jutsu -->
-	<instant name="For Attack" words="Katon Hosenka" lvl="10" mana="40" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/madara/1.lua">
+	<instant name="For Attack" words="Katon Hosenka" lvl="50" mana="40" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/madara/1.lua">
 	<vocation id="17"/> <vocation id="1710"/> <vocation id="1720"/> <vocation id="1730"/> <vocation id="1740"/>
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
-	<instant name="For Attack" words="Mokuton Hako Kebutsu" lvl="20" mana="40" prem="0" needtarget="1" range="5" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/madara/2.lua">
+	<instant name="For Attack" words="Mokuton Hako Kebutsu" lvl="75" mana="40" prem="0" needtarget="1" range="5" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/madara/2.lua">
 	<vocation id="17"/> <vocation id="1710"/> <vocation id="1720"/> <vocation id="1730"/> <vocation id="1740"/>
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
 	<instant name="For Attack" words="Fuuton Gunbai" lvl="30" mana="60" prem="0" needtarget="1" range="5" exhaustion="2000" blockwalls="1" needlearn="0" script="personagem/madara/3fuuton gunbai.lua">
 	<vocation id="17"/> <vocation id="1710"/> <vocation id="1720"/> <vocation id="1730"/> <vocation id="1740"/>
 	</instant>
-	<instant name="For Attack" words="Ryuen Goka" lvl="40" mana="80" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/madara/5risco fire.lua">
+	<instant name="For Attack" words="Ryuen Goka" lvl="150" mana="80" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="2000" needlearn="0" event="script" value="personagem/madara/5risco fire.lua">
 	<vocation id="17"/> <vocation id="1710"/> <vocation id="1720"/> <vocation id="1730"/> <vocation id="1740"/>
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
@@ -791,25 +791,28 @@
 	 <vocation id="17"/> <vocation id="1710"/> <vocation id="1720"/> <vocation id="1730"/> <vocation id="1740"/>
 	</instant>
 	<!-- Obito Jutsu -->
-	<instant name="For Attack" words="Muzan Kamui" lvl="50" mana="150" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/novos/obito/5kamui.lua">
+	<instant name="For Support" words="Kamui me" lvl="300" mana="200" prem="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="personagem/novos/obito/kamui_in.lua">
+		<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>	
+	</instant>
+	<instant name="For Attack" words="Chakra Explosion" lvl="100" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/4chakraExplosion.lua">
+		<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
+	</instant>
+	<instant name="For Attack" words="Muzan Kamui" lvl="200" mana="150" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/novos/obito/5kamui.lua">
 	 <vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
-	<instant name="For Attack" words="Katon Bakufu Ranbu" lvl="55" mana="225" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/6kamui fire.lua">
+	<instant name="For Attack" words="Kamui Ranbu" lvl="250" mana="225" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/6kamui fire.lua">
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
-	<instant name="For Attack" words="Daisorin no Jutsu" lvl="60" mana="300" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/7daisorin.lua">
+	<instant name="For Attack" words="Daisorin no Jutsu" lvl="250" mana="300" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/7daisorin.lua">
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
-	<instant name="For Attack" words="Katon Muzan no Jutsu" lvl="65" mana="350" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/8fire.lua">
+	<instant name="For Attack" words="Katon Muzan no Jutsu" lvl="275" mana="350" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/8fire.lua">
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
-	<instant name="For Attack" words="Gudodama no Muzan" lvl="70" mana="400" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/9gudodama.lua">
+	<instant name="For Attack" words="Gudodama no Muzan" lvl="300" mana="400" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/9gudodama.lua">
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
-	<instant name="For Support" words="Kamui Me" lvl="90" mana="2000" prem="0" exhaustion="1250" needlearn="0" event="script" value="especiais/teleporte1.lua">
-	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
-	</instant>	
-	<instant name="For Buff" words="Uchiha Kaenjin" aggressive="0" prem="0" selftarget="1" lvl="65" mana="1500" exhaustion="1" event="script" value="personagem/novos/obito/buff.lua">
+	<instant name="For Buff" words="Kaenjin" aggressive="0" prem="0" selftarget="1" lvl="200" mana="1500" exhaustion="1" event="script" value="personagem/novos/obito/buff.lua">
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
 	<!-- Hidan Jutsu -->

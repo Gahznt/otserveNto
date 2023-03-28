@@ -1,8 +1,14 @@
+function onGetFormulaValues(cid, level, maglevel)
+    min = -(level * 2.4 + maglevel * 6) * 3
+    max = -(level * 3.4 + maglevel * 8) * 3.2 
+    return min, max
+end
+
 local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_ORANGE)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
 setCombatParam(combat1, COMBAT_PARAM_EFFECT, 0)
-setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -12.0, -1600, -12.0, -1800)
+setCombatCallback(combat1, CALLBACK_PARAM_LEVELMAGICVALUE, "onGetFormulaValues")
 
 
 arr1 = {
@@ -19,7 +25,7 @@ local function onCastSpell1(parameters)
 end
 
 function onCastSpell(cid, var)
-local waittime = 3 -- Tempo de exhaustion
+local waittime = 1.7 -- Tempo de exhaustion
 local storage = 8243
 
 if exhaustion.check(cid, storage) then
