@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Tiger" nameDescription="a chackra wolf" race="blood" experience="125" speed="420" manacost="0">
-	<health now="2900" max="2900"/>
+<monster name="Tiger" nameDescription="a chackra wolf" race="blood" experience="1200" speed="420" manacost="0">
+	<health now="1900" max="1900"/>
 	<look type="1073" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>

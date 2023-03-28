@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Sand Spider" nameDescription="a sand spider" race="blood" experience="18" speed="320" manacost="0">
+<monster name="Sand Spider" nameDescription="a sand spider" race="blood" experience="833" speed="320" manacost="0">
 	<health now="650" max="650"/>
 	<look type="243" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
