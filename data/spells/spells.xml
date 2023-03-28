@@ -795,7 +795,7 @@
 	<instant name="For Support" words="Kamui me" lvl="300" mana="200" prem="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="personagem/novos/obito/kamui_in.lua">
 		<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>	
 	</instant>
-	<instant name="For Attack" words="Chakra Explosion" lvl="100" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/4chakraExplosion.lua">
+	<instant name="For Attack" words="Katon Sohenka no Jutsu" lvl="100" mana="300" aggressive="1"  exhaustion="250" needlearn="0" event="script" value="personagem/novos/obito/4chakraExplosion.lua">
 		<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
 	<instant name="For Attack" words="Muzan Kamui" lvl="200" mana="150" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="2000" needlearn="0" event="script" value="personagem/novos/obito/5kamui.lua">
