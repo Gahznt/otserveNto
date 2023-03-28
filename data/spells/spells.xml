@@ -23,7 +23,8 @@
 	</instant>
 	<instant name="Rinnegan Attract" words="Rinnegan Attract" lvl="75" mana="1000" prem="1" exhaustion="1" range="6" needtarget="1" needlearn="1" event="script" value="energy grab.lua">
     </instant>
-	<instant name="Izanagi" words="Izanagi" aggressive="0" prem="1" selftarget="1" lvl="75" mana="1000"  exhaustion="1" needlearn="1" event="script" value="izanagi.lua">
+	<instant name="Izanagi" words="Izanagi" aggressive="0" prem="1" selftarget="1" lvl="400" mana="1000"  exhaustion="1" event="script" value="izanagi.lua">
+		<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
 	<instant name="Reflect Gunbai" words="Reflect Gunbai" lvl="75" mana="1000" prem="0" aggressive="0" exhaustion="1" needlearn="1" event="script" value="especiais/reflectrob.lua">
 	</instant>
