@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Elite Cursed" nameDescription="a cursed kkei" race="blood" experience="60" speed="420" manacost="0">
-	<health now="3600" max="3600"/>
+<monster name="Elite Cursed" nameDescription="a cursed kkei" race="blood" experience="3870" speed="420" manacost="0">
+	<health now="5000" max="5000"/>
 	<look type="1045" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-200" max="-250"/>
-		<attack name="blackchidori" interval="2000" chance="1000" range="1" min="-150" max="-195">
+		<attack name="melee" interval="3000" min="-1800" max="-2000"/>
+		<attack name="blackchidori" interval="2000" chance="1000" range="1" min="-2000" max="-2600">
 		</attack> 
 	</attacks>
 	<defenses armor="0" defense="0"/>

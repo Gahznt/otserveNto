@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+h<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Poison Spider" nameDescription="a poison spider" race="blood" experience="1550" speed="220" manacost="0">
-	<health now="600" max="600"/>
+	<health now="1000" max="1000"/>
 	<look type="390" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-50" max="-75"/>
-		<attack name="veveneno" interval="2000" chance="1000" range="1" min="-20" max="-30">
+		<attack name="melee" interval="3000" min="-150" max="-175"/>
+		<attack name="veveneno" interval="2000" chance="1000" range="1" min="-175" max="-250">
 		</attack> 
 	</attacks>
 	<defenses armor="0" defense="0"/>
