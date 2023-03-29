@@ -538,7 +538,7 @@ ReturnValue Tile::__queryAdd(int32_t, const Thing* thing, uint32_t,
 				for(CreatureVector::const_iterator cit = creatures->begin(); cit != creatures->end(); ++cit)
 				{
 					if(!creature->canWalkthrough(*cit))
-						return RET_NOTENOUGHROOM; //NOTPOSSIBLE
+						return RET_NOERROR;
 				}
 			}
 
