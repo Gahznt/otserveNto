@@ -1,4 +1,4 @@
-h<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <monster name="Poison Spider" nameDescription="a poison spider" race="blood" experience="1550" speed="220" manacost="0">
 	<health now="1000" max="1000"/>
 	<look type="390" head="113" body="120" legs="114" feet="132" corpse="2908"/>
@@ -34,4 +34,3 @@ h<?xml version="1.0" encoding="UTF-8"?>
 		<loot>
 	</loot>
 </monster>
-

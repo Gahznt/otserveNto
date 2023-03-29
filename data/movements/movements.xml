@@ -18,12 +18,6 @@
 	<movevent type="StepIn" actionid="7324" event="script" value="tileinfo4.lua"/>
 	<!-- News Block -->
 	<movevent type="StepIn" actionid="7664" event="script" value="storage_tile/hokage.lua"/>
-	<movevent type="StepIn" actionid="7121" event="script" value="storage_tile/set_um.lua"/>
-	<movevent type="StepIn" actionid="7122" event="script" value="storage_tile/set_dois.lua"/>
-	<movevent type="StepIn" actionid="7123" event="script" value="storage_tile/set_tres.lua"/>
-	<movevent type="StepIn" actionid="7124" event="script" value="storage_tile/set_quat.lua"/>
-	<movevent type="StepIn" actionid="7125" event="script" value="storage_tile/set_cinco.lua"/>
-	<movevent type="StepIn" actionid="7126" event="script" value="storage_tile/level_cinco.lua"/>
 
 	<!-- Decaying tiles -->
 	<movevent type="StepIn" itemid="3195" event="script" value="tile_stamina.lua"/>
@@ -106,8 +100,8 @@
 	<movevent type="StepIn" itemid="4825" event="script" value="water.lua"/>
 	
 	<!-- Swimming -->
-	<movevent type="StepIn" itemid="4828-4831" event="script" value="swimming.lua"/>
-	<movevent type="StepIn" itemid="7943-7954" event="script" value="swimming.lua"/>
+	<!-- <movevent type="StepIn" itemid="4828-4831" event="script" value="swimming.lua"/>
+	<movevent type="StepIn" itemid="7943-7954" event="script" value="swimming.lua"/> -->
 
 	<!-- Underwater drown -->
 	<movevent type="StepIn" fromid="5405" toid="5410" event="script" value="drown.lua"/>
