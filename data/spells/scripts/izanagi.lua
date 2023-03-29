@@ -4,7 +4,7 @@ setCombatParam(combat, COMBAT_PARAM_AGGRESSIVE, true)
  
 function onCastSpell(cid, var)
 local target = getCreatureTarget(cid)
-local waittime1 = 225 -- Tempo de exhaustion
+local waittime1 = 120 -- Tempo de exhaustion
 local storage1 = 115839
  
 if exhaustion.check(cid, storage1) then

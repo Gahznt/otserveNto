@@ -58,8 +58,8 @@ doPlayerSendChannelMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Aguarde ".. exha
 return false
 end
 local parameters = { cid = cid, var = var}
-addEvent(onCastSpell1, 400, parameters)
-addEvent(onCastSpell2, 800, parameters)
+onCastSpell1(parameters)
+addEvent(onCastSpell2, 400, parameters)
 exhaustion.set(cid, storage, waittime)
 return TRUE
 end 
