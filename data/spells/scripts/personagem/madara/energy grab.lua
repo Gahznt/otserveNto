@@ -6,7 +6,7 @@ speed = 400 -- velocidade que ele vai ficar enquanto estiver sob efeito do taunt
 
 function onCastSpell(cid, var)
 local itemid = 11322
-local waittime = 180 -- Tempo de exhaustion
+local waittime = 50 -- Tempo de exhaustion
 local storage = 6377
 local poz = getCreaturePosition(cid) -- effeito no caster
 

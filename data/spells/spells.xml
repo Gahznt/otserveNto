@@ -784,7 +784,7 @@
 	<instant name="Reflect Gunbai" words="Gunbai Reflect" lvl="45" mana="1000" prem="0" aggressive="0" exhaustion="1" needlearn="0" event="script" value="personagem/madara/reflectrob.lua">
 	<vocation id="17"/> <vocation id="1710"/> <vocation id="1720"/> <vocation id="1730"/> <vocation id="1740"/>
 	</instant>
-	<instant name="Rinnegan Attract" words="Attract Rinnegan" lvl="65" mana="1000" prem="1" exhaustion="1" range="6" needtarget="1" needlearn="0" event="script" value="personagem/madara/energy grab.lua">
+	<instant name="Rinnegan Attract" words="Attract Rinnegan" lvl="400" mana="1000" prem="1" exhaustion="1" range="6" needtarget="1" needlearn="0" event="script" value="personagem/madara/energy grab.lua">
     <vocation id="17"/> <vocation id="1710"/> <vocation id="1720"/> <vocation id="1730"/> <vocation id="1740"/>
 	<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
