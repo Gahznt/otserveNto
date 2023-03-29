@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Grey Spider" nameDescription="a gret spider" race="blood" experience="1550" speed="300" manacost="0">
-	<health now="350" max="350"/>
+<monster name="Grey Spider" nameDescription="a gret spider" race="blood" experience="1200" speed="300" manacost="0">
+	<health now="700" max="700"/>
 	<look type="388" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,7 +19,7 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="500" min="-65" max="-75"/>
+		<attack name="melee" interval="500" min="-150" max="-175"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<elements>

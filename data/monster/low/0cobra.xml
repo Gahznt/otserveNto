@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Cobra" nameDescription="a cobra" race="blood" experience="15" speed="320" manacost="0">
-	<health now="350" max="350"/>
+<monster name="Cobra" nameDescription="a cobra" race="blood" experience="1200" speed="320" manacost="0">
+	<health now="1200" max="1200"/>
 	<look type="81" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,7 +19,7 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-150" max="-175"/>	
+		<attack name="melee" interval="3000" min="-300" max="-500"/>	
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<elements>

@@ -19,7 +19,7 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="4000" min="-150" max="-175"/>
+	<attack name="melee" interval="4000" min="-400" max="-600"/>
 		<attack name="blackchidori" interval="2000" chance="1000" range="1" min="-70" max="-80">
 		</attack> 
 	</attacks>
