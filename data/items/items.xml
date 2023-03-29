@@ -13418,7 +13418,10 @@
 	<item id="7940" name="cave entrance">
 		<attribute key="floorchange" value="down" />
 	</item>
-	<item fromid="7943" toid="7954" name="shallow water">
+	<item fromid="7944" toid="7946" name="shallow water">
+		<attribute key="fluidSource" value="water" />
+	</item>
+	<item fromid="7948" toid="7954" name="shallow water">
 		<attribute key="fluidSource" value="water" />
 	</item>
 	<item id="7955" article="a" name="parcel" />
@@ -13583,6 +13586,8 @@
 		<attribute key="floorchange" value="down" />
 	</item>
 	<item id="8257" name="grass" />
+	<item id="7943" name="grass" />
+	<item id="7947" name="grass" />
 	<item id="8258" name="rocks" />
 	<item id="8260" name="rock" />
 	<item fromid="8262" toid="8265" article="a" name="piece of broken amulet">

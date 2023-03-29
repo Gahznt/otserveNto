@@ -160,16 +160,24 @@
 	<spawn centerx="942" centery="992" centerz="6" radius="2">
 		<monster name="Thief Shinobi" x="-1" y="-1" z="6" spawntime="45" />
 		<monster name="Thief" x="1" y="-1" z="6" spawntime="45" />
+		<monster name="Armed Thief" x="2" y="1" z="6" spawntime="60" />
+		<monster name="Armed Thief" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="949" centery="992" centerz="6" radius="2">
+		<monster name="Armed Thief" x="1" y="-2" z="6" spawntime="60" />
 		<monster name="Thief Shinobi" x="-1" y="-1" z="6" spawntime="45" />
 		<monster name="Thief" x="-1" y="1" z="6" spawntime="45" />
+		<monster name="Armed Thief" x="1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="956" centery="1005" centerz="6" radius="2">
 		<monster name="Grub" x="0" y="-2" z="6" spawntime="45" />
 		<monster name="Grub" x="1" y="-2" z="6" spawntime="45" />
 	</spawn>
 	<spawn centerx="963" centery="1007" centerz="6" radius="2" />
+	<spawn centerx="941" centery="1009" centerz="6" radius="1">
+		<monster name="Grey Spider" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Grey Spider" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="949" centery="1009" centerz="6" radius="2">
 		<monster name="Grub" x="-2" y="-1" z="6" spawntime="45" />
 		<monster name="Grub" x="-1" y="1" z="6" spawntime="45" />
@@ -203,6 +211,10 @@
 		<monster name="Grub" x="1" y="-1" z="6" spawntime="45" />
 		<monster name="Grub" x="0" y="1" z="6" spawntime="45" />
 	</spawn>
+	<spawn centerx="941" centery="1023" centerz="6" radius="1">
+		<monster name="Grey Spider" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Grey Spider" x="-1" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="967" centery="1023" centerz="6" radius="2">
 		<monster name="Felon Assassin" x="-2" y="0" z="6" spawntime="45" />
 	</spawn>
@@ -228,6 +240,47 @@
 	</spawn>
 	<spawn centerx="1485" centery="1048" centerz="6" radius="1">
 		<npc name="Etsuko" x="0" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="991" centery="1070" centerz="6" radius="3">
+		<monster name="Fire Master" x="2" y="-2" z="6" spawntime="45" />
+		<monster name="Fire Shinobi" x="1" y="0" z="6" spawntime="45" />
+		<monster name="Fire Master" x="0" y="1" z="6" spawntime="45" />
+		<monster name="Fire Shinobi" x="0" y="2" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="1003" centery="1071" centerz="6" radius="3">
+		<monster name="Fire Master" x="1" y="-1" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="1017" centery="1071" centerz="6" radius="3">
+		<monster name="Fire Master" x="0" y="-1" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="1031" centery="1071" centerz="6" radius="3">
+		<monster name="Fire Master" x="-2" y="-2" z="6" spawntime="45" />
+		<monster name="Fire Shinobi" x="-2" y="0" z="6" spawntime="45" />
+		<monster name="Fire Master" x="1" y="2" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="992" centery="1083" centerz="6" radius="3">
+		<monster name="Fire Shinobi" x="-1" y="-2" z="6" spawntime="45" />
+		<monster name="Fire Master" x="0" y="-1" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="1030" centery="1085" centerz="6" radius="3">
+		<monster name="Fire Master" x="1" y="-1" z="6" spawntime="45" />
+		<monster name="Fire Shinobi" x="1" y="2" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="1017" centery="1098" centerz="6" radius="3">
+		<monster name="Fire Master" x="-1" y="1" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="993" centery="1099" centerz="6" radius="3">
+		<monster name="Fire Master" x="-3" y="-2" z="6" spawntime="45" />
+		<monster name="Fire Shinobi" x="0" y="-2" z="6" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="1" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="1006" centery="1099" centerz="6" radius="3">
+		<monster name="Fire Master" x="-1" y="-1" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="1029" centery="1099" centerz="6" radius="3">
+		<monster name="Fire Shinobi" x="1" y="-2" z="6" spawntime="45" />
+		<monster name="Fire Master" x="2" y="-2" z="6" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="2" z="6" spawntime="45" />
 	</spawn>
 	<spawn centerx="1042" centery="1155" centerz="6" radius="5">
 		<monster name="Yoth" x="-2" y="-4" z="6" spawntime="60" />
@@ -515,6 +568,12 @@
 		<monster name="Sound Shinobi" x="-6" y="-1" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="6" y="9" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="942" centery="985" centerz="7" radius="2">
+		<monster name="Thief" x="-1" y="-2" z="7" spawntime="45" />
+		<monster name="Thief" x="1" y="-2" z="7" spawntime="45" />
+		<monster name="Thief" x="1" y="0" z="7" spawntime="45" />
+		<monster name="Thief" x="-2" y="1" z="7" spawntime="45" />
+	</spawn>
 	<spawn centerx="171" centery="987" centerz="7" radius="9">
 		<monster name="Sand Sc2" x="5" y="-3" z="7" spawntime="60" />
 		<monster name="Sand Sc2" x="-6" y="-2" z="7" spawntime="60" />
@@ -526,6 +585,15 @@
 		<monster name="Sound Shinobi" x="11" y="1" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="-10" y="12" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="1" y="12" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="951" centery="990" centerz="7" radius="2">
+		<monster name="Elite Thief" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Grey Spider" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="942" centery="992" centerz="7" radius="2">
+		<monster name="Elite Thief" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Elite Thief" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Elite Thief" x="-2" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="896" centery="995" centerz="7" radius="3">
 		<monster name="Bee Swarm" x="1" y="-2" z="7" spawntime="45" />
@@ -579,7 +647,7 @@
 	</spawn>
 	<spawn centerx="990" centery="1014" centerz="7" radius="3">
 		<monster name="Bee Swarm" x="-1" y="-2" z="7" spawntime="45" />
-		<monster name="Bee Swarm" x="-1" y="1" z="7" spawntime="45" />
+		<monster name="Bee Swarm" x="-2" y="-1" z="7" spawntime="45" />
 		<monster name="Bee Swarm" x="2" y="2" z="7" spawntime="45" />
 	</spawn>
 	<spawn centerx="936" centery="1021" centerz="7" radius="3">
@@ -704,6 +772,9 @@
 		<monster name="Assassin" x="-2" y="-1" z="7" spawntime="45" />
 		<monster name="Assassin" x="1" y="2" z="7" spawntime="45" />
 	</spawn>
+	<spawn centerx="1010" centery="1051" centerz="7" radius="3">
+		<monster name="Snake" x="0" y="2" z="7" spawntime="45" />
+	</spawn>
 	<spawn centerx="1313" centery="1052" centerz="7" radius="1">
 		<monster name="Giant Furie" x="0" y="-1" z="7" spawntime="40" />
 	</spawn>
@@ -712,9 +783,6 @@
 	</spawn>
 	<spawn centerx="965" centery="1054" centerz="7" radius="2">
 		<monster name="Assassin" x="-1" y="-1" z="7" spawntime="45" />
-	</spawn>
-	<spawn centerx="976" centery="1054" centerz="7" radius="2">
-		<monster name="Assassin" x="-1" y="0" z="7" spawntime="45" />
 	</spawn>
 	<spawn centerx="1287" centery="1054" centerz="7" radius="1">
 		<monster name="Giant Furie" x="0" y="0" z="7" spawntime="60" />
@@ -766,6 +834,17 @@
 		<monster name="Sand Sc2" x="7" y="4" z="7" spawntime="60" />
 		<monster name="Sand Sc2" x="1" y="7" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1005" centery="1063" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="2" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-1" y="0" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-2" y="1" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1017" centery="1063" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="1" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="2" y="1" z="7" spawntime="60" />
+		<monster name="Fire Shinobi" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1343" centery="1065" centerz="7" radius="1">
 		<monster name="Giant Furie" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
@@ -775,14 +854,31 @@
 	<spawn centerx="1428" centery="1067" centerz="7" radius="1">
 		<monster name="Snake Najin" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="986" centery="1068" centerz="7" radius="3">
-		<monster name="Dark Wolf" x="0" y="-2" z="7" spawntime="45" />
-	</spawn>
 	<spawn centerx="1319" centery="1069" centerz="7" radius="1">
 		<monster name="Giant Furie" x="1" y="-1" z="7" spawntime="30" />
 	</spawn>
+	<spawn centerx="1031" centery="1070" centerz="7" radius="3">
+		<monster name="Fire Master" x="1" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-1" y="-1" z="7" spawntime="45" />
+		<monster name="Fire Master" x="3" y="1" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-3" y="2" z="7" spawntime="45" />
+		<monster name="Fire Master" x="1" y="3" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="992" centery="1071" centerz="7" radius="3">
+		<monster name="Fire Master" x="-1" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Master" x="-2" y="0" z="7" spawntime="45" />
+		<monster name="Fire Master" x="0" y="2" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="1001" centery="1073" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="1" y="1" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1238" centery="1073" centerz="7" radius="1">
 		<monster name="Giant Furie" x="0" y="1" z="7" spawntime="20" />
+	</spawn>
+	<spawn centerx="1020" centery="1074" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="1" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-2" y="1" z="7" spawntime="45" />
 	</spawn>
 	<spawn centerx="1291" centery="1075" centerz="7" radius="1">
 		<monster name="Giant Furie" x="1" y="1" z="7" spawntime="60" />
@@ -795,12 +891,52 @@
 		<monster name="Sand cros" x="-3" y="4" z="7" spawntime="60" />
 		<monster name="Sand cros" x="10" y="5" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1031" centery="1080" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="1" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-2" y="1" z="7" spawntime="45" />
+	</spawn>
 	<spawn centerx="958" centery="1081" centerz="7" radius="3">
 		<monster name="Snake" x="3" y="-2" z="7" spawntime="45" />
 		<monster name="Snake" x="-1" y="0" z="7" spawntime="45" />
 	</spawn>
+	<spawn centerx="995" centery="1085" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="-1" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-3" y="1" z="7" spawntime="1024" />
+		<monster name="Fire Shinobi" x="-2" y="1" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1024" centery="1086" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="2" y="0" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-1" y="1" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="1031" centery="1090" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Fire Shinobi" x="-2" y="0" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="222" centery="1099" centerz="7" radius="2">
 		<npc name="Minoru" x="-1" y="-2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="993" centery="1099" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Fire Master" x="-3" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Master" x="-3" y="2" z="7" spawntime="45" />
+		<monster name="Fire Master" x="1" y="2" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="1005" centery="1099" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="1" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="1" y="-1" z="7" spawntime="1024" />
+		<monster name="Fire Shinobi" x="-2" y="1" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="1030" centery="1099" centerz="7" radius="3">
+		<monster name="Fire Master" x="1" y="-2" z="7" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="2" z="7" spawntime="45" />
+		<monster name="Fire Master" x="2" y="2" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="1021" centery="1100" centerz="7" radius="3">
+		<monster name="Fire Shinobi" x="-3" y="-1" z="7" spawntime="45" />
+		<monster name="Fire Shinobi" x="-2" y="3" z="7" spawntime="60" />
+		<monster name="Fire Shinobi" x="0" y="3" z="7" spawntime="45" />
 	</spawn>
 	<spawn centerx="245" centery="1103" centerz="7" radius="14">
 		<monster name="Sand cros" x="6" y="-9" z="7" spawntime="60" />
@@ -1224,8 +1360,88 @@
 		<monster name="Karasu" x="9" y="-1" z="8" spawntime="60" />
 		<monster name="Karasu" x="-5" y="5" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="1013" centery="1070" centerz="8" radius="3">
+		<monster name="Fire Master" x="-1" y="-2" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-2" y="0" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="0" z="8" spawntime="1024" />
+		<monster name="Fire Shinobi" x="0" y="0" z="8" spawntime="45" />
+		<monster name="Fire Master" x="1" y="0" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="1" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="0" y="1" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="1" y="1" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="2" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1033" centery="1071" centerz="8" radius="3">
+		<monster name="Fire Master" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Fire Master" x="2" y="-1" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-2" y="0" z="8" spawntime="45" />
+		<monster name="Fire Master" x="1" y="0" z="8" spawntime="1024" />
+		<monster name="Fire Shinobi" x="-1" y="2" z="8" spawntime="45" />
+	</spawn>
+	<spawn centerx="993" centery="1072" centerz="8" radius="3">
+		<monster name="Fire Master" x="3" y="-2" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-2" y="-1" z="8" spawntime="45" />
+		<monster name="Fire Shinobi" x="2" y="0" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="2" z="8" spawntime="60" />
+		<monster name="Fire Master" x="0" y="2" z="8" spawntime="1024" />
+	</spawn>
+	<spawn centerx="993" centery="1085" centerz="8" radius="3">
+		<monster name="Fire Master" x="-2" y="-1" z="8" spawntime="45" />
+		<monster name="Fire Master" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Fire Master" x="1" y="-1" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="1" y="0" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="2" y="0" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="3" y="0" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-2" y="1" z="8" spawntime="45" />
+		<monster name="Fire Shinobi" x="0" y="3" z="8" spawntime="45" />
+	</spawn>
+	<spawn centerx="1001" centery="1085" centerz="8" radius="3">
+		<monster name="Fire Shinobi" x="1" y="0" z="8" spawntime="45" />
+	</spawn>
+	<spawn centerx="1012" centery="1085" centerz="8" radius="3">
+		<monster name="Fire Master" x="0" y="-2" z="8" spawntime="45" />
+		<monster name="Fire Shinobi" x="-1" y="-1" z="8" spawntime="45" />
+		<monster name="Fire Master" x="2" y="0" z="8" spawntime="60" />
+		<monster name="Fire Master" x="1" y="1" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="3" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1034" centery="1085" centerz="8" radius="3">
+		<monster name="Fire Master" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Fire Master" x="2" y="-2" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="-3" y="0" z="8" spawntime="60" />
+		<monster name="Fire Shinobi" x="-2" y="0" z="8" spawntime="45" />
+		<monster name="Fire Master" x="3" y="0" z="8" spawntime="60" />
+		<monster name="Fire Master" x="1" y="1" z="8" spawntime="45" />
+		<monster name="Fire Master" x="0" y="2" z="8" spawntime="45" />
+	</spawn>
+	<spawn centerx="1033" centery="1098" centerz="8" radius="3">
+		<monster name="Fire Master" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Fire Master" x="2" y="-2" z="8" spawntime="60" />
+		<monster name="Fire Master" x="2" y="0" z="8" spawntime="60" />
+		<monster name="Fire Master" x="0" y="1" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-2" y="2" z="8" spawntime="45" />
+		<monster name="Fire Master" x="1" y="2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="796" centery="1100" centerz="8" radius="1">
 		<monster name="Zetsu" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1014" centery="1100" centerz="8" radius="3">
+		<monster name="Fire Shinobi" x="-2" y="-2" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Fire Master" x="2" y="0" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="1" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-2" y="2" z="8" spawntime="60" />
+		<monster name="Fire Master" x="0" y="2" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="993" centery="1101" centerz="8" radius="3">
+		<monster name="Fire Master" x="-1" y="-2" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Fire Shinobi" x="1" y="-1" z="8" spawntime="45" />
+		<monster name="Fire Master" x="-1" y="0" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="0" y="0" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="1" y="0" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="2" y="0" z="8" spawntime="1024" />
+		<monster name="Fire Master" x="-2" y="1" z="8" spawntime="45" />
 	</spawn>
 	<spawn centerx="795" centery="1113" centerz="8" radius="1">
 		<monster name="Akatsuki" x="0" y="-1" z="8" spawntime="10" />
