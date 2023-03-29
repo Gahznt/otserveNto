@@ -20,7 +20,7 @@
 	</flags>
 	<attacks>
 		<attack name="melee" interval="3000" min="-400" max="-600"/>
-		<attack name="purplekamui" interval="2500" chance="1000" range="1" min="-60" max="-70">
+		<attack name="purplekamui" interval="2500" chance="1000" range="1" min="-300" max="-700">
 		</attack> 
 	</attacks>
 	<defenses armor="0" defense="0"/>
