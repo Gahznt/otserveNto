@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monster name="Renegade Shaolin" nameDescription="a renegade shaolin" race="blood" experience="120" speed="610" manacost="0">
-	<health now="7600" max="7600"/>
+	<health now="3200" max="3200"/>
 	<look type="325" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-350" max="-450"/>
-		<attack name="hyuugaeffect" interval="2000" chance="1000" range="1" min="-225" max="-275">
+		<attack name="melee" interval="3000" min="-800" max="-1200"/>
+		<attack name="hyuugaeffect" interval="2000" chance="1000" range="1" min="-1200" max="-1600">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>
