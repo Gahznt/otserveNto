@@ -2,7 +2,7 @@ local tempo = 60 -- tempo em segundos.
 local effect = {404} -- effect no player, caso queira apenas 1, basta remover os outros numeros.
      
 local ml = 30 -- quantos ira aumentar o skill de ML
-local skillfist = 0 -- quantos ira aumentar o skill de Fist
+local skillfist = 30 -- quantos ira aumentar o skill de Fist
 local skillsword = 0 -- quantos ira aumentar o skill de Sword
 local skillaxe = 0 -- quantos ira aumentar o skill de Axe
 local skillclub = 0 -- quantos ira aumentar o skill de Club
@@ -55,7 +55,7 @@ end
 if getPlayerStorageValue(cid, 111211) ~= 1 or getCreatureCondition(cid, CONDITION_REGENERATION, 1) == false then
     doCombat(cid, combat, var)
 	doPlayerSendTextMessage(cid,27,'+UP Buff.') 
-    doPlayerSay(cid, 'Susanoo!', TALKTYPE_ORANGE_1)
+    doPlayerSay(cid, 'Kaenjin!', TALKTYPE_ORANGE_1)
     tempo2 = 0
     while (tempo2 ~= (tempo*1000)) do
         addEvent(magicEffect11g27, tempo2, tempo2, tempo*1000, cid)

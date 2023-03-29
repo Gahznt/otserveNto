@@ -19541,8 +19541,16 @@
 		<!-- <attribute key="description" value="Torne-se um Jinchuriki da Biju Shichibi. ( Use para liberar um novo jutsu )" /> -->
 		<!-- <attribute key="weight" value="1000" /> -->
 	<!-- </item> -->
-	<item id="10579" article="a" name="X">
-		<attribute key="weight" value="175" />
+	<item id="3310" article="a" name="mud stain">
+		<attribute key="floorchange" value="down" />
+	</item>
+	<item id="12661" article="a" name="power pole">
+	</item>
+	<item id="12662" article="a" name="power pole">
+	</item>
+	<item id="12663" article="a" name="power pole">
+	</item>
+	<item id="12664" article="a" name="power pole">
 	</item>
 	<item id="10580" article="a" name="X" >
 		<attribute key="weight" value="132" />
