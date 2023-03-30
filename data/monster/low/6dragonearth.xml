@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Dragonearth" nameDescription="a dragonearth" race="blood" experience="325" speed="620" manacost="0">
-	<health now="18500" max="18500"/>
+<monster name="Dragonearth" nameDescription="a dragonearth" race="blood" experience="4670" speed="620" manacost="0">
+	<health now="6500" max="6500"/>
 	<look type="1447" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1000" min="-625" max="-650"/>
-		<attack name="bolachakra" interval="4000" chance="50" range="1" min="-480" max="-525">
+		<attack name="melee" interval="1000" min="-2600" max="-2900"/>
+		<attack name="bolachakra" interval="4000" chance="50" range="1" min="-2500" max="-2800">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>
