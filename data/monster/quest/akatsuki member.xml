@@ -23,7 +23,7 @@
 		<attack name="melee" interval="1000" min="-4200" max="-4600"/>
 			<attack name="blackfire" interval="4000" chance="1000" range="2" target="1" min="-4400" max="-4800">
 		</attack>
-			<attack name="earthshock" interval="6000" chance="1000" range="2" target="1" min="-450" max="-600">
+			<attack name="earthshock" interval="6000" chance="1000" range="2" target="1" min="-4200" max="-4800">
 		</attack>		
 	</attacks>
 	<defenses armor="0" defense="0">
