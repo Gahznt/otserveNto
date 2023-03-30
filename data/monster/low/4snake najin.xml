@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Snake Najin" nameDescription="a Snake Najin" race="blood" experience="75" speed="520" manacost="0">
+<monster name="Snake Najin" nameDescription="a Snake Najin" race="blood" experience="4670" speed="520" manacost="0">
 	<health now="6100" max="6100"/>
 	<look type="1444" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-300" max="-350"/>
-		<attack name="veveneno" interval="2000" chance="1000" range="1" min="-150" max="-200">
+		<attack name="melee" interval="3000" min="-2100" max="-2600"/>
+		<attack name="veveneno" interval="2000" chance="1000" range="1" min="-2500" max="-2800">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>

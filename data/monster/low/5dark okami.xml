@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Dark Okami" nameDescription="a dark okami" race="blood" experience="160" speed="620" manacost="0">
-	<health now="9800" max="9800"/>
+<monster name="Dark Okami" nameDescription="a dark okami" race="blood" experience="4670" speed="620" manacost="0">
+	<health now="7000" max="7000"/>
 	<look type="1442" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-400" max="-450"/>
-		<attack name="bolachakra" interval="2000" chance="1000" range="1" min="-275" max="-325">
+		<attack name="melee" interval="3000" min="-2400" max="-2600"/>
+		<attack name="bolachakra" interval="2000" chance="1000" range="1" min="-3000" max="-3400">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>

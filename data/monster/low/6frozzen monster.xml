@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Frozzen Monster" nameDescription="a frozzen monster" race="blood" experience="250" speed="520" manacost="0">
-	<health now="14000" max="14000"/>
+<monster name="Frozzen Monster" nameDescription="a frozzen monster" race="blood" experience="3600" speed="520" manacost="0">
+	<health now="4000" max="4000"/>
 	<look type="208" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1000" min="-350" max="-400"/>
-		<attack name="gelogelo" interval="4000" chance="50" range="1" min="-375" max="-425">
+		<attack name="melee" interval="1000" min="-1900" max="-2300"/>
+		<attack name="gelogelo" interval="4000" chance="50" range="1" min="-2500" max="-2900">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>
