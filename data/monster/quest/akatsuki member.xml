@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Akatsuki Integrant" nameDescription="akatsuki integrant" race="blood" experience="300" speed="1000" manacost="0">
-	<health now="50000" max="50000"/>
+<monster name="Akatsuki Integrant" nameDescription="akatsuki integrant" race="blood" experience="6500" speed="1000" manacost="0">
+	<health now="10000" max="10000"/>
 	<look type="1423" head="0" body="94" legs="79" feet="79" corpse="2908"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="90" defense="0"/>
@@ -20,8 +20,8 @@
 	</flags>
 	
 	<attacks>
-		<attack name="melee" interval="1000" min="-400" max="-500"/>
-			<attack name="blackfire" interval="4000" chance="1000" range="2" target="1" min="-450" max="-600">
+		<attack name="melee" interval="1000" min="-4200" max="-4600"/>
+			<attack name="blackfire" interval="4000" chance="1000" range="2" target="1" min="-4400" max="-4800">
 		</attack>
 			<attack name="earthshock" interval="6000" chance="1000" range="2" target="1" min="-450" max="-600">
 		</attack>		

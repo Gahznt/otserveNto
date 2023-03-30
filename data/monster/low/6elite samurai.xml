@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Elite Samurai" nameDescription="a elite samurai" race="blood" experience="350" speed="620" manacost="0">
-	<health now="29400" max="29400"/>
+<monster name="Elite Samurai" nameDescription="a elite samurai" race="blood" experience="7200" speed="620" manacost="0">
+	<health now="15000" max="15000"/>
 	<look type="323" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1000" min="-500" max="-600"/>
-		<attack name="laminadas" interval="4000" chance="50" range="1" min="-425" max="-525">
+		<attack name="melee" interval="1000" min="-4400" max="-4900"/>
+		<attack name="laminadas" interval="4000" chance="50" range="1" min="-4600" max="-5300">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>

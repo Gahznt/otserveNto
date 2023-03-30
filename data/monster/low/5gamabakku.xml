@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Gamabakku" nameDescription="a Gamabakku" race="blood" experience="75" speed="620" manacost="0">
-	<health now="5000" max="5000"/>
+<monster name="Gamabakku" nameDescription="a Gamabakku" race="blood" experience="6500" speed="620" manacost="0">
+	<health now="8000" max="8000"/>
 	<look type="1449" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,7 +19,7 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1000" min="-100" max="-200"/>
+		<attack name="melee" interval="1000" min="-3600" max="-4000"/>
 	</attacks>
 	<defenses armor="0" defense="0"/>
 	<elements>
