@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Suiton Dragon" nameDescription="a suiton dragon" race="blood" experience="90" speed="420" manacost="0">
-	<health now="16600" max="16600"/>
+<monster name="Suiton Dragon" nameDescription="a suiton dragon" race="blood" experience="4670" speed="420" manacost="0">
+	<health now="6600" max="6600"/>
 	<look type="1079" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-350" max="-400"/>
-		<attack name="zeagua" interval="4000" chance="1000" range="1" min="-225" max="-1275">
+		<attack name="melee" interval="3000" min="-2200" max="-2800"/>
+		<attack name="zeagua" interval="4000" chance="1000" range="1" min="-2400" max="-3000">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>
