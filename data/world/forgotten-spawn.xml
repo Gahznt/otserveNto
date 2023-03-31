@@ -464,10 +464,18 @@
 		<monster name="Great Snake" x="3" y="2" z="7" spawntime="60" />
 		<monster name="Great Snake" x="-4" y="10" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="666" centery="769" centerz="7" radius="10" />
+	<spawn centerx="718" centery="772" centerz="7" radius="10" />
+	<spawn centerx="688" centery="775" centerz="7" radius="10" />
+	<spawn centerx="669" centery="788" centerz="7" radius="10" />
+	<spawn centerx="710" centery="792" centerz="7" radius="10" />
 	<spawn centerx="218" centery="797" centerz="7" radius="14">
 		<monster name="Great Snake" x="0" y="-10" z="7" spawntime="60" />
 		<monster name="Great Snake" x="-3" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="700" centery="798" centerz="7" radius="10" />
+	<spawn centerx="681" centery="805" centerz="7" radius="10" />
+	<spawn centerx="687" centery="822" centerz="7" radius="10" />
 	<spawn centerx="220" centery="828" centerz="7" radius="9">
 		<monster name="Severium Snake" x="5" y="-6" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-5" y="4" z="7" spawntime="60" />
@@ -481,20 +489,28 @@
 		<monster name="Severium Snake" x="-4" y="-7" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-3" y="4" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="741" centery="847" centerz="7" radius="10" />
+	<spawn centerx="675" centery="850" centerz="7" radius="10" />
 	<spawn centerx="210" centery="852" centerz="7" radius="9">
 		<monster name="Severium Snake" x="-4" y="-8" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="4" y="-1" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="8" y="5" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="655" centery="852" centerz="7" radius="10" />
 	<spawn centerx="257" centery="854" centerz="7" radius="9">
 		<monster name="Severium Snake" x="8" y="-9" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-7" y="-6" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="0" y="7" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="621" centery="855" centerz="7" radius="5" />
+	<spawn centerx="722" centery="855" centerz="7" radius="10" />
 	<spawn centerx="189" centery="864" centerz="7" radius="9">
 		<monster name="Severium Snake" x="3" y="-2" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="7" y="6" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="670" centery="865" centerz="7" radius="10" />
+	<spawn centerx="692" centery="865" centerz="7" radius="10" />
+	<spawn centerx="733" centery="867" centerz="7" radius="10" />
 	<spawn centerx="226" centery="870" centerz="7" radius="9">
 		<monster name="Severium Snake" x="0" y="-3" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="5" y="8" z="7" spawntime="60" />
@@ -504,19 +520,17 @@
 		<monster name="Severium Snake" x="8" y="1" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-1" y="6" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="643" centery="875" centerz="7" radius="5" />
 	<spawn centerx="247" centery="877" centerz="7" radius="9">
 		<monster name="Severium Snake" x="-1" y="-7" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="9" y="-1" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-7" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="675" centery="888" centerz="7" radius="10">
-		<monster name="Nukenin" x="4" y="-3" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="696" centery="888" centerz="7" radius="10">
-		<monster name="Nukenin" x="1" y="2" z="7" spawntime="60" />
-		<monster name="Shinobi of Sound" x="-2" y="6" z="7" spawntime="60" />
-		<monster name="Nukenin" x="2" y="8" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="649" centery="877" centerz="7" radius="2" />
+	<spawn centerx="709" centery="878" centerz="7" radius="10" />
+	<spawn centerx="703" centery="886" centerz="7" radius="10" />
+	<spawn centerx="677" centery="889" centerz="7" radius="10" />
+	<spawn centerx="656" centery="892" centerz="7" radius="2" />
 	<spawn centerx="1057" centery="893" centerz="7" radius="3">
 		<monster name="Ancient Creature" x="0" y="1" z="7" spawntime="45" />
 	</spawn>
@@ -542,15 +556,8 @@
 	<spawn centerx="1071" centery="902" centerz="7" radius="3">
 		<monster name="Ancient Creature" x="0" y="-1" z="7" spawntime="45" />
 	</spawn>
-	<spawn centerx="680" centery="906" centerz="7" radius="10">
-		<monster name="Nukenin" x="2" y="-2" z="7" spawntime="60" />
-		<monster name="Nukenin" x="-6" y="6" z="7" spawntime="60" />
-		<monster name="Nukenin" x="9" y="7" z="7" spawntime="60" />
-	</spawn>
-	<spawn centerx="701" centery="911" centerz="7" radius="10">
-		<monster name="Nukenin" x="3" y="-4" z="7" spawntime="60" />
-		<monster name="Nukenin" x="1" y="6" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="680" centery="906" centerz="7" radius="10" />
+	<spawn centerx="701" centery="911" centerz="7" radius="10" />
 	<spawn centerx="960" centery="917" centerz="7" radius="1">
 		<npc name="Minoru" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
@@ -573,10 +580,7 @@
 		<monster name="Gamaguren" x="-8" y="-2" z="7" spawntime="60" />
 		<monster name="Gamaguren" x="0" y="6" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="689" centery="927" centerz="7" radius="10">
-		<monster name="Nukenin" x="-6" y="-6" z="7" spawntime="60" />
-		<monster name="Nukenin" x="3" y="0" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="689" centery="927" centerz="7" radius="10" />
 	<spawn centerx="204" centery="928" centerz="7" radius="9">
 		<monster name="Gamaguren" x="5" y="-4" z="7" spawntime="60" />
 		<monster name="Gamaguren" x="-6" y="0" z="7" spawntime="60" />
@@ -601,10 +605,7 @@
 		<monster name="Sound Shinobi" x="-6" y="-3" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="2" y="12" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="696" centery="950" centerz="7" radius="10">
-		<monster name="Shinobi of Sound" x="-2" y="-9" z="7" spawntime="60" />
-		<monster name="Renegade" x="-3" y="-2" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="696" centery="950" centerz="7" radius="10" />
 	<spawn centerx="1288" centery="950" centerz="7" radius="10">
 		<monster name="Beezer" x="3" y="-2" z="7" spawntime="60" />
 		<monster name="Beezer" x="-1" y="9" z="7" spawntime="60" />
@@ -667,9 +668,7 @@
 		<monster name="Sand cros" x="3" y="-2" z="7" spawntime="60" />
 		<monster name="Sand cros" x="-5" y="5" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="678" centery="968" centerz="7" radius="10">
-		<monster name="Renegade" x="4" y="1" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="678" centery="968" centerz="7" radius="10" />
 	<spawn centerx="1357" centery="968" centerz="7" radius="1">
 		<npc name="Staminer" x="0" y="1" z="7" spawntime="60" />
 	</spawn>
@@ -713,9 +712,7 @@
 		<monster name="Thief" x="1" y="0" z="7" spawntime="45" />
 		<monster name="Thief" x="-2" y="1" z="7" spawntime="45" />
 	</spawn>
-	<spawn centerx="683" centery="986" centerz="7" radius="10">
-		<monster name="Renegade" x="4" y="1" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="683" centery="986" centerz="7" radius="10" />
 	<spawn centerx="171" centery="987" centerz="7" radius="9">
 		<monster name="Sand Sc2" x="5" y="-3" z="7" spawntime="60" />
 		<monster name="Sand Sc2" x="-6" y="-2" z="7" spawntime="60" />
@@ -812,10 +809,7 @@
 		<monster name="Bee Swarm" x="-2" y="-1" z="7" spawntime="45" />
 		<monster name="Bee Swarm" x="2" y="2" z="7" spawntime="45" />
 	</spawn>
-	<spawn centerx="693" centery="1017" centerz="7" radius="10">
-		<monster name="Renegade" x="1" y="-8" z="7" spawntime="60" />
-		<monster name="Renegade" x="-2" y="2" z="7" spawntime="60" />
-	</spawn>
+	<spawn centerx="693" centery="1017" centerz="7" radius="10" />
 	<spawn centerx="936" centery="1021" centerz="7" radius="3">
 		<monster name="Snake" x="2" y="-1" z="7" spawntime="45" />
 		<monster name="Snake" x="-1" y="2" z="7" spawntime="45" />
