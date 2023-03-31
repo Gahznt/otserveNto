@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Gamahiro" nameDescription="a gamahiro" race="blood" experience="200" speed="420" manacost="0">
-	<health now="15200" max="15200"/>
+<monster name="Gamahiro" nameDescription="a gamahiro" race="blood" experience="6500" speed="420" manacost="0">
+	<health now="10000" max="10000"/>
 	<look type="1450" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-400" max="-500"/>
-		<attack name="bolachakra" interval="5000" chance="1000" range="1" min="-750" max="-1000">
+		<attack name="melee" interval="3000" min="-3800" max="-4200"/>
+		<attack name="bolachakra" interval="5000" chance="1000" range="1" min="-3700" max="-4300">
 		</attack>
 		<attack name="shurikenlyze" interval="16000" chance="1000" range="6" min="-1000" max="-2000">
 		</attack>

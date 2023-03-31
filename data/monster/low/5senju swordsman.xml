@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Senju Swordsman" nameDescription="a senju swordsman" race="blood" experience="160" speed="620" manacost="0">
-	<health now="3800" max="3800"/>
+<monster name="Senju Swordsman" nameDescription="a senju swordsman" race="blood" experience="6500" speed="620" manacost="0">
+	<health now="8500" max="8500"/>
 	<look type="1037" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-265" max="-285"/>
-		<attack name="zespadinha" interval="2000" chance="1000" range="1" min="-265" max="-285">
+		<attack name="melee" interval="3000" min="-3900" max="-4500"/>
+		<attack name="zespadinha" interval="2000" chance="1000" range="1" min="-4200" max="-5400">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>

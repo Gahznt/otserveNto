@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Senju Soldiers" nameDescription="a senju soldier" race="blood" experience="260" speed="720" manacost="0">
-	<health now="17800" max="17800"/>
+<monster name="Senju Soldier" nameDescription="a senju soldier" race="blood" experience="6500" speed="720" manacost="0">
+	<health now="8500" max="8500"/>
 	<look type="1039" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="1000" min="-400" max="-425"/>
-		<attack name="socochakra" interval="4000" chance="50" range="1" min="-500" max="-750">
+		<attack name="melee" interval="1000" min="-3900" max="-4500"/>
+		<attack name="socochakra" interval="4000" chance="50" range="1" min="-4200" max="-5400">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>

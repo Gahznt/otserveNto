@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Giant Axeman" nameDescription="a giant axeman" race="blood" experience="190" speed="320" manacost="0">
-	<health now="12400" max="12400"/>
+<monster name="Giant Axeman" nameDescription="a giant axeman" race="blood" experience="6500" speed="320" manacost="0">
+	<health now="15000" max="15000"/>
 	<look type="605" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
 	<strategy attack="100" defense="0"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-500" max="-750"/>
-		<attack name="bolachakra" interval="5000" chance="1000" range="1" min="-1000" max="-1250">
+		<attack name="melee" interval="3000" min="-2500" max="-3100"/>
+		<attack name="bolachakra" interval="5000" chance="1000" range="1" min="-3000" max="-3400">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>

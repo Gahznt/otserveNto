@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Serpent" nameDescription="a serpent" race="blood" experience="180" speed="620" manacost="0">
+<monster name="Serpent" nameDescription="a serpent" race="blood" experience="6800" speed="620" manacost="0">
 	<health now="10000" max="10000"/>
 	<look type="1069" head="113" body="120" legs="114" feet="132" corpse="2908"/>
 	<targetchange interval="5000" chance="20"/>
@@ -19,8 +19,8 @@
 		<flag passive="0" />
 	</flags>
 	<attacks>
-		<attack name="melee" interval="3000" min="-450" max="-500"/>
-		<attack name="zcocobra" interval="2000" chance="1000" range="1" min="-275" max="-300">
+		<attack name="melee" interval="3000" min="-3600" max="-4200"/>
+		<attack name="zcocobra" interval="2000" chance="1000" range="1" min="-4000" max="-5000">
 		</attack>
 	</attacks>
 	<defenses armor="0" defense="0"/>
