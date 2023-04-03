@@ -15852,10 +15852,11 @@
 		<attribute key="description" value="The creamy cheese makes a great combination with spicy peppers." />
 		<attribute key="weight" value="650" />
 	</item>
-	<item id="9999" article="a" name="blessed steak">
-		<attribute key="description" value="It's nicely decorated with plums and pumpkin." />
+	<item id="9999" article="a" name="Chakra Soldier Pill">
+		<attribute key="description" value="Ração Militar - Regenere seu chakra por completo." />
 		<attribute key="weight" value="950" />
 	</item>
+
 	<item id="10000" article="a" name="carrot cake">
 		<attribute key="description" value="This spicy-sweet cake will probably put you into a sugar rush." />
 		<attribute key="weight" value="680" />

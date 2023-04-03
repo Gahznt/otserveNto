@@ -3,7 +3,7 @@ function onCastSpell(cid, var)
 
     if doCreatureAddMana(cid, -mana) then
         if doPlayerAddSpentMana(cid, mana) then
-            doSendMagicEffect(getCreaturePosition(cid), 14)
+            doSendMagicEffect(getCreaturePosition(cid), 13)
             return false
         else
             doCreatureAddMana(cid, mana)
