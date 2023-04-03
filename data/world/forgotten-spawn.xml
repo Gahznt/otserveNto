@@ -10,6 +10,33 @@
 		<monster name="Giant Fear" x="-1" y="3" z="4" spawntime="60" />
 		<monster name="Giant Fear" x="-10" y="6" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="1082" centery="903" centerz="4" radius="4">
+		<monster name="Dark Shaolin" x="2" y="-1" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="2" y="0" z="4" spawntime="768" />
+		<monster name="Dark Shaolin" x="0" y="1" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1092" centery="904" centerz="4" radius="4">
+		<monster name="Dark Shaolin" x="-1" y="-3" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="1" y="1" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="1" y="4" z="4" spawntime="768" />
+	</spawn>
+	<spawn centerx="1090" centery="911" centerz="4" radius="4">
+		<monster name="Dark Shaolin" x="3" y="-2" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="-3" y="0" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="-2" y="0" z="4" spawntime="768" />
+		<monster name="Dark Shaolin" x="3" y="0" z="4" spawntime="768" />
+		<monster name="Dark Shaolin" x="-2" y="1" z="4" spawntime="768" />
+		<monster name="Dark Shaolin" x="3" y="1" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="-4" y="3" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="3" y="3" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="1085" centery="912" centerz="4" radius="4">
+		<monster name="Dark Shaolin" x="-2" y="-4" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="-1" y="-2" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="-1" y="-1" z="4" spawntime="768" />
+		<monster name="Dark Shaolin" x="-2" y="2" z="4" spawntime="60" />
+		<monster name="Dark Shaolin" x="0" y="2" z="4" spawntime="768" />
+	</spawn>
 	<spawn centerx="943" centery="984" centerz="4" radius="2">
 		<monster name="Strong Thief" x="-1" y="-1" z="4" spawntime="45" />
 		<monster name="Strong Thief" x="-1" y="0" z="4" spawntime="45" />
@@ -32,19 +59,91 @@
 		<monster name="Shinobi Skys" x="-3" y="-1" z="5" spawntime="60" />
 		<monster name="Renegade" x="1" y="-1" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="811" centery="867" centerz="5" radius="4">
+		<monster name="Bocune" x="-1" y="-2" z="5" spawntime="60" />
+		<monster name="Bocune" x="4" y="3" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="657" centery="873" centerz="5" radius="14">
 		<monster name="Giant Fear" x="2" y="-4" z="5" spawntime="60" />
 		<monster name="Giant Fear" x="-13" y="9" z="5" spawntime="60" />
 		<monster name="Giant Fear" x="2" y="13" z="5" spawntime="60" />
 	</spawn>
+	<spawn centerx="804" centery="874" centerz="5" radius="4">
+		<monster name="Bocune" x="3" y="-2" z="5" spawntime="60" />
+		<monster name="Bocune" x="-2" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="822" centery="874" centerz="5" radius="4">
+		<monster name="Bocune" x="-3" y="-2" z="5" spawntime="60" />
+		<monster name="Bocune" x="1" y="-2" z="5" spawntime="60" />
+		<monster name="Bocune" x="1" y="0" z="5" spawntime="768" />
+		<monster name="Bocune" x="1" y="1" z="5" spawntime="60" />
+		<monster name="Bocune" x="4" y="4" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="827" centery="880" centerz="5" radius="4">
+		<monster name="Bocune" x="3" y="-1" z="5" spawntime="60" />
+		<monster name="Bocune" x="-2" y="2" z="5" spawntime="60" />
+		<monster name="Bocune" x="2" y="3" z="5" spawntime="60" />
+		<monster name="Bocune" x="3" y="3" z="5" spawntime="768" />
+	</spawn>
+	<spawn centerx="792" centery="887" centerz="5" radius="4">
+		<monster name="Bocune" x="3" y="-1" z="5" spawntime="60" />
+		<monster name="Bocune" x="-1" y="2" z="5" spawntime="768" />
+		<monster name="Bocune" x="0" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="823" centery="891" centerz="5" radius="4">
+		<monster name="Bocune" x="2" y="-2" z="5" spawntime="60" />
+		<monster name="Bocune" x="-3" y="1" z="5" spawntime="60" />
+		<monster name="Bocune" x="2" y="1" z="5" spawntime="60" />
+		<monster name="Bocune" x="0" y="3" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="638" centery="895" centerz="5" radius="14">
 		<monster name="Giant Fear" x="-1" y="4" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="1065" centery="897" centerz="5" radius="3">
-		<monster name="Ancient Creature" x="-1" y="-2" z="5" spawntime="45" />
-		<monster name="Ancient Creature" x="2" y="-1" z="5" spawntime="45" />
-		<monster name="Ancient Creature" x="-1" y="1" z="5" spawntime="45" />
-		<monster name="Ancient Creature" x="3" y="1" z="5" spawntime="45" />
+		<monster name="Dark Shaolin" x="0" y="-2" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="2" y="-1" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="-2" y="0" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="2" y="1" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="0" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="788" centery="900" centerz="5" radius="4" />
+	<spawn centerx="815" centery="904" centerz="5" radius="4">
+		<monster name="Bocune" x="1" y="-2" z="5" spawntime="60" />
+		<monster name="Bocune" x="3" y="0" z="5" spawntime="60" />
+		<monster name="Bocune" x="-2" y="3" z="5" spawntime="60" />
+		<monster name="Bocune" x="2" y="3" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1084" centery="904" centerz="5" radius="4">
+		<monster name="Dark Shaolin" x="3" y="-3" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="-2" y="-2" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="-4" y="2" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="0" y="2" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="-4" y="3" z="5" spawntime="768" />
+		<monster name="Dark Shaolin" x="0" y="3" z="5" spawntime="768" />
+		<monster name="Dark Shaolin" x="3" y="3" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="0" y="4" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1091" centery="911" centerz="5" radius="4">
+		<monster name="Dark Shaolin" x="0" y="-4" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="2" y="-3" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="-1" y="-2" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="-4" y="0" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="-4" y="3" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="1" y="3" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="789" centery="912" centerz="5" radius="4">
+		<monster name="Bocune" x="-1" y="-2" z="5" spawntime="60" />
+		<monster name="Bocune" x="-3" y="0" z="5" spawntime="60" />
+		<monster name="Bocune" x="3" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1083" centery="912" centerz="5" radius="4">
+		<monster name="Dark Shaolin" x="-2" y="-2" z="5" spawntime="60" />
+		<monster name="Dark Shaolin" x="0" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="805" centery="913" centerz="5" radius="4">
+		<monster name="Bocune" x="-3" y="-2" z="5" spawntime="60" />
+		<monster name="Bocune" x="3" y="0" z="5" spawntime="60" />
+		<monster name="Bocune" x="0" y="2" z="5" spawntime="60" />
 	</spawn>
 	<spawn centerx="1216" centery="921" centerz="5" radius="5">
 		<monster name="Gamaguren" x="4" y="-5" z="5" spawntime="60" />
@@ -53,6 +152,14 @@
 	<spawn centerx="1234" centery="923" centerz="5" radius="5">
 		<monster name="Gamaguren" x="-3" y="-2" z="5" spawntime="60" />
 		<monster name="Gamaguren" x="5" y="5" z="5" spawntime="10" />
+	</spawn>
+	<spawn centerx="756" centery="928" centerz="5" radius="4">
+		<monster name="Unknown Shinobi" x="-1" y="-2" z="5" spawntime="768" />
+		<monster name="Unknown Shinobi" x="0" y="-2" z="5" spawntime="768" />
+		<monster name="Unknown Shinobi" x="-1" y="-1" z="5" spawntime="768" />
+		<monster name="Unknown Shinobi" x="0" y="-1" z="5" spawntime="768" />
+		<monster name="Unknown Shinobi" x="-1" y="0" z="5" spawntime="768" />
+		<monster name="Unknown Shinobi" x="0" y="0" z="5" spawntime="768" />
 	</spawn>
 	<spawn centerx="1231" centery="943" centerz="5" radius="5">
 		<monster name="Gamaguren" x="4" y="-3" z="5" spawntime="10" />
@@ -142,27 +249,168 @@
 		<monster name="Gedou Kay" x="2" y="2" z="6" spawntime="60" />
 		<monster name="Gedou Kay" x="-6" y="6" z="6" spawntime="60" />
 	</spawn>
+	<spawn centerx="806" centery="857" centerz="6" radius="4">
+		<monster name="Bocune" x="3" y="-3" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="2" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="820" centery="858" centerz="6" radius="4">
+		<monster name="Bocune" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="1" z="6" spawntime="768" />
+		<monster name="Bocune" x="0" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="796" centery="861" centerz="6" radius="4">
+		<monster name="Bocune" x="3" y="-2" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="2" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="834" centery="865" centerz="6" radius="4">
+		<monster name="Bocune" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Bocune" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="810" centery="872" centerz="6" radius="4">
+		<monster name="Bocune" x="3" y="-2" z="6" spawntime="60" />
+		<monster name="Bocune" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Bocune" x="-2" y="2" z="6" spawntime="60" />
+		<monster name="Bocune" x="3" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="788" centery="873" centerz="6" radius="4">
+		<monster name="Bocune" x="1" y="-3" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="837" centery="876" centerz="6" radius="4">
+		<monster name="Bocune" x="-3" y="-2" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Bocune" x="-2" y="1" z="6" spawntime="60" />
+		<monster name="Bocune" x="1" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="781" centery="884" centerz="6" radius="4">
+		<monster name="Bocune" x="3" y="-1" z="6" spawntime="60" />
+		<monster name="Bocune" x="1" y="1" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="2" z="6" spawntime="768" />
+		<monster name="Bocune" x="-1" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="808" centery="884" centerz="6" radius="4">
+		<monster name="Bocune" x="0" y="-3" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Bocune" x="0" y="3" z="6" spawntime="60" />
+		<monster name="Bocune" x="1" y="3" z="6" spawntime="768" />
+	</spawn>
+	<spawn centerx="836" centery="890" centerz="6" radius="4">
+		<monster name="Bocune" x="-2" y="-2" z="6" spawntime="60" />
+		<monster name="Bocune" x="3" y="-1" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Bocune" x="1" y="2" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="1057" centery="894" centerz="6" radius="3">
-		<monster name="Ancient Creature" x="1" y="-1" z="6" spawntime="45" />
-		<monster name="Ancient Creature" x="-1" y="2" z="6" spawntime="45" />
+		<monster name="Renegade Shaolin" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="3" y="-1" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="-1" y="2" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="3" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1073" centery="894" centerz="6" radius="3">
-		<monster name="Ancient Creature" x="-3" y="-1" z="6" spawntime="45" />
-		<monster name="Ancient Creature" x="-1" y="2" z="6" spawntime="45" />
+		<monster name="Renegade Shaolin" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="-1" y="1" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="0" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="801" centery="896" centerz="6" radius="4">
+		<monster name="Bocune" x="-2" y="2" z="6" spawntime="60" />
+		<monster name="Bocune" x="0" y="2" z="6" spawntime="768" />
+		<monster name="Bocune" x="1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="902" centerz="6" radius="4">
+		<monster name="Bocune" x="-1" y="-3" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="1" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="2" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1057" centery="903" centerz="6" radius="3">
-		<monster name="Ancient Creature" x="0" y="-2" z="6" spawntime="45" />
-		<monster name="Ancient Creature" x="1" y="0" z="6" spawntime="45" />
+		<monster name="Renegade Shaolin" x="3" y="-2" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="0" y="1" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="2" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1071" centery="903" centerz="6" radius="3">
-		<monster name="Ancient Creature" x="1" y="-1" z="6" spawntime="45" />
-		<monster name="Ancient Creature" x="-2" y="1" z="6" spawntime="45" />
+		<monster name="Renegade Shaolin" x="-3" y="-3" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="1" y="0" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="2" y="0" z="6" spawntime="768" />
+	</spawn>
+	<spawn centerx="1083" centery="904" centerz="6" radius="4">
+		<monster name="Renegade Shaolin" x="2" y="-3" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="3" y="-3" z="6" spawntime="768" />
+		<monster name="Renegade Shaolin" x="-2" y="-2" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="2" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1091" centery="904" centerz="6" radius="4">
+		<monster name="Renegade Shaolin" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="2" y="1" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="-3" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="795" centery="907" centerz="6" radius="4">
+		<monster name="Bocune" x="2" y="1" z="6" spawntime="60" />
+		<monster name="Bocune" x="-2" y="2" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="2" z="6" spawntime="768" />
+	</spawn>
+	<spawn centerx="826" centery="908" centerz="6" radius="4">
+		<monster name="Bocune" x="-1" y="-3" z="6" spawntime="60" />
+		<monster name="Bocune" x="3" y="-3" z="6" spawntime="60" />
+		<monster name="Bocune" x="3" y="-2" z="6" spawntime="60" />
+		<monster name="Bocune" x="3" y="0" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1092" centery="911" centerz="6" radius="4">
+		<monster name="Renegade Shaolin" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="2" y="0" z="6" spawntime="768" />
+		<monster name="Renegade Shaolin" x="1" y="3" z="6" spawntime="768" />
+		<monster name="Renegade Shaolin" x="2" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1084" centery="912" centerz="6" radius="4">
+		<monster name="Renegade Shaolin" x="-2" y="-2" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Renegade Shaolin" x="-1" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1109" centery="913" centerz="6" radius="4">
+		<monster name="Dark Shaolin" x="-2" y="-2" z="6" spawntime="60" />
+		<monster name="Dark Shaolin" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Dark Shaolin" x="-1" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="779" centery="915" centerz="6" radius="4">
+		<monster name="Bocune" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Bocune" x="-1" y="3" z="6" spawntime="60" />
+		<monster name="Bocune" x="0" y="3" z="6" spawntime="768" />
+		<monster name="Bocune" x="2" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1181" centery="917" centerz="6" radius="5">
 		<monster name="Gamaguren" x="-3" y="1" z="6" spawntime="40" />
 	</spawn>
+	<spawn centerx="798" centery="920" centerz="6" radius="4">
+		<monster name="Bocune" x="-2" y="-3" z="6" spawntime="60" />
+		<monster name="Bocune" x="0" y="2" z="6" spawntime="60" />
+		<monster name="Bocune" x="0" y="3" z="6" spawntime="768" />
+		<monster name="Bocune" x="2" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="815" centery="921" centerz="6" radius="4">
+		<monster name="Bocune" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Bocune" x="2" y="-1" z="6" spawntime="768" />
+		<monster name="Bocune" x="-3" y="1" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="1203" centery="922" centerz="6" radius="5">
 		<monster name="Gamaguren" x="2" y="-4" z="6" spawntime="40" />
+	</spawn>
+	<spawn centerx="1105" centery="923" centerz="6" radius="4">
+		<monster name="Dark Shaolin" x="-1" y="-3" z="6" spawntime="60" />
+		<monster name="Dark Shaolin" x="3" y="0" z="6" spawntime="60" />
+		<monster name="Dark Shaolin" x="0" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1099" centery="929" centerz="6" radius="4">
+		<monster name="Dark Shaolin" x="-3" y="-1" z="6" spawntime="60" />
+		<monster name="Dark Shaolin" x="-2" y="-1" z="6" spawntime="768" />
+		<monster name="Dark Shaolin" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Dark Shaolin" x="-1" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="1189" centery="929" centerz="6" radius="5">
 		<monster name="Gamaguren" x="4" y="3" z="6" spawntime="30" />
@@ -171,16 +419,103 @@
 		<monster name="Gamaguren" x="5" y="4" z="6" spawntime="20" />
 		<monster name="Gamaguren" x="3" y="5" z="6" spawntime="30" />
 	</spawn>
+	<spawn centerx="753" centery="936" centerz="6" radius="4">
+		<monster name="Unknown Shinobi" x="-3" y="-4" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-3" y="-1" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="2" y="1" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-1" y="3" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="3" y="4" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="1199" centery="939" centerz="6" radius="5">
 		<monster name="Gamaguren" x="4" y="5" z="6" spawntime="40" />
 	</spawn>
+	<spawn centerx="777" centery="957" centerz="6" radius="4">
+		<monster name="Unknown Shinobi" x="1" y="-3" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="0" y="2" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="1" y="2" z="6" spawntime="768" />
+	</spawn>
 	<spawn centerx="1131" centery="959" centerz="6" radius="2" />
+	<spawn centerx="757" centery="960" centerz="6" radius="4">
+		<monster name="Unknown Shinobi" x="3" y="-3" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-3" y="-2" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="1" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="792" centery="961" centerz="6" radius="4">
+		<monster name="Unknown Shinobi" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="1" y="-1" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="3" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="781" centery="963" centerz="6" radius="4">
+		<monster name="Unknown Shinobi" x="2" y="-4" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="1" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="2" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="764" centery="964" centerz="6" radius="4">
+		<monster name="Unknown Shinobi" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="3" y="1" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-1" y="2" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="0" y="2" z="6" spawntime="768" />
+	</spawn>
 	<spawn centerx="1150" centery="964" centerz="6" radius="3" />
 	<spawn centerx="1139" centery="965" centerz="6" radius="3" />
+	<spawn centerx="792" centery="967" centerz="6" radius="4">
+		<monster name="Unknown Shinobi" x="-2" y="0" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="1" z="6" spawntime="768" />
+		<monster name="Unknown Shinobi" x="1" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="978" centery="968" centerz="6" radius="11">
+		<monster name="Puppet" x="-9" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="-7" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="-5" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="-3" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="-1" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="1" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="3" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="5" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="7" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="9" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="11" y="-6" z="6" spawntime="60" />
+		<monster name="Puppet" x="-9" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="-7" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="-5" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="-3" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="-1" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="1" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="3" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="5" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="7" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="9" y="6" z="6" spawntime="60" />
+		<monster name="Puppet" x="11" y="6" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="999" centery="969" centerz="6" radius="11">
+		<monster name="Puppet" x="-8" y="-7" z="6" spawntime="60" />
+		<monster name="Puppet" x="-6" y="-7" z="6" spawntime="60" />
+		<monster name="Puppet" x="-4" y="-7" z="6" spawntime="60" />
+		<monster name="Puppet" x="-2" y="-7" z="6" spawntime="60" />
+		<monster name="Puppet" x="8" y="-7" z="6" spawntime="60" />
+		<monster name="Puppet" x="8" y="-5" z="6" spawntime="60" />
+		<monster name="Puppet" x="8" y="-3" z="6" spawntime="60" />
+		<monster name="Puppet" x="8" y="-1" z="6" spawntime="60" />
+		<monster name="Puppet" x="8" y="1" z="6" spawntime="60" />
+		<monster name="Puppet" x="8" y="3" z="6" spawntime="60" />
+		<monster name="Puppet" x="-8" y="5" z="6" spawntime="60" />
+		<monster name="Puppet" x="-6" y="5" z="6" spawntime="60" />
+		<monster name="Puppet" x="-4" y="5" z="6" spawntime="60" />
+		<monster name="Puppet" x="-2" y="5" z="6" spawntime="60" />
+		<monster name="Puppet" x="8" y="5" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="942" centery="985" centerz="6" radius="2">
 		<monster name="Thief" x="0" y="-2" z="6" spawntime="45" />
 		<monster name="Thief" x="-2" y="0" z="6" spawntime="45" />
 		<monster name="Thief Shinobi" x="-1" y="2" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="740" centery="987" centerz="6" radius="4">
+		<monster name="Unknown Shinobi" x="-4" y="-4" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="2" y="-3" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="3" y="2" z="6" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="942" centery="992" centerz="6" radius="2">
 		<monster name="Thief Shinobi" x="-1" y="-1" z="6" spawntime="45" />
@@ -249,6 +584,11 @@
 	<spawn centerx="975" centery="1025" centerz="6" radius="2">
 		<monster name="Felon Assassin" x="1" y="-1" z="6" spawntime="45" />
 	</spawn>
+	<spawn centerx="1000" centery="1028" centerz="6" radius="4">
+		<monster name="Poison Spider" x="-3" y="-4" z="6" spawntime="60" />
+		<monster name="Poison Spider" x="3" y="-1" z="6" spawntime="60" />
+		<monster name="Poison Spider" x="-3" y="3" z="6" spawntime="60" />
+	</spawn>
 	<spawn centerx="963" centery="1030" centerz="6" radius="2">
 		<monster name="Armed Assassin" x="2" y="-1" z="6" spawntime="45" />
 		<monster name="Armed Assassin" x="0" y="1" z="6" spawntime="45" />
@@ -262,6 +602,23 @@
 	</spawn>
 	<spawn centerx="975" centery="1031" centerz="6" radius="2">
 		<monster name="Felon Assassin" x="0" y="-1" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="1007" centery="1036" centerz="6" radius="4">
+		<monster name="Poison Spider" x="2" y="-1" z="6" spawntime="60" />
+		<monster name="Poison Spider" x="-3" y="4" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1007" centery="1046" centerz="6" radius="4">
+		<monster name="Poison Spider" x="2" y="0" z="6" spawntime="60" />
+		<monster name="Poison Spider" x="-3" y="3" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1021" centery="1046" centerz="6" radius="4">
+		<monster name="Poison Spider" x="1" y="-2" z="6" spawntime="60" />
+		<monster name="Poison Spider" x="0" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="942" centery="1047" centerz="6" radius="3">
+		<monster name="Felon Assassin" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Felon Assassin" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Felon Assassin" x="0" y="1" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="967" centery="1048" centerz="6" radius="2">
 		<monster name="Assassin" x="-2" y="-1" z="6" spawntime="45" />
@@ -285,6 +642,18 @@
 		<monster name="Assassin" x="-1" y="-2" z="6" spawntime="45" />
 		<monster name="Assassin" x="1" y="0" z="6" spawntime="45" />
 		<monster name="Assassin" x="-2" y="1" z="6" spawntime="45" />
+	</spawn>
+	<spawn centerx="933" centery="1055" centerz="6" radius="3">
+		<monster name="Felon Assassin" x="-3" y="-1" z="6" spawntime="60" />
+		<monster name="Felon Assassin" x="-2" y="-1" z="6" spawntime="1024" />
+		<monster name="Felon Assassin" x="0" y="2" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="941" centery="1056" centerz="6" radius="3">
+		<monster name="Felon Assassin" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Felon Assassin" x="-2" y="1" z="6" spawntime="60" />
+		<monster name="Felon Assassin" x="2" y="1" z="6" spawntime="1024" />
+		<monster name="Felon Assassin" x="3" y="1" z="6" spawntime="60" />
+		<monster name="Felon Assassin" x="1" y="3" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="992" centery="1078" centerz="6" radius="3">
 		<monster name="Fire Master" x="2" y="-2" z="6" spawntime="45" />
@@ -484,53 +853,201 @@
 		<monster name="Great Snake" x="3" y="2" z="7" spawntime="60" />
 		<monster name="Great Snake" x="-4" y="10" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="666" centery="769" centerz="7" radius="10" />
-	<spawn centerx="718" centery="772" centerz="7" radius="10" />
-	<spawn centerx="688" centery="775" centerz="7" radius="10" />
-	<spawn centerx="669" centery="788" centerz="7" radius="10" />
-	<spawn centerx="710" centery="792" centerz="7" radius="10" />
+	<spawn centerx="666" centery="769" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-1" y="4" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-6" y="9" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="718" centery="772" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="-3" y="-5" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-4" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="5" y="3" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-7" y="7" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-6" y="7" z="7" spawntime="768" />
+	</spawn>
+	<spawn centerx="688" centery="775" centerz="7" radius="10">
+		<monster name="Cursed Young" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="9" y="3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-3" y="4" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="8" y="6" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-1" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="669" centery="788" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="-4" y="-8" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-3" y="-8" z="7" spawntime="768" />
+		<monster name="Cursed Kekkei" x="2" y="-5" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-4" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="6" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-10" y="6" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-9" y="7" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="0" y="9" z="7" spawntime="768" />
+		<monster name="Cursed Young" x="1" y="9" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-7" y="10" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-1" y="10" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="710" centery="792" centerz="7" radius="10">
+		<monster name="Cursed Young" x="5" y="-7" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-8" y="-6" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-6" y="-2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-8" y="1" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-10" y="3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="218" centery="797" centerz="7" radius="14">
 		<monster name="Great Snake" x="0" y="-10" z="7" spawntime="60" />
 		<monster name="Great Snake" x="-3" y="0" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="700" centery="798" centerz="7" radius="10" />
-	<spawn centerx="681" centery="805" centerz="7" radius="10" />
-	<spawn centerx="687" centery="822" centerz="7" radius="10" />
+	<spawn centerx="700" centery="798" centerz="7" radius="10">
+		<monster name="Cursed Young" x="-5" y="-4" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-6" y="-2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-10" y="0" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-9" y="0" z="7" spawntime="768" />
+	</spawn>
+	<spawn centerx="681" centery="805" centerz="7" radius="10">
+		<monster name="Cursed Young" x="-8" y="-5" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="8" y="-5" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-6" y="-2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="4" y="3" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="9" y="8" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="4" y="10" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="687" centery="822" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="9" y="-7" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-5" y="-4" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="10" y="-4" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="4" y="2" z="7" spawntime="768" />
+		<monster name="Cursed Young" x="-2" y="6" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="2" y="7" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-7" y="8" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="6" y="8" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="220" centery="828" centerz="7" radius="9">
 		<monster name="Severium Snake" x="5" y="-6" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-5" y="4" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="660" centery="828" centerz="7" radius="4">
+		<monster name="Cursed Young" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="255" centery="833" centerz="7" radius="9">
 		<monster name="Severium Snake" x="-5" y="-2" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="7" y="5" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="7" y="6" z="7" spawntime="768" />
 	</spawn>
+	<spawn centerx="704" centery="833" centerz="7" radius="4">
+		<monster name="Cursed Young" x="1" y="-1" z="7" spawntime="768" />
+		<monster name="Cursed Young" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="644" centery="836" centerz="7" radius="4">
+		<monster name="Cursed Young" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="611" centery="843" centerz="7" radius="4">
+		<monster name="Cursed Young" x="-2" y="-3" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="704" centery="845" centerz="7" radius="4">
+		<monster name="Cursed Young" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="1" y="2" z="7" spawntime="768" />
+		<monster name="Cursed Young" x="1" y="3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="235" centery="846" centerz="7" radius="9">
 		<monster name="Severium Snake" x="-4" y="-7" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-3" y="4" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="741" centery="847" centerz="7" radius="10" />
-	<spawn centerx="675" centery="850" centerz="7" radius="10" />
+	<spawn centerx="741" centery="847" centerz="7" radius="10">
+		<monster name="Cursed Young" x="-3" y="1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-9" y="3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-8" y="3" z="7" spawntime="768" />
+		<monster name="Cursed Young" x="-6" y="3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="3" y="4" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="675" centery="850" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="8" y="-9" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="7" y="-4" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="8" y="6" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-5" y="8" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="210" centery="852" centerz="7" radius="9">
 		<monster name="Severium Snake" x="-4" y="-8" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="4" y="-1" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="8" y="5" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="655" centery="852" centerz="7" radius="10" />
+	<spawn centerx="655" centery="852" centerz="7" radius="10">
+		<monster name="Cursed Young" x="3" y="-6" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="6" y="-5" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-7" y="-3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-2" y="5" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="5" y="6" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="257" centery="854" centerz="7" radius="9">
 		<monster name="Severium Snake" x="8" y="-9" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-7" y="-6" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="0" y="7" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="621" centery="855" centerz="7" radius="5" />
-	<spawn centerx="722" centery="855" centerz="7" radius="10" />
+	<spawn centerx="621" centery="855" centerz="7" radius="5">
+		<monster name="Cursed Young" x="-3" y="-4" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-2" y="-4" z="7" spawntime="768" />
+		<monster name="Cursed Kekkei" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="4" y="-3" z="7" spawntime="768" />
+		<monster name="Cursed Young" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="3" y="0" z="7" spawntime="768" />
+	</spawn>
+	<spawn centerx="722" centery="855" centerz="7" radius="10">
+		<monster name="Cursed Young" x="-8" y="-9" z="7" spawntime="768" />
+		<monster name="Cursed Young" x="-8" y="-8" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="3" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="639" centery="862" centerz="7" radius="4">
+		<monster name="Cursed Young" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="189" centery="864" centerz="7" radius="9">
 		<monster name="Severium Snake" x="3" y="-2" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="7" y="6" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="670" centery="865" centerz="7" radius="10" />
-	<spawn centerx="692" centery="865" centerz="7" radius="10" />
-	<spawn centerx="733" centery="867" centerz="7" radius="10" />
+	<spawn centerx="670" centery="865" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="1" y="-4" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="10" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="4" y="3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-7" y="4" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="0" y="4" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="2" y="8" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-7" y="9" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="692" centery="865" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="-6" y="-8" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="4" y="-8" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="8" y="-7" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="8" y="-4" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="9" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="7" y="1" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-3" y="3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-3" y="8" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="4" y="9" z="7" spawntime="768" />
+		<monster name="Cursed Young" x="4" y="10" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="733" centery="867" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="4" y="-8" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="7" y="-5" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="8" y="-3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-5" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-7" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="619" centery="869" centerz="7" radius="4">
+		<monster name="Cursed Young" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="226" centery="870" centerz="7" radius="9">
 		<monster name="Severium Snake" x="0" y="-3" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="5" y="8" z="7" spawntime="60" />
@@ -540,22 +1057,66 @@
 		<monster name="Severium Snake" x="8" y="1" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-1" y="6" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="643" centery="875" centerz="7" radius="5" />
+	<spawn centerx="643" centery="875" centerz="7" radius="5">
+		<monster name="Cursed Young" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="1" y="4" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="247" centery="877" centerz="7" radius="9">
 		<monster name="Severium Snake" x="-1" y="-7" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="9" y="-1" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-7" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="649" centery="877" centerz="7" radius="2" />
-	<spawn centerx="709" centery="878" centerz="7" radius="10" />
-	<spawn centerx="703" centery="886" centerz="7" radius="10" />
-	<spawn centerx="677" centery="889" centerz="7" radius="10" />
-	<spawn centerx="656" centery="892" centerz="7" radius="2" />
+	<spawn centerx="709" centery="878" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="-2" y="10" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="624" centery="879" centerz="7" radius="4">
+		<monster name="Cursed Young" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="0" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="703" centery="886" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="-7" y="-7" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-6" y="-3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-9" y="0" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-5" y="3" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="2" y="6" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="677" centery="889" centerz="7" radius="10">
+		<monster name="Cursed Young" x="-1" y="-8" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-5" y="-6" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="7" y="-4" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="10" y="4" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-4" y="6" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="3" y="8" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="-4" y="9" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="638" centery="890" centerz="7" radius="4">
+		<monster name="Cursed Kekkei" x="0" y="-3" z="7" spawntime="768" />
+		<monster name="Cursed Kekkei" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="656" centery="892" centerz="7" radius="2">
+		<monster name="Cursed Young" x="0" y="-1" z="7" spawntime="768" />
+		<monster name="Cursed Young" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Cursed Young" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="0" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1057" centery="893" centerz="7" radius="3">
-		<monster name="Ancient Creature" x="0" y="1" z="7" spawntime="45" />
+		<monster name="Shaolin" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Shaolin" x="0" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1071" centery="894" centerz="7" radius="3">
-		<monster name="Ancient Creature" x="0" y="0" z="7" spawntime="45" />
+		<monster name="Shaolin" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Shaolin" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1089" centery="894" centerz="7" radius="4">
+		<monster name="Shaolin" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Shaolin" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Shaolin" x="2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="206" centery="895" centerz="7" radius="9">
 		<monster name="Severium Snake" x="6" y="5" z="7" spawntime="60" />
@@ -563,23 +1124,82 @@
 	<spawn centerx="945" centery="895" centerz="7" radius="1">
 		<npc name="Cozinheiro" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="1079" centery="895" centerz="7" radius="4">
+		<monster name="Shaolin" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Shaolin" x="3" y="-1" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="239" centery="897" centerz="7" radius="9">
 		<monster name="Severium Snake" x="0" y="-9" z="7" spawntime="60" />
 		<monster name="Severium Snake" x="-1" y="5" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="1064" centery="898" centerz="7" radius="3">
-		<monster name="Ancient Creature" x="-3" y="2" z="7" spawntime="45" />
+	<spawn centerx="1064" centery="899" centerz="7" radius="3">
+		<monster name="Shaolin" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Shaolin" x="1" y="-2" z="7" spawntime="768" />
+		<monster name="Shaolin" x="2" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1057" centery="901" centerz="7" radius="3">
-		<monster name="Ancient Creature" x="-1" y="-1" z="7" spawntime="45" />
+		<monster name="Shaolin" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Shaolin" x="0" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1071" centery="902" centerz="7" radius="3">
-		<monster name="Ancient Creature" x="0" y="-1" z="7" spawntime="45" />
+		<monster name="Shaolin" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-2" y="1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="680" centery="906" centerz="7" radius="10" />
-	<spawn centerx="701" centery="911" centerz="7" radius="10" />
+	<spawn centerx="1083" centery="905" centerz="7" radius="4">
+		<monster name="Shaolin" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Shaolin" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="680" centery="906" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="10" y="0" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-6" y="1" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-5" y="7" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="3" y="10" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1100" centery="906" centerz="7" radius="4">
+		<monster name="Shaolin" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Shaolin" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-1" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1056" centery="910" centerz="7" radius="4">
+		<monster name="Shaolin" x="4" y="-4" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Shaolin" x="1" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="701" centery="911" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="5" y="-9" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="1" y="-8" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-6" y="0" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-8" y="10" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1089" centery="911" centerz="7" radius="4">
+		<monster name="Shaolin" x="3" y="-4" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-4" y="1" z="7" spawntime="60" />
+		<monster name="Shaolin" x="0" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1074" centery="914" centerz="7" radius="4">
+		<monster name="Shaolin" x="-3" y="-4" z="7" spawntime="60" />
+		<monster name="Shaolin" x="3" y="-3" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Shaolin" x="3" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1119" centery="915" centerz="7" radius="4">
+		<monster name="Dark Shaolin" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Dark Shaolin" x="3" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="960" centery="917" centerz="7" radius="1">
 		<npc name="Minoru" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1060" centery="922" centerz="7" radius="4">
+		<monster name="Shaolin" x="-3" y="-3" z="7" spawntime="60" />
+		<monster name="Shaolin" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Shaolin" x="-1" y="2" z="7" spawntime="60" />
+		<monster name="Shaolin" x="3" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="230" centery="925" centerz="7" radius="9">
 		<monster name="Gamaguren" x="-7" y="6" z="7" spawntime="60" />
@@ -600,25 +1220,87 @@
 		<monster name="Gamaguren" x="-8" y="-2" z="7" spawntime="60" />
 		<monster name="Gamaguren" x="0" y="6" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="689" centery="927" centerz="7" radius="10" />
+	<spawn centerx="689" centery="927" centerz="7" radius="10">
+		<monster name="Cursed Kekkei" x="1" y="-9" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="-7" y="-6" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="7" y="-2" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="3" y="2" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="0" y="3" z="7" spawntime="60" />
+		<monster name="Cursed Kekkei" x="6" y="3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="204" centery="928" centerz="7" radius="9">
 		<monster name="Gamaguren" x="5" y="-4" z="7" spawntime="60" />
 		<monster name="Gamaguren" x="-6" y="0" z="7" spawntime="60" />
 		<monster name="Gamaguren" x="8" y="4" z="7" spawntime="60" />
 		<monster name="Gamaguren" x="-5" y="7" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="755" centery="929" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1114" centery="929" centerz="7" radius="4">
+		<monster name="Dark Shaolin" x="-3" y="0" z="7" spawntime="60" />
+		<monster name="Dark Shaolin" x="-2" y="0" z="7" spawntime="768" />
+		<monster name="Dark Shaolin" x="2" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="275" centery="931" centerz="7" radius="9">
 		<monster name="Gamaguren" x="-8" y="-8" z="7" spawntime="60" />
 		<monster name="Gamaguren" x="4" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="772" centery="931" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="0" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="784" centery="933" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="753" centery="936" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="1" z="7" spawntime="768" />
+		<monster name="Unknown Shinobi" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1103" centery="936" centerz="7" radius="4">
+		<monster name="Dark Shaolin" x="4" y="0" z="7" spawntime="60" />
+		<monster name="Dark Shaolin" x="-1" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="244" centery="939" centerz="7" radius="9">
 		<monster name="Gamaguren" x="-5" y="2" z="7" spawntime="60" />
 		<monster name="Gamaguren" x="9" y="2" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="774" centery="943" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="767" centery="945" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="1" y="0" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1238" centery="945" centerz="7" radius="12">
 		<monster name="Sound Shinobi" x="-7" y="1" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="9" y="3" z="7" spawntime="60" />
 		<monster name="Beezer" x="-7" y="10" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="692" centery="946" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="3" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="947" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="3" y="1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="796" centery="948" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-3" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1206" centery="949" centerz="7" radius="12">
 		<monster name="Beezer" x="4" y="-7" z="7" spawntime="60" />
@@ -638,11 +1320,24 @@
 		<monster name="Trainer" x="3" y="10" z="7" spawntime="60" />
 		<monster name="Trainer" x="8" y="10" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="709" centery="953" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="-3" y="-3" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="3" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="723" centery="953" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="-1" y="-2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="3" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1362" centery="954" centerz="7" radius="1">
 		<npc name="Etsuko" x="-1" y="0" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1398" centery="956" centerz="7" radius="1">
 		<npc name="Cidadao Ezaquiel" x="-1" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="692" centery="957" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="0" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="940" centery="958" centerz="7" radius="1">
 		<npc name="Iruka Sensei" x="0" y="0" z="7" spawntime="60" />
@@ -665,8 +1360,16 @@
 	<spawn centerx="1354" centery="960" centerz="7" radius="1">
 		<npc name="Yasuzo" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="675" centery="961" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-2" y="1" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1366" centery="961" centerz="7" radius="1">
 		<npc name="Hiromi" x="0" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="886" centery="962" centerz="7" radius="4">
+		<monster name="Dark Wolf" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Dark Wolf" x="2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1359" centery="962" centerz="7" radius="1">
 		<npc name="Cidada Mileide" x="0" y="1" z="7" spawntime="60" />
@@ -678,6 +1381,7 @@
 	</spawn>
 	<spawn centerx="862" centery="964" centerz="7" radius="3">
 		<monster name="Snake" x="1" y="-2" z="7" spawntime="45" />
+		<monster name="Dark Wolf" x="0" y="-1" z="7" spawntime="60" />
 		<monster name="Snake" x="-2" y="1" z="7" spawntime="45" />
 	</spawn>
 	<spawn centerx="1373" centery="964" centerz="7" radius="1">
@@ -686,6 +1390,31 @@
 	<spawn centerx="229" centery="965" centerz="7" radius="7">
 		<monster name="Sand cros" x="3" y="-2" z="7" spawntime="60" />
 		<monster name="Sand cros" x="-5" y="5" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="713" centery="965" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-3" y="2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="1" y="4" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="977" centery="968" centerz="7" radius="9">
+		<monster name="Puppet" x="-8" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="-6" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="-4" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="-2" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="0" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="2" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="4" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="6" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="8" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="-8" y="6" z="7" spawntime="60" />
+		<monster name="Puppet" x="-6" y="6" z="7" spawntime="60" />
+		<monster name="Puppet" x="-4" y="6" z="7" spawntime="60" />
+		<monster name="Puppet" x="-2" y="6" z="7" spawntime="60" />
+		<monster name="Puppet" x="0" y="6" z="7" spawntime="60" />
+		<monster name="Puppet" x="2" y="6" z="7" spawntime="60" />
+		<monster name="Puppet" x="4" y="6" z="7" spawntime="60" />
+		<monster name="Puppet" x="6" y="6" z="7" spawntime="60" />
+		<monster name="Puppet" x="8" y="6" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1357" centery="968" centerz="7" radius="1">
 		<npc name="Staminer" x="0" y="1" z="7" spawntime="60" />
@@ -696,6 +1425,33 @@
 		<monster name="Sand cros" x="11" y="3" z="7" spawntime="60" />
 		<monster name="Sand cros" x="-5" y="7" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="850" centery="970" centerz="7" radius="4">
+		<monster name="Dark Wolf" x="0" y="0" z="7" spawntime="60" />
+		<monster name="Dark Wolf" x="-3" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="997" centery="970" centerz="7" radius="11">
+		<monster name="Puppet" x="-10" y="-8" z="7" spawntime="60" />
+		<monster name="Puppet" x="-8" y="-8" z="7" spawntime="60" />
+		<monster name="Puppet" x="-6" y="-8" z="7" spawntime="60" />
+		<monster name="Puppet" x="-4" y="-8" z="7" spawntime="60" />
+		<monster name="Puppet" x="-2" y="-8" z="7" spawntime="60" />
+		<monster name="Puppet" x="0" y="-8" z="7" spawntime="60" />
+		<monster name="Puppet" x="2" y="-8" z="7" spawntime="60" />
+		<monster name="Puppet" x="10" y="-8" z="7" spawntime="60" />
+		<monster name="Puppet" x="10" y="-6" z="7" spawntime="60" />
+		<monster name="Puppet" x="10" y="-4" z="7" spawntime="60" />
+		<monster name="Puppet" x="10" y="-2" z="7" spawntime="60" />
+		<monster name="Puppet" x="10" y="0" z="7" spawntime="60" />
+		<monster name="Puppet" x="10" y="2" z="7" spawntime="60" />
+		<monster name="Puppet" x="-10" y="4" z="7" spawntime="60" />
+		<monster name="Puppet" x="-8" y="4" z="7" spawntime="60" />
+		<monster name="Puppet" x="-6" y="4" z="7" spawntime="60" />
+		<monster name="Puppet" x="-4" y="4" z="7" spawntime="60" />
+		<monster name="Puppet" x="-2" y="4" z="7" spawntime="60" />
+		<monster name="Puppet" x="0" y="4" z="7" spawntime="60" />
+		<monster name="Puppet" x="2" y="4" z="7" spawntime="60" />
+		<monster name="Puppet" x="10" y="4" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1323" centery="970" centerz="7" radius="10">
 		<monster name="Beezer" x="-9" y="-5" z="7" spawntime="60" />
 		<npc name="Cidadao Mizael" x="-1" y="7" z="7" spawntime="60" />
@@ -704,25 +1460,70 @@
 	<spawn centerx="245" centery="971" centerz="7" radius="7">
 		<monster name="Sand cros" x="-1" y="-4" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="725" centery="971" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="1" y="0" z="7" spawntime="768" />
+		<monster name="Thief Shinobi" x="0" y="3" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="666" centery="972" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="770" centery="973" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="2" y="3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1295" centery="974" centerz="7" radius="10">
 		<monster name="Beezer" x="-2" y="-2" z="7" spawntime="60" />
 		<monster name="Beezer" x="9" y="0" z="7" spawntime="60" />
 		<monster name="Beezer" x="-5" y="6" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="784" centery="976" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="1" y="-2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1259" centery="976" centerz="7" radius="6">
 		<monster name="Beezer" x="1" y="-2" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="-3" y="3" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="757" centery="977" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="3" y="-2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="2" y="0" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1365" centery="978" centerz="7" radius="1">
 		<npc name="Turist" x="1" y="0" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="693" centery="979" centerz="7" radius="10">
+		<monster name="Thief Shinobi" x="-7" y="-6" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="1" y="-5" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="5" y="-3" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="4" y="1" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="6" y="4" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-4" y="5" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="8" y="5" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-6" y="6" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-4" y="8" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="8" y="8" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1356" centery="979" centerz="7" radius="1">
 		<npc name="Cidadao Nitiel" x="1" y="-1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="842" centery="980" centerz="7" radius="4">
+		<monster name="Dark Wolf" x="2" y="3" z="7" spawntime="60" />
+		<monster name="Dark Wolf" x="-3" y="4" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="273" centery="983" centerz="7" radius="14">
 		<monster name="Sound Shinobi" x="-3" y="-11" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="-6" y="-1" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="6" y="9" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="713" centery="983" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="-3" y="-1" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="2" y="2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-2" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="942" centery="985" centerz="7" radius="2">
 		<monster name="Thief" x="-1" y="-2" z="7" spawntime="45" />
@@ -730,7 +1531,6 @@
 		<monster name="Thief" x="1" y="0" z="7" spawntime="45" />
 		<monster name="Thief" x="-2" y="1" z="7" spawntime="45" />
 	</spawn>
-	<spawn centerx="683" centery="986" centerz="7" radius="10" />
 	<spawn centerx="171" centery="987" centerz="7" radius="9">
 		<monster name="Sand Sc2" x="5" y="-3" z="7" spawntime="60" />
 		<monster name="Sand Sc2" x="-6" y="-2" z="7" spawntime="60" />
@@ -748,6 +1548,18 @@
 		<monster name="Beezer" x="3" y="-10" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="6" y="-3" z="7" spawntime="60" />
 		<monster name="Sound Shinobi" x="-6" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="756" centery="989" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="-1" y="-3" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="0" y="4" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="787" centery="989" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="1" y="-1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="0" z="7" spawntime="768" />
+		<monster name="Unknown Shinobi" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="3" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="951" centery="990" centerz="7" radius="2">
 		<monster name="Elite Thief" x="0" y="-1" z="7" spawntime="60" />
@@ -767,10 +1579,15 @@
 		<monster name="Beezer" x="9" y="2" z="7" spawntime="60" />
 		<npc name="Minoru" x="10" y="3" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="831" centery="993" centerz="7" radius="4">
+		<monster name="Dark Wolf" x="-3" y="-4" z="7" spawntime="60" />
+		<monster name="Dark Wolf" x="3" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="896" centery="995" centerz="7" radius="3">
 		<monster name="Bee Swarm" x="1" y="-2" z="7" spawntime="45" />
 		<monster name="Bee Swarm" x="2" y="-2" z="7" spawntime="45" />
 		<monster name="Bee Swarm" x="0" y="1" z="7" spawntime="45" />
+		<monster name="Dark Wolf" x="2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="216" centery="996" centerz="7" radius="14">
 		<monster name="Sand cros" x="8" y="-13" z="7" spawntime="60" />
@@ -784,17 +1601,35 @@
 		<monster name="Sand cros" x="-1" y="4" z="7" spawntime="60" />
 		<monster name="Sand cros" x="-11" y="13" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="781" centery="997" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-2" y="2" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1323" centery="997" centerz="7" radius="2" />
 	<spawn centerx="82" centery="998" centerz="7" radius="9">
 		<monster name="Karasu" x="-8" y="-6" z="7" spawntime="60" />
 		<monster name="Karasu" x="8" y="-6" z="7" spawntime="60" />
 		<monster name="Sand Sc2" x="7" y="3" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="713" centery="998" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="1" y="2" z="7" spawntime="768" />
+		<monster name="Thief Shinobi" x="0" y="3" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="873" centery="999" centerz="7" radius="1">
 		<npc name="Boss Mizuki" x="0" y="-1" z="7" spawntime="30" />
 	</spawn>
 	<spawn centerx="1399" centery="999" centerz="7" radius="1">
 		<npc name="Cidadao Zalaeu" x="-1" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="765" centery="1000" centerz="7" radius="4">
+		<monster name="Unknown Shinobi" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Unknown Shinobi" x="1" y="1" z="7" spawntime="768" />
+		<monster name="Unknown Shinobi" x="2" y="1" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="1387" centery="1002" centerz="7" radius="1">
 		<npc name="Cidadao Arnold" x="0" y="-1" z="7" spawntime="60" />
@@ -807,11 +1642,30 @@
 		<monster name="Sand Sc2" x="3" y="-4" z="7" spawntime="60" />
 		<monster name="Sand Sc2" x="-8" y="8" z="7" spawntime="60" />
 	</spawn>
+	<spawn centerx="679" centery="1003" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="0" y="-3" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="3" y="0" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="696" centery="1003" centerz="7" radius="4">
+		<monster name="Thief Shinobi" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Thief Shinobi" x="2" y="2" z="7" spawntime="60" />
+	</spawn>
 	<spawn centerx="1026" centery="1004" centerz="7" radius="3" />
+	<spawn centerx="841" centery="1005" centerz="7" radius="4">
+		<monster name="Dark Wolf" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Dark Wolf" x="0" y="2" z="7" spawntime="60" />
+		<monster name="Dark Wolf" x="1" y="2" z="7" spawntime="768" />
+	</spawn>
 	<spawn centerx="195" centery="1009" centerz="7" radius="9">
 		<monster name="Sand Sc2" x="5" y="-6" z="7" spawntime="60" />
 		<monster name="Sand Sc2" x="-6" y="4" z="7" spawntime="60" />
 		<monster name="Sand Sc2" x="7" y="7" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="892" centery="1012" centerz="7" radius="4">
+		<monster name="Dark Wolf" x="2" y="-2" z="7" spawntime="60" />
+		<monster name="Dark Wolf" x="1" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="265" centery="1013" centerz="7" radius="14">
 		<monster name="Sand cros" x="10" y="-7" z="7" spawntime="60" />
@@ -827,10 +1681,17 @@
 		<monster name="Bee Swarm" x="-2" y="-1" z="7" spawntime="45" />
 		<monster name="Bee Swarm" x="2" y="2" z="7" spawntime="45" />
 	</spawn>
-	<spawn centerx="693" centery="1017" centerz="7" radius="10" />
+	<spawn centerx="849" centery="1018" centerz="7" radius="4">
+		<monster name="Dark Wolf" x="-3" y="-3" z="7" spawntime="60" />
+		<monster name="Dark Wolf" x="3" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="685" centery="1021" centerz="7" radius="10" />
 	<spawn centerx="936" centery="1021" centerz="7" radius="3">
 		<monster name="Snake" x="2" y="-1" z="7" spawntime="45" />
 		<monster name="Snake" x="-1" y="2" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="886" centery="1022" centerz="7" radius="4">
+		<monster name="Dark Wolf" x="-3" y="3" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="956" centery="1024" centerz="7" radius="2">
 		<monster name="Assassin" x="2" y="-1" z="7" spawntime="45" />
@@ -838,6 +1699,10 @@
 	</spawn>
 	<spawn centerx="977" centery="1024" centerz="7" radius="2">
 		<monster name="Assassin" x="-1" y="0" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="871" centery="1025" centerz="7" radius="4">
+		<monster name="Dark Wolf" x="-2" y="0" z="7" spawntime="60" />
+		<monster name="Dark Wolf" x="3" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="73" centery="1027" centerz="7" radius="9">
 		<monster name="Karasu" x="-9" y="-9" z="7" spawntime="60" />
@@ -911,11 +1776,26 @@
 		<monster name="Assassin" x="-2" y="-1" z="7" spawntime="45" />
 		<monster name="Assassin" x="1" y="2" z="7" spawntime="45" />
 	</spawn>
-	<spawn centerx="1010" centery="1051" centerz="7" radius="3">
-		<monster name="Snake" x="0" y="2" z="7" spawntime="45" />
+	<spawn centerx="1012" centery="1053" centerz="7" radius="3">
+		<monster name="Snake" x="-2" y="0" z="7" spawntime="45" />
 	</spawn>
 	<spawn centerx="965" centery="1054" centerz="7" radius="2">
 		<monster name="Assassin" x="-1" y="-1" z="7" spawntime="45" />
+	</spawn>
+	<spawn centerx="933" centery="1055" centerz="7" radius="3">
+		<monster name="Felon Assassin" x="2" y="-3" z="7" spawntime="60" />
+		<monster name="Felon Assassin" x="-2" y="-1" z="7" spawntime="60" />
+		<monster name="Felon Assassin" x="1" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="939" centery="1055" centerz="7" radius="3">
+		<monster name="Felon Assassin" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Felon Assassin" x="-1" y="1" z="7" spawntime="60" />
+		<monster name="Felon Assassin" x="3" y="1" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="949" centery="1055" centerz="7" radius="3">
+		<monster name="Felon Assassin" x="0" y="-1" z="7" spawntime="60" />
+		<monster name="Felon Assassin" x="2" y="-1" z="7" spawntime="60" />
+		<monster name="Felon Assassin" x="2" y="2" z="7" spawntime="60" />
 	</spawn>
 	<spawn centerx="80" centery="1056" centerz="7" radius="9">
 		<monster name="Sand Sc2" x="-1" y="-6" z="7" spawntime="60" />
@@ -1430,13 +2310,74 @@
 	<spawn centerx="1103" centery="1537" centerz="7" radius="1">
 		<npc name="Minoru" x="1" y="-1" z="7" spawntime="60" />
 	</spawn>
-	<spawn centerx="666" centery="769" centerz="8" radius="10" />
-	<spawn centerx="718" centery="772" centerz="8" radius="10" />
-	<spawn centerx="688" centery="775" centerz="8" radius="10" />
-	<spawn centerx="669" centery="788" centerz="8" radius="10" />
-	<spawn centerx="710" centery="792" centerz="8" radius="10" />
-	<spawn centerx="700" centery="798" centerz="8" radius="10" />
-	<spawn centerx="681" centery="805" centerz="8" radius="10" />
+	<spawn centerx="666" centery="769" centerz="8" radius="10">
+		<monster name="Elite Cursed" x="2" y="-1" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="10" y="1" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-1" y="3" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="8" y="3" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="9" y="3" z="8" spawntime="768" />
+		<monster name="Elite Cursed" x="-1" y="4" z="8" spawntime="768" />
+		<monster name="Elite Cursed" x="-6" y="9" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-3" y="9" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="718" centery="772" centerz="8" radius="10">
+		<monster name="Elite Cursed" x="-5" y="-5" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-3" y="-4" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-2" y="0" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="3" y="1" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="1" y="2" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="5" y="4" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-10" y="5" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-7" y="7" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="688" centery="775" centerz="8" radius="10">
+		<monster name="Elite Cursed" x="-6" y="0" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-3" y="2" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="10" y="2" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="9" y="4" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-2" y="5" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="9" y="7" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-1" y="9" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="669" centery="788" centerz="8" radius="10">
+		<monster name="Strong Cursed" x="-5" y="-8" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-3" y="-6" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="0" y="-4" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="6" y="-4" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-6" y="-2" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-1" y="-2" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-6" y="-1" z="8" spawntime="768" />
+		<monster name="Elite Cursed" x="4" y="3" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-9" y="7" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-8" y="9" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="1" y="9" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="1" y="10" z="8" spawntime="768" />
+		<monster name="Elite Cursed" x="2" y="10" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="710" centery="792" centerz="8" radius="10">
+		<monster name="Elite Cursed" x="6" y="-7" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="3" y="-2" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-3" y="0" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-2" y="0" z="8" spawntime="768" />
+		<monster name="Strong Cursed" x="-6" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="700" centery="798" centerz="8" radius="10">
+		<monster name="Strong Cursed" x="-8" y="-3" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-1" y="-3" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-10" y="-1" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-9" y="-1" z="8" spawntime="768" />
+	</spawn>
+	<spawn centerx="681" centery="805" centerz="8" radius="10">
+		<monster name="Strong Cursed" x="8" y="-8" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-7" y="-5" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="-9" y="-4" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-7" y="-4" z="8" spawntime="768" />
+		<monster name="Strong Cursed" x="7" y="-4" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-4" y="-2" z="8" spawntime="60" />
+		<monster name="Strong Cursed" x="-3" y="-2" z="8" spawntime="768" />
+		<monster name="Elite Cursed" x="-2" y="-2" z="8" spawntime="60" />
+		<monster name="Elite Cursed" x="8" y="-2" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="504" centery="1040" centerz="8" radius="9">
 		<monster name="Karasu" x="5" y="-5" z="8" spawntime="60" />
 		<monster name="Karasu" x="-9" y="9" z="8" spawntime="60" />
