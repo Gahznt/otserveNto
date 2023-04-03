@@ -2,19 +2,19 @@ local combat1 = createCombatObject()
 setCombatParam(combat1, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat1, COMBAT_PARAM_EFFECT, 298)
 setCombatParam(combat1, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -12.0, -1600, -12.0, -1800)
+setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -3.0, -600, -3.0, -800)
 
 local combat2 = createCombatObject()
 setCombatParam(combat2, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat2, COMBAT_PARAM_EFFECT, 298)
 setCombatParam(combat2, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatFormula(combat2, COMBAT_FORMULA_LEVELMAGIC, -12.0, -1600, -12.0, -1800)
+setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -3.0, -600, -3.0, -800)
 
 local combat3 = createCombatObject()
 setCombatParam(combat3, COMBAT_PARAM_HITCOLOR, COLOR_TEAL)
 setCombatParam(combat3, COMBAT_PARAM_EFFECT, 298)
 setCombatParam(combat3, COMBAT_PARAM_TYPE, COMBAT_PHYSICALDAMAGE)
-setCombatFormula(combat3, COMBAT_FORMULA_LEVELMAGIC, -12.0, -1600, -12.0, -1800)
+setCombatFormula(combat1, COMBAT_FORMULA_LEVELMAGIC, -3.0, -600, -3.0, -800)
 
 
 arr1 = {
@@ -82,11 +82,11 @@ doPlayerSendChannelMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Aguarde ".. exha
 return false
 end
 local parameters = { cid = cid, var = var}
-addEvent(onCastSpell1, 400, parameters)
-addEvent(onCastSpell2, 800, parameters)
-addEvent(onCastSpell3, 1200, parameters)
-addEvent(onCastSpell2, 1600, parameters)
-addEvent(onCastSpell1, 1800, parameters)
+onCastSpell1(parameters)
+addEvent(onCastSpell2, 400, parameters)
+addEvent(onCastSpell3, 800, parameters)
+addEvent(onCastSpell2, 1200, parameters)
+addEvent(onCastSpell1, 1600, parameters)
 exhaustion.set(cid, storage, waittime)
 return TRUE
 end 

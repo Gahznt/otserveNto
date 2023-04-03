@@ -26,6 +26,8 @@
 	<instant name="Izanagi" words="Izanagi" aggressive="0" prem="1" selftarget="1" lvl="400" mana="1000"  exhaustion="1" event="script" value="izanagi.lua">
 		<vocation id="19"/> <vocation id="1910"/> <vocation id="1920"/> <vocation id="1930"/> <vocation id="1940"/>
 	</instant>
+	<instant name="Chakra Down" words="chakra down" lvl="1" mana="0" prem="0" aggressive= "0" exhaustion="1000" needlearn="0" blockwalls="1" enabled="1" event="script" value="suporte/chakradown.lua">
+	</instant>
 	<instant name="Reflect Gunbai" words="Reflect Gunbai" lvl="75" mana="1000" prem="0" aggressive="0" exhaustion="1" needlearn="1" event="script" value="especiais/reflectrob.lua">
 	</instant>
 	<instant name="For Support" words="Jump" lvl="1" mana="0" prem="0" aggressive="0" exhaustion="3000" params="1" needlearn="0" event="function" value="Levitate">
